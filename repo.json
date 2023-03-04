@@ -33,9 +33,11 @@
         "Icon": null,
         "Category": null,
         "Caption": "Change iMessage Lazer effect into TrollFace",
-        "Screenshot": "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large",
+        "Screenshot": [
+         "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large"
+        ],
         "Releases": [
-          {
+          
             "Version": "0.1", 
             "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
             "Description": ""
@@ -64,7 +66,7 @@
       {
         "Name": "GonnaKillYaScreenTime(0.5.2Series)",
         "Description": "Kill ScreenTime",
-        "Author": "straight-tamago",
+        "Author": "ChromiumCandy",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
@@ -87,7 +89,7 @@
         "Icon": null,
         "Category": null,
         "Caption": "Change iMessage Spotlight effect into TrollFace",
-        "Screenshot": "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large",
+        "Screenshot": ["https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large"],
         "Releases": [
           {
             "Version": "0.2", 
