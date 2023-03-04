@@ -1,254 +1,107 @@
  {
-    "RepositoryName": "しまじろん",
-    "RepositoryDescription": "うーん",
-    "RepositoryAuthor": "straight-tamago",
-    "RepositoryIcon": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
-    "RepositoryWebsite": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
+    "RepositoryName": "皆行斎'sRepo",
+    "RepositoryDescription": "くろみうむ飴のレポジトリだよ",
+    "RepositoryAuthor": "ChromiumCandy",
+    "RepositoryIcon": "https://pbs.twimg.com/media/FqBawI1akAAUD_g?format=jpg&name=small",
+    "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
     "RepositoryContents": [
       {
-        "Name": "Color ControlCenter Module",
-        "Description": "コントロールセンターのモジュールの色を設定",
-        "Author": "straight-tamago",
-        "AuthorWebsite": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ",
-        "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1080122006495825962/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
+        "Name": "TrollBalloon",
+        "Description": "Change iMessage Balloon effects into TrollFace",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Icon": null,
         "Category": null,
-        "Caption": "コントロールセンターのモジュールの色を設定",
+        "Caption": "Troll your iMesssage effects!",
         "Screenshot": [
-          "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png",
-          "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png",
-          "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png"
+          "https://pbs.twimg.com/media/FqA7todaEAEo_5K?format=jpg&name=large"
         ],
         "Releases": [
           {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
-            "Description": ""
-          },
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
             "Description": ""
           }
         ],
-        "PackageID": "com.straight-tamago.Color_ControlCenterModule"
+        "PackageID": "com.ChromiumCandy.TrollBalloon"
       },
       {
-        "Name": "Color ControlCenter Module Fill",
-        "Description": "コントロールセンターのモジュールの基本色を設定",
-        "Author": "roeegh",
-        "AuthorWebsite": null,
+        "Name": "TrollLazer",
+        "Description": "Troll your iMessage effects!",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
         "Icon": null,
         "Category": null,
-        "Caption": null,
+        "Caption": "Change iMessage Lazer effect into TrollFace",
+        "Screenshot": "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large",
+        "Releases": [
+          {
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.TrollLazer"
+      },
+      {
+        "Name": "GonnaKillYaScreenTime(0.6Series)",
+        "Description": "Kill ScreenTime",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Icon": null,
+        "Category": null,
+        "Caption": "Destroy ScreenTimeAgent Prefs",
         "Screenshot": null,
         "Releases": [
           {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
-            "Description": ""
+            "Version": "0.6.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079447779618869430/GonnaKillYaScreenTimeV0.6.2.vdf",
+            "Description": "設定を破壊するのに重点を置いたシリーズ"
           }
         ],
-        "PackageID": "com.straight-tamago.Color_ControlCenterModuleFill"
+        "PackageID": "com.ChromiumCandy.GKYST6series"
       },
       {
-        "Name": "Color ControlCenter Background",
-        "Description": "コントロールセンターの背景色を設定",
+        "Name": "GonnaKillYaScreenTime(0.5.2Series)",
+        "Description": "Kill ScreenTime",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
-        "Caption": null,
+        "Caption": "Destroy ScreenTimeAgent daemon",
         "Screenshot": null,
         "Releases": [
           {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
-            "Description": ""
+            "Version": "0.5.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079389913541247026/GonnaKillYaScreenTimeV0.5.2.vdf",
+            "Description": "Daemonのキルに特化したほう"
           }
         ],
-        "PackageID": "com.straight-tamago.Color_ControlCenterBackground"
+        "PackageID": "com.ChromiumCandy.GKYST52series"
       },
       {
-        "Name": "Color ControlCenter Icon&Text",
-        "Description": "コントロールセンターのアイコンやテキストの色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon&Text.vdf",
-        "Author": "straight-tamago",
+        "Name": "TrollSpotlight",
+        "Description": "Trolly Trolly Trolly ya dude",
+        "Author": "ChromiumCandy",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
-        "Caption": null,
-        "Screenshot": null,
+        "Caption": "Change iMessage Spotlight effect into TrollFace",
+        "Screenshot": "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large",
         "Releases": [
           {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon.vdf",
-            "Description": ""
+            "Version": "0.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079492295205847093/TrollSpotlight_v0.2.vdf",
+            "Description": "画像の歪み修正"
           }
-        ],
-        "PackageID": "com.straight-tamago.Color_ControlCenterIcon&Text"
-      },
-      {
-        "Name": "ControlCenter Module Size",
-        "Description": "コントロールセンターのモジュールの大きさを変更",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
           {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
-            "Description": ""
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079429515098476605/TrollSpotlight.vdf",
+            "Description": "1st release"
           }
         ],
-        "PackageID": "com.straight-tamago.ControlCenter_Module_Size"
-      },
-      {
-        "Name": "Wallpaper ControlCenter",
-        "Description": "コントロールセンターに壁紙を設定",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Wallpaper_ControlCenter"
-      },
-      {
-        "Name": "Color Notification Center Text",
-        "Description": "通知センターのテキストの色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
-        "Author": "roeegh",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Color_NotificationCenterText"
-      },
-      {
-        "Name": "Color Dock",
-        "Description": "Dockの色を自由に設定できます。",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Color_Dock"
-      },
-      {
-        "Name": "Disable Homebar",
-        "Description": "ホームバーを非表示にします。",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Disable_Homebar"
-      },
-      {
-        "Name": "DialSound Piano",
-        "Description": "ダイアル音をピアノにするよ",
-        "Author": "Coolwcat",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.DialSound_Piano"
-      },
-      {
-        "Name": "Customize Settings App",
-        "Description": "設定画面をカスタマイズします。",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Settings.plist"
-      },
-      {
-        "Name": "Enable Internal",
-        "Description": "システムをInternalモードに設定",
-        "Author": "yyyywaiwai",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.Enable_Internal"
-      },
-      {
-        "Name": "RespringCC Shortcut",
-        "Description": "別途RespringCCをインストールしておく必要あり",
-        "Author": "straight-tamago",
-        "AuthorWebsite": null,
-        "Icon": null,
-        "Category": null,
-        "Caption": null,
-        "Screenshot": null,
-        "Releases": [
-          {
-            "Version": "1.0", 
-            "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
-            "Description": ""
-          }
-        ],
-        "PackageID": "com.straight-tamago.RespringCC_Shortcut"
+        "PackageID": "com.ChromiumCandy.TrollSpotlight"
       }
+      
     ]
   }
