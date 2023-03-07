@@ -8,8 +8,15 @@
     {
       "Name": "TrollBalloon",
       "Description": "Change iMessage Balloon effects into TrollFace",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Troll your iMesssage effects!",
@@ -28,8 +35,15 @@
     {
       "Name": "TrollLazer",
       "Description": "Troll your iMessage effects!",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Change iMessage Lazer effect into TrollFace",
@@ -48,8 +62,15 @@
     {
       "Name": "GonnaKillYaScreenTime(0.6Series)",
       "Description": "Kill ScreenTime",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Destroy ScreenTimeAgent Prefs",
@@ -66,8 +87,15 @@
     {
       "Name": "GonnaKillYaScreenTime(0.5.2Series)",
       "Description": "Kill ScreenTime",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": null,
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Destroy ScreenTimeAgent daemon",
@@ -84,8 +112,16 @@
     {
       "Name": "TrollSpotlight",
       "Description": "Trolly Trolly Trolly ya dude",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": null,
+  
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Change iMessage Spotlight effect into TrollFace",
@@ -107,8 +143,15 @@
     {
       "Name": "GonnaKillYaWebContentFilter",
       "Description": "Kill ur fucking web filter",
-      "Author": "ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Author": {
+          "Label": "ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Kill ur fucking web filter",
@@ -125,8 +168,15 @@
     {
       "Name": "NoSwipeUpToOpen",
       "Description": "Remove the text",
-      "Author": "Kumiki & ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Author": {
+          "Label": "Kumiki & ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "Remove Swipe up to open text",
@@ -148,8 +198,16 @@
     {
       "Name": "iOS14StyleDNDmodule",
       "Description": "iOS14 style dnd module on CC",
-      "Author": "Kumiki & ChromiumCandy",
-      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+ 
+        "Author": {
+          "Label": "Kumiki & ChromiumCandy",
+          "Links": [
+            {
+              "Label": "ChromiumCandy",
+              "Link": "https://twitter.com/ChromiumCandy"
+            }
+          ]
+        },
       "Icon": null,
       "Category": null,
       "Caption": "The new dnd module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
