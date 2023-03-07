@@ -146,7 +146,7 @@
       "PackageID": "com.ChromiumCandy.NoSwipeUpToOpen"
     },
     {
-      "Name": "14DND",
+      "Name": "iOS14StyleDNDmodule",
       "Description": "iOS14 style dnd module on CC",
       "Author": "Kumiki & ChromiumCandy",
       "AuthorWebsite": "https://twitter.com/ChromiumCandy",
@@ -155,7 +155,12 @@
       "Caption": "The new dnd module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
       "Screenshot": ["https://cdn.discordapp.com/attachments/1079074514257838130/1082629070828875889/PNG.png"],
       "Releases": [
-      {
+        {        
+      "Version": "0.3",
+      "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
+      "Description": "Also hide the text when toggle is on (note : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2)"
+      },
+      {        
       "Version": "0.2",
       "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
       "Description": "Network module bug fix by Kumiki"
