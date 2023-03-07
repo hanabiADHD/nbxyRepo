@@ -158,7 +158,7 @@
         {        
       "Version": "0.3",
       "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
-      "Description": "Also hide the text when toggle is on (note : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2)"
+      "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
       },
       {        
       "Version": "0.2",
