@@ -203,8 +203,12 @@
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy (Main Dev)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label":"Kumiki (Path,Testing,Bug fixes)",
+                        "Link":"https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
