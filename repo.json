@@ -4,6 +4,7 @@
   "RepositoryAuthor": "ChromiumCandy",
   "RepositoryIcon": "https://pbs.twimg.com/media/FqBawI1akAAUD_g?format=jpg&name=small",
   "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
+  "DefaultHeaderImage": "https://pbs.twimg.com/media/Fqc0vjxagAAJCOL?format=jpg&name=large",
   "RepositoryContents": [
       {
           "Name": "TrollBalloon",
@@ -18,7 +19,7 @@
               ]
           },
           "Icon": null,
-        "HeaderImage": "https://pbs.twimg.com/media/Fqc0vjxagAAJCOL?format=jpg&name=large",
+          "HeaderImage": "https://pbs.twimg.com/media/Fqc0vjxagAAJCOL?format=jpg&name=large",
           "Category": null,
           "Caption": "Troll your iMesssage effects!",
           "Screenshot": [
