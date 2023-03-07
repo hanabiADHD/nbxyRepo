@@ -144,6 +144,29 @@
         }
       ],
       "PackageID": "com.ChromiumCandy.NoSwipeUpToOpen"
+    },
+    {
+      "Name": "14DND",
+      "Description": "iOS14 style dnd module on CC",
+      "Author": "Kumiki & ChromiumCandy",
+      "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+      "Icon": null,
+      "Category": null,
+      "Caption": "The new dnd module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+      "Screenshot": ["https://cdn.discordapp.com/attachments/1079074514257838130/1082629070828875889/PNG.png"],
+      "Releases": [
+      {
+      "Version": "0.2",
+      "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
+      "Description": "Network module bug fix by Kumiki"
+      },
+      {
+        "Version": "0.1",
+        "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
+        "Description": "First relaese by ChromiumCandy"
+        }
+      ],
+      "PackageID": "com.ChromiumCandy.14DND"
     }
   ]
 }
