@@ -251,6 +251,184 @@
               
           ],
           "PackageID": "com.ChromiumCandy.14DND"
+      },
+      {
+          "Name": "7G",
+          "Description": "Change 5G to 7G",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Change statusbar 5G text to 7G and others!",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.3.2",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083325889703583764/7G_v0.3.2.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.7G"
+      },
+      {
+          "Name": "RegionSwap",
+          "Description": "Swap ur region to Canada",
+          "Author": {
+              "Label": "yyyywaiwai & ChromiumCandy",
+              "Links": [
+                {
+                      "Label": "yyyywaiwai (Base Project)",
+                      "Link": "hhttps://twitter.com/yyyyyy_public"
+                  },
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083333397117681765/RegionSwapCanada.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.RegSwap"
+      },{
+          "Name": "PixelShutter",
+          "Description": "Change camera shutter to Pixel's",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Change camera shutter to Pixel's",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083333833895710730/PixelShutter.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.PixelShutter"
+      },{
+          "Name": "NoCameraSound",
+          "Description": "Bye bye noisy shutter sound",
+          "Author": {
+              "Label": "しまりん & ChromiumCandy",
+              "Links": [
+                {
+                      "Label": "しまりん(OriginalDev)",
+                      "Link": "https://twitter.com/straight_tamago"
+                  },
+                  {
+                      "Label": "ChromiumCandy (Porting to VDF)",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Destroy noisy annnoying cursed Shutter sound",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083335650910150666/NoCameraSound.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.NCS"
+      },{
+          "Name": "Twemoji",
+          "Description": "Twitter emoji",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Change Apple Emoji to Twemoji.Due to the file size, some of the display is broken. \nI'm looking for a collaborator to help me solve this problem.",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://mega.nz/file/42x1yZQT#4-0BcSkkpzdI25j_tJI1HRdJqoiCI2CjmVkYkBMn9ag",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.Twemoji"
+      },{
+          "Name": "Blobmoji",
+          "Description": "Blobmoji Emoji",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Swap Emoji to Blobmoji's",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://mega.nz/file/huRDHIQZ#OJ7gPf3CAfili6NDFKgfTZZcpbmfceQoH_ur3M_f8EM",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.Blobmoji"
+      },{
+          "Name": "NotoColourEmoji",
+          "Description": "Noto Colour Emoji",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Change Emoji to Noto Colour Emoji",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://mega.nz/file/d2oQESZR#ah-k75sLUFJqd29H9oSdK9C8T-ANN9KAla295kydvs4",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.NotoColorEmoji"
       }
   ]
 }
