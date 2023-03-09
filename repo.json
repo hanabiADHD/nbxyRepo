@@ -4,7 +4,7 @@
   "RepositoryAuthor": "ChromiumCandy",
   "RepositoryIcon": "https://pbs.twimg.com/media/FqBawI1akAAUD_g?format=jpg&name=small",
   "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
-  "DefaultHeaderImage": "https://pbs.twimg.com/media/Fqc0vjxagAAJCOL?format=jpg&name=large",
+  "DefaultHeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
   "RepositoryContents": [
       {
           "Name": "TrollBalloon",
@@ -130,16 +130,17 @@
               "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large"
           ],
           "Releases": [
+            {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079429515098476605/TrollSpotlight.vdf",
+                  "Description": "1st release"
+              },
               {
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079492295205847093/TrollSpotlight_v0.2.vdf",
                   "Description": "画像の歪み修正"
-              },
-              {
-                  "Version": "0.1",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079429515098476605/TrollSpotlight.vdf",
-                  "Description": "1st release"
               }
+              
           ],
           "PackageID": "com.ChromiumCandy.TrollSpotlight"
       },
@@ -188,16 +189,17 @@
           "Caption": "Remove Swipe up to open text",
           "Screenshot": null,
           "Releases": [
+            {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
+                  "Description": "First relaese by Kumiki"
+              },
               {
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
                   "Description": "english support added by ChromiumCandy"
-              },
-              {
-                  "Version": "0.1",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
-                  "Description": "First relaese by Kumiki"
               }
+              
           ],
           "PackageID": "com.ChromiumCandy.NoSwipeUpToOpen"
       },
@@ -217,28 +219,35 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
           "Category": null,
           "Caption": "The new dnd module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
           "Screenshot": [
-              "https://cdn.discordapp.com/attachments/1079074514257838130/1082629070828875889/PNG.png"
+              "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
+              "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
           ],
           "Releases": [
               {
-                  "Version": "0.3",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
-                  "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
+                  "Description": "First relaese by ChromiumCandy"
               },
               {
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
                   "Description": "Network module bug fix by Kumiki"
               },
+               {
+                  "Version": "0.3",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
+                  "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
+              },
               {
-                  "Version": "0.1",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
-                  "Description": "First relaese by ChromiumCandy"
+                  "Version": "0.",
+                  "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
+                  "Description": "Bug fix"
               }
+              
           ],
           "PackageID": "com.ChromiumCandy.14DND"
       }
