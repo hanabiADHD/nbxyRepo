@@ -266,7 +266,7 @@
           "Icon": null,
           "Category": null,
           "Caption": "Change statusbar 5G text to 7G and others!",
-          "Screenshot": null,
+          "Screenshot": ["https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large"],
           "Releases": [
               {
                   "Version": "0.3.2",
@@ -284,7 +284,7 @@
               "Links": [
                 {
                       "Label": "yyyywaiwai (Base Project)",
-                      "Link": "hhttps://twitter.com/yyyyyy_public"
+                      "Link": "https://twitter.com/yyyyyy_public"
                   },
                   {
                       "Label": "ChromiumCandy",
@@ -303,7 +303,7 @@
                   "Description": null
               }
           ],
-          "PackageID": "com.ChromiumCandy.RegSwap"
+          "PackageID": "com.yyyywaiwai.RegSwap"
       },{
           "Name": "PixelShutter",
           "Description": "Change camera shutter to Pixel's",
@@ -344,7 +344,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083390259192152094/3ADF0B29-04A6-4844-9007-335CDAECEE06.jpg",
           "Category": null,
           "Caption": "Destroy noisy annnoying cursed Shutter sound",
           "Screenshot": null,
@@ -355,7 +355,7 @@
                   "Description": null
               }
           ],
-          "PackageID": "com.ChromiumCandy.NCS"
+          "PackageID": "com.straight-tamago.NCS"
       },{
           "Name": "Twemoji",
           "Description": "Twitter emoji",
@@ -370,8 +370,10 @@
           },
           "Icon": null,
           "Category": null,
-          "Caption": "Change Apple Emoji to Twemoji.Due to the file size, some of the display is broken. \nI'm looking for a collaborator to help me solve this problem.",
-          "Screenshot": null,
+          "Caption": "Change Apple Emoji to Twemoji.\nDue to the file size restriction, some of them are broken. Any help to solve this issue would be thanked",
+          "Screenshot": [
+              "https://cdn.discordapp.com/attachments/813615730473304064/1083354259967443024/IMG_2105.png"
+          ],
           "Releases": [
               {
                   "Version": "0.1",
@@ -395,7 +397,7 @@
           "Icon": null,
           "Category": null,
           "Caption": "Swap Emoji to Blobmoji's",
-          "Screenshot": null,
+          "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1083354259321540699/IMG_2107.png"],
           "Releases": [
               {
                   "Version": "0.1",
