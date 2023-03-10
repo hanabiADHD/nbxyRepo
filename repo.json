@@ -423,7 +423,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083791785291165776/IMG_9173.jpg",
           "Category": null,
           "Caption": "Disabe CC & AppSwitcher blur",
           "Screenshot": null,
@@ -432,7 +432,12 @@
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083651766056398878/Clarity.vdf",
                   "Description": null
-              }
+              },
+              {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083790557828100096/Clearity_v0.2.vdf",
+                "Description": "HS folder supported"
+            }
           ],
           "PackageID": "com.ChromiumCandy.Clearity"
       },
