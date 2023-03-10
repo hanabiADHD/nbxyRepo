@@ -509,6 +509,31 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.Supervise"
+    },
+    {
+        "Name": "FreeTime",
+        "Description": "Safe & Real Screentime disabler",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
+        "Category": null,
+        "Caption": "Safe though only blocks usage limits",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083762574430044220/FreeTime.vdf",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.FreeTime"
     }
   ]
 }
