@@ -420,13 +420,18 @@
                   {
                       "Label": "ChromiumCandy",
                       "Link": "https://twitter.com/ChromiumCandy"
-                  }
+                  },
+                  {
+                    "Label": "しまりん(Path)",
+                    "Link": "https://twitter.com/straight_tamago"
+                }
               ]
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083791785291165776/IMG_9173.jpg",
           "Category": null,
           "Caption": "Disabe CC & AppSwitcher blur",
-          "Screenshot": null,
+          "Screenshot": ["https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
+        "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
           "Releases": [
               {
                   "Version": "0.1",
