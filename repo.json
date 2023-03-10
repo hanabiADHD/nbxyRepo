@@ -18,7 +18,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553454879932466/IMG_2268.png",
           "HeaderImage": "https://pbs.twimg.com/media/Fqc0vjxagAAJCOL?format=jpg&name=large",
           "Category": null,
           "Caption": "Troll your iMesssage effects!",
@@ -46,7 +46,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553455571996712/IMG_1699.png",
           "Category": null,
           "Caption": "Change iMessage Lazer effect into TrollFace",
           "Screenshot": [
@@ -62,56 +62,6 @@
           "PackageID": "com.ChromiumCandy.TrollLazer"
       },
       {
-          "Name": "GonnaKillYaScreenTime(0.6Series)",
-          "Description": "Kill ScreenTime",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": null,
-          "Category": null,
-          "Caption": "Destroy ScreenTimeAgent Prefs",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.6.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079447779618869430/GonnaKillYaScreenTimeV0.6.2.vdf",
-                  "Description": "設定を破壊するのに重点を置いたシリーズ"
-              }
-          ],
-          "PackageID": "com.ChromiumCandy.GKYST6series"
-      },
-      {
-          "Name": "GonnaKillYaScreenTime(0.5.2Series)",
-          "Description": "Kill ScreenTime",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": null,
-          "Category": null,
-          "Caption": "Destroy ScreenTimeAgent daemon",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.5.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079389913541247026/GonnaKillYaScreenTimeV0.5.2.vdf",
-                  "Description": "Daemonのキルに特化したほう"
-              }
-          ],
-          "PackageID": "com.ChromiumCandy.GKYST52series"
-      },
-      {
           "Name": "TrollSpotlight",
           "Description": "Trolly Trolly Trolly ya dude",
           "Author": {
@@ -123,7 +73,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553455223873678/IMG_1697.png",
           "Category": null,
           "Caption": "Change iMessage Spotlight effect into TrollFace",
           "Screenshot": [
@@ -263,7 +213,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083542196218773634/E09B919B-2741-4D96-937A-2BA095DE871E.jpg",
           "Category": null,
           "Caption": "Change statusbar 5G text to 7G and others!",
           "Screenshot": ["https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large"],
@@ -292,7 +242,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083552066485616660/F8CF314D-4DEB-4C48-82D2-20C98C4A59D2.jpg",
           "Category": null,
           "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
           "Screenshot": null,
@@ -316,7 +266,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083549226098753556/IMG_2262.png",
           "Category": null,
           "Caption": "Change camera shutter to Pixel's",
           "Screenshot": null,
@@ -339,7 +289,7 @@
                       "Link": "https://twitter.com/straight_tamago"
                   },
                   {
-                      "Label": "ChromiumCandy (Porting to VDF)",
+                      "Label": "ChromiumCandy (VDF Porting)",
                       "Link": "https://twitter.com/ChromiumCandy"
                   }
               ]
@@ -353,6 +303,11 @@
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083335650910150666/NoCameraSound.vdf",
                   "Description": null
+              },
+              {
+                  "Version": "0.2",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083575249519509524/NoCameraSound_v0.2.vdf",
+                  "Description": "Added Recording & Burst sound support"
               }
           ],
           "PackageID": "com.straight-tamago.NCS"
@@ -368,7 +323,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745365090374/IMG_2257.png",
           "Category": null,
           "Caption": "Change Apple Emoji to Twemoji.\nDue to the file size restriction, some of them are broken. Any help to solve this issue would be thanked",
           "Screenshot": [
@@ -394,7 +349,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745620922378/IMG_2258.png",
           "Category": null,
           "Caption": "Swap Emoji to Blobmoji's",
           "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1083354259321540699/IMG_2107.png"],
@@ -418,7 +373,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745855823872/IMG_2260.png",
           "Category": null,
           "Caption": "Change Emoji to Noto Colour Emoji",
           "Screenshot": null,
@@ -430,6 +385,130 @@
               }
           ],
           "PackageID": "com.ChromiumCandy.NotoColorEmoji"
-      }
+      },
+      {
+          "Name": "NoSettingsIcon",
+          "Description": "Hide setting icons",
+          "Author": {
+              "Label": "Kumiki",
+              "Links": [
+                  {
+                      "Label": "Kumiki",
+                      "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Hide setting icons",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.2",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083753585248059542/NoSettingsIcon_v0.2.vdf",
+                  "Description": "VPN icon bug fix"
+              }
+          ],
+          "PackageID": "com.Kumiik.NoSettingsIcon"
+      },
+      {
+          "Name": "Clearity",
+          "Description": "Disabe CC & AppSwitcher blur",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Disabe CC & AppSwitcher blur",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083651766056398878/Clarity.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.Clearity"
+      },
+      {
+          "Name": "ControlCenterController",
+          "Description": "Customize your CC!",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "Controll your CC module",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083639178178330655/ControlCenterController_v0.2.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.CCController"
+      },
+      {
+          "Name": "ShutupPayPay",
+          "Description": "PayPayの決済音無効化",
+          "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "決済時の「ﾁｰﾝ!PayPay!」を消す",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083606095135772782/ShutupPayPay.vdf",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.ShutupPayPay"
+      },{
+        "Name": "EnableSupervisedMode",
+        "Description": "Enable Supervised mode",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "Enable Supervised mode",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083572483770302564/EnableSupervisedMode_v0.2.vdf",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.Supervise"
+    }
   ]
 }
