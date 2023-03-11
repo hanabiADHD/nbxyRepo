@@ -427,7 +427,7 @@
                 }
               ]
           },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083791785291165776/IMG_9173.jpg",
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084056503960473620/IMG_2333.png",
           "Category": null,
           "Caption": "Disabe CC & AppSwitcher blur",
           "Screenshot": ["https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
@@ -544,6 +544,36 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.FreeTime"
+    },
+    {
+        "Name": "hyde",
+        "Description": "hide NC texts adn homebar!",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy (Main Dev)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                },
+                {
+                    "Label": "しまりん (Disable Homebar)",
+                    "Link": "https://twitter.com/straight_tamago"
+                }
+                
+            ]
+        },
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084063564924457030/phonto.jpg",
+        "Category": null,
+        "Caption": "hide NC texts adn homebar!",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.156",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084062104669147157/hyde.vdf",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.156"
     }
   ]
 }
