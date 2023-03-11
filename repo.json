@@ -29,7 +29,7 @@
               {
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
-                  "Description": ""
+                  "Description": null
               }
           ],
           "PackageID": "com.ChromiumCandy.TrollBalloon"
@@ -56,7 +56,7 @@
               {
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
-                  "Description": ""
+                  "Description": null
               }
           ],
           "PackageID": "com.ChromiumCandy.TrollLazer"
