@@ -413,7 +413,7 @@
       },
       {
           "Name": "Clearity",
-          "Description": "Disabe CC & AppSwitcher blur",
+          "Description": "Disable CC & AppSwitcher blur",
           "Author": {
               "Label": "ChromiumCandy",
               "Links": [
@@ -429,7 +429,7 @@
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
           "Category": null,
-          "Caption": "Disabe CC & AppSwitcher blur",
+          "Caption": "Disable CC & AppSwitcher blur",
           "Screenshot": ["https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
         "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
           "Releases": [
@@ -583,7 +583,7 @@
     },
     {
         "Name": "iOS7LockSound",
-        "Description": "Good old sond!",
+        "Description": "Good old sound!",
         "Author": {
             "Label": "ChromiumCandy",
             "Links": [
