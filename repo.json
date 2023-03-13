@@ -101,8 +101,12 @@
                 "Label": "ChromiumCandy",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy(Main Dev)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
                     }
                 ]
             },
@@ -128,10 +132,14 @@
                   {"Label":"Kumiki (Main Dev)",
                   "Link":"https://twitter.com/FisqWclCKB8xtLC"
                   },
-                    {
-                        "Label": "ChromiumCandy (en support)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
+                  {
+                    "Label": "ChromiumCandy(en support)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                },
+                {
+                    "Label": "瑞秋(Icon)",
+                    "Link": "https://twitter.com/fall20c"
+                }
                 ]
             },
             "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
@@ -567,10 +575,14 @@
           "Author": {
               "Label": "ChromiumCandy",
               "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
+                {
+                    "Label": "ChromiumCandy(Main Dev)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                },
+                {
+                    "Label": "瑞秋(Icon)",
+                    "Link": "https://twitter.com/fall20c"
+                }
               ]
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731280261918761/IMG_2412.jpg",
@@ -592,10 +604,14 @@
           "Author": {
               "Label": "ChromiumCandy",
               "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
+                {
+                    "Label": "ChromiumCandy(Main Dev)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                },
+                {
+                    "Label": "瑞秋(Icon)",
+                    "Link": "https://twitter.com/fall20c"
+                }
               ]
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731279926362132/IMG_2411.jpg",
