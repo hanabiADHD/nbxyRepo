@@ -29,7 +29,7 @@
               {
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
-                  "Description": null
+                  "Description": ""
               }
           ],
           "PackageID": "com.ChromiumCandy.TrollBalloon"
@@ -56,7 +56,7 @@
               {
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
-                  "Description": null
+                  "Description": ""
               }
           ],
           "PackageID": "com.ChromiumCandy.TrollLazer"
@@ -106,7 +106,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084274792703733770/IMG_2351.jpg",
           "Category": null,
           "Caption": "Kill ur fucking web filter",
           "Screenshot": null,
@@ -134,7 +134,7 @@
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
           "Category": null,
           "Caption": "Remove Swipe up to open text",
           "Screenshot": null,
@@ -266,7 +266,7 @@
                   }
               ]
           },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083549226098753556/IMG_2262.png",
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084274974459691058/E2317534-9C07-4E3A-B1BB-5566E0D07F43.jpg",
           "Category": null,
           "Caption": "Change camera shutter to Pixel's",
           "Screenshot": null,
@@ -427,7 +427,7 @@
                 }
               ]
           },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084056503960473620/IMG_2333.png",
+          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
           "Category": null,
           "Caption": "Disabe CC & AppSwitcher blur",
           "Screenshot": ["https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
@@ -472,30 +472,6 @@
           "PackageID": "com.ChromiumCandy.CCController"
       },
       {
-          "Name": "ShutupPayPay",
-          "Description": "PayPayの決済音無効化",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
-          "Category": null,
-          "Caption": "決済時の「ﾁｰﾝ!PayPay!」を消す",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.1",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083606095135772782/ShutupPayPay.vdf",
-                  "Description": null
-              }
-          ],
-          "PackageID": "com.ChromiumCandy.ShutupPayPay"
-      },{
         "Name": "EnableSupervisedMode",
         "Description": "Enable Supervised mode",
         "Author": {
@@ -547,7 +523,7 @@
     },
     {
         "Name": "hyde",
-        "Description": "hide NC texts adn homebar!",
+        "Description": "hide NC texts & homebar!",
         "Author": {
             "Label": "ChromiumCandy",
             "Links": [
@@ -564,16 +540,71 @@
         },
         "Icon": "https://cdn.discordapp.com/attachments/1079074514257838130/1084067536598990848/phonto.JPG",
         "Category": null,
-        "Caption": "hide NC texts adn homebar!",
+        "Caption": "hide NC texts and homebar!",
         "Screenshot": null,
         "Releases": [
             {
                 "Version": "0.156",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084062104669147157/hyde.vdf",
                 "Description": null
+            },
+            {
+                "Version": "0.3-156",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084700013600440350/hyde_v0.3-156.vdf",
+                "Description": null
             }
         ],
         "PackageID": "com.ChromiumCandy.156"
+    },
+    {
+        "Name": "iOS4LockSound",
+        "Description": "Legacy!",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "iOS4 Lock sound.\na bit buggy so try respring and toggle on&off",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155646177058856/iOS4LockSound_v0.2.vdf",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.iOS4LockSound"
+    },
+    {
+        "Name": "",
+        "Description": "Good old sond!",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "iOS7 Lock sound.\na bit buggy so try respring and toggle on&off",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155675503624284/iOS7LockSound_v0.2.vdf",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.iOS7LockSound"
     }
   ]
 }
