@@ -582,7 +582,7 @@
         "PackageID": "com.ChromiumCandy.iOS4LockSound"
     },
     {
-        "Name": "",
+        "Name": "iOS7LockSound",
         "Description": "Good old sond!",
         "Author": {
             "Label": "ChromiumCandy",
