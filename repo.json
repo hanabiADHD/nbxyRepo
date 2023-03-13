@@ -541,7 +541,7 @@
           "Icon": "https://cdn.discordapp.com/attachments/1079074514257838130/1084067536598990848/phonto.JPG",
           "Category": null,
           "Caption": "hide NC texts and homebar!",
-          "Screenshot": "https://cdn.discordapp.com/attachments/813615730473304064/1084729444083712081/IMG_2410.png",
+          "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1084729444083712081/IMG_2410.png"],
           "Releases": [
               {
                   "Version": "0.156",
