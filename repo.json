@@ -235,6 +235,11 @@
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085150648565256303/7G_v0.4.vdf",
                     "Description": "Multi language & Custom string support"
+                },
+                {
+                    "Version": "0.4.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085152330669891674/7G_v0.4.1.vdf",
+                    "Description": "ja support disabled, fixed 5G+ shows up 5G"
                 }
             ],
             "PackageID": "com.ChromiumCandy.7G"
