@@ -230,6 +230,11 @@
                     "Version": "0.3.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083325889703583764/7G_v0.3.2.vdf",
                     "Description": null
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085150648565256303/7G_v0.4.vdf",
+                    "Description": "Multi language & Custom string support"
                 }
             ],
             "PackageID": "com.ChromiumCandy.7G"
@@ -450,7 +455,12 @@
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083790557828100096/Clearity_v0.2.vdf",
                   "Description": "HS folder supported"
-              }
+              },
+              {
+                "Version": "1.4.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085062676922773554/Clearity_v1.4.2.vdf",
+                "Description": "Clearified dock (only supports light mode due to respring loop on dark mode)"
+            }
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
         },
