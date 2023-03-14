@@ -448,8 +448,10 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
             "Category": null,
             "Caption": "Disable CC & AppSwitcher blur",
-            "Screenshot": ["https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
-          "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
+            "Screenshot": [
+                "https://pbs.twimg.com/media/FrLM4n3aAAMVs2H?format=jpg&name=large",
+                "https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
+                "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
             "Releases": [
                 {
                     "Version": "0.1",
