@@ -542,7 +542,11 @@
                   {
                       "Label": "しまりん (Disable Homebar)",
                       "Link": "https://twitter.com/straight_tamago"
-                  }
+                  },
+                  {
+                    "Label": "Kumiki (No older notifications text path)",
+                    "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                }
                   
               ]
           },
@@ -565,6 +569,11 @@
                 "Version": "0.4-156",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084722087240929300/hyde_v0.4-156.vdf",
                 "Description": "Multi language support"
+            },
+            {
+                "Version": "0.5-156",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084996735014817822/hyde_v0.5-156.vdf",
+                "Description": "hyded No older notifications"
             }
           ],
           "PackageID": "com.ChromiumCandy.156"
