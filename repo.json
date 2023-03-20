@@ -402,6 +402,11 @@
                     "Version": "0.1",
                     "Package": "https://mega.nz/file/42x1yZQT#4-0BcSkkpzdI25j_tJI1HRdJqoiCI2CjmVkYkBMn9ag",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://mega.nz/file/F7YjDRYC",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.Twemoji"
@@ -426,6 +431,11 @@
                     "Version": "0.1",
                     "Package": "https://mega.nz/file/huRDHIQZ#OJ7gPf3CAfili6NDFKgfTZZcpbmfceQoH_ur3M_f8EM",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://mega.nz/file/puABEAhb",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.Blobmoji"
@@ -450,6 +460,11 @@
                     "Version": "0.1",
                     "Package": "https://mega.nz/file/d2oQESZR#ah-k75sLUFJqd29H9oSdK9C8T-ANN9KAla295kydvs4",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://mega.nz/file/MyISFSYC",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.NotoColorEmoji"
