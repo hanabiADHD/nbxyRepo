@@ -30,6 +30,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
                     "Description": ""
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590438596658/com.ChromiumCandy.TrollBalloon.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.TrollBalloon"
@@ -57,6 +62,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
                     "Description": ""
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590606360649/com.ChromiumCandy.TrollLazer.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.TrollLazer"
@@ -89,6 +99,11 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079492295205847093/TrollSpotlight_v0.2.vdf",
                     "Description": "画像の歪み修正"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589322907718/com.ChromiumCandy.TrollSpotlight.misaka",
+                    "Description": ".vdf to .misaka"
                 }
                 
             ],
@@ -119,6 +134,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079341964287291474/GonnaKillYaWebContentFilter.vdf",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589587136592/com.ChromiumCandy.GonnaKillYaWCF.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.GonnaKillYaWCF"
@@ -156,10 +176,15 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
                     "Description": "english support added by ChromiumCandy"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
                 }
                 
             ],
-            "PackageID": "com.ChromiumCandy.NoSwipeUpToOpen"
+            "PackageID": "com.Kumiki.NoSwipeUpToOpen"
         },
         {
             "Name": "14DND",
@@ -204,6 +229,11 @@
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
                     "Description": "Bug fix"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
+                    "Description": ".vdf to .misaka"
                 }
                 
             ],
@@ -240,6 +270,11 @@
                     "Version": "0.4.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085152330669891674/7G_v0.4.1.vdf",
                     "Description": "ja support disabled, fixed 5G+ shows up 5G"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087199954956726272/com.ChromiumCandy.7G.misaka",
+                    "Description": ".vdf to .misaka\nmoved Custom string in tweak settings"
                 }
             ],
             "PackageID": "com.ChromiumCandy.7G"
@@ -269,6 +304,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083333397117681765/RegionSwapCanada.vdf",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087229917382590524/com.yyyywaiwai.RegSwap.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.yyyywaiwai.RegSwap"
@@ -293,6 +333,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083333833895710730/PixelShutter.vdf",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590195323011/com.ChromiumCandy.PixelShutter.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.PixelShutter"
@@ -326,6 +371,11 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083575249519509524/NoCameraSound_v0.2.vdf",
                     "Description": "Added Recording & Burst sound support"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590606360586/com.straight-tamago.NCS.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.straight-tamago.NCS"
@@ -411,12 +461,16 @@
                 "Label": "Kumiki",
                 "Links": [
                     {
-                        "Label": "Kumiki",
+                        "Label": "Kumiki (Main Dev)",
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "ChromiumCandy (Icon)",
+                        "Link": "https://twitter.com/ChromiumCandy"
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087232205874540604/C560A218-898F-489A-AE02-AD4ED396095E.jpg",
             "Category": null,
             "Caption": "Hide setting icons",
             "Screenshot": null,
@@ -425,9 +479,14 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083753585248059542/NoSettingsIcon_v0.2.vdf",
                     "Description": "VPN icon bug fix"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087232346954145842/com.Kumiki.NoSettingsIcon.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.Kumiik.NoSettingsIcon"
+            "PackageID": "com.Kumiki.NoSettingsIcon"
         },
         {
             "Name": "Clearity",
@@ -472,6 +531,11 @@
                 "Version": "1.5.1",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085461589379006564/Clearity_v1.5.1.vdf",
                 "Description": "Style changed"
+            },
+            {
+                "Version": "2.0.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/com.ChromiumCandy.Clearity.misaka",
+                "Description": ".misaka"
             }
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
@@ -497,6 +561,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083639178178330655/ControlCenterController_v0.2.vdf",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589335486524/com.ChromiumCandy.CCController.misaka",
+                    "Description": ".vdf to .misaka"
                 }
             ],
             "PackageID": "com.ChromiumCandy.CCController"
@@ -522,7 +591,12 @@
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083572483770302564/EnableSupervisedMode_v0.2.vdf",
                   "Description": null
-              }
+              },
+              {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/com.ChromiumCandy.Supervise.misaka",
+                "Description": ".vdf to .misaka"
+            }
           ],
           "PackageID": "com.ChromiumCandy.Supervise"
       },
@@ -547,7 +621,12 @@
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083762574430044220/FreeTime.vdf",
                   "Description": null
-              }
+              },
+              {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/com.ChromiumCandy.FreeTime.misaka",
+                "Description": ".vdf to .misaka"
+            }
           ],
           "PackageID": "com.ChromiumCandy.FreeTime"
       },
@@ -596,6 +675,11 @@
                 "Version": "0.5-156",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084996735014817822/hyde_v0.5-156.vdf",
                 "Description": "hyded No older notifications"
+            },
+            {
+                "Version": "1.0-156",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589146738739/com.ChromiumCandy.156.misaka",
+                "Description": ".vdf to .misaka"
             }
           ],
           "PackageID": "com.ChromiumCandy.156"
@@ -625,7 +709,12 @@
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155646177058856/iOS4LockSound_v0.2.vdf",
                   "Description": null
-              }
+              },
+              {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589465497670/com.ChromiumCandy.iOS4LockSound.misaka",
+                "Description": ".vdf to .misaka"
+            }
           ],
           "PackageID": "com.ChromiumCandy.iOS4LockSound"
       },
@@ -654,6 +743,11 @@
                   "Version": "0.2",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155675503624284/iOS7LockSound_v0.2.vdf",
                   "Description": null
+              },
+              {
+                  "Version": "1.0",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589817823322/com.ChromiumCandy.iOS7LockSound.misaka",
+                  "Description": ".vdf to .misaka"
               }
           ],
           "PackageID": "com.ChromiumCandy.iOS7LockSound"
