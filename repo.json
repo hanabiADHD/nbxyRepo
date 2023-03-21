@@ -797,6 +797,56 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.ShutupPayPay"
+    },
+    {
+        "Name": "SOMEBODY-TOUCHA-MY-SPAGHET",
+        "Description": "SOMEBODY TOUCHA MY SPAGHET!!",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087620435899854878/SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
+    },
+    {
+        "Name": "DrumKey",
+        "Description": "Drum your Keyboard!",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "Drummmmmm!!!!!",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087647811895574578/Drumkey.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.DrumKey"
     }
     ]
   }
