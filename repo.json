@@ -853,6 +853,107 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.DrumKey"
+    },{
+        "Name": "yjspLINE",
+        "Description": "やりますねー",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "やりますやります",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087656111567536168/yjspLINE.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.yjspLINE"
+    },{
+        "Name": "sansKey",
+        "Description": "eheheheheh",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087709738453717044/SansKey.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy."
+    },{
+        "Name": "NoTLSound",
+        "Description": "Disable Twitter Refreshing sound!",
+        "Author": {
+            "Label": "fall20c",
+            "Links": [
+                {
+                    "Label": "fall20c",
+                    "Link": "https://twitter.com/fall20c"
+                },
+                {
+                    "Label": "ChromiumCandy (aac bug fix)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "Disable Twitter Refreshing sound!",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.3",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087733505032732753/NoTLSound.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.fall20c.NoTLSound"
+    },
+    {
+        "Name": "LegacyTwitter",
+        "Description": "Good old refresh sound",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "phsrsrsrsr...pap!",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087734364588224686/LegacyTwitter.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.LegacyTwitter"
     }
     ]
   }
