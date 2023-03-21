@@ -892,7 +892,7 @@
         "Icon": null,
         "Category": null,
         "Caption": "",
-        "Screenshot": null,
+        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1087720669707501670/IMG_3172.gif"],
         "Releases": [
             {
                 "Version": "0.1",
@@ -900,7 +900,7 @@
                 "Description": null
             }
         ],
-        "PackageID": "com.ChromiumCandy."
+        "PackageID": "com.ChromiumCandy.sansKey"
     },{
         "Name": "NoTLSound",
         "Description": "Disable Twitter Refreshing sound!",
