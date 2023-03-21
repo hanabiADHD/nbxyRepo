@@ -820,6 +820,11 @@
                 "Version": "0.1",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087621919702007818/SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                 "Description": null
+            },
+            {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087659901729390643/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                "Description": "volume"
             }
         ],
         "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
