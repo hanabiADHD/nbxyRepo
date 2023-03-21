@@ -772,7 +772,32 @@
               }
           ],
           "PackageID": "com.ChromiumCandy.iOS7LockSound"
-      }
+      },
+      {
+        "Name": "Shut up PayPay",
+        "Description": "PayPayの決済音無効化",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
+        "Category": null,
+        "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087387538127331432/ShutupPayPay.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.ShutupPayPay"
+    }
     ]
   }
   
