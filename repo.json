@@ -551,7 +551,12 @@
             {
                 "Version": "2.0.0",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/com.ChromiumCandy.Clearity.misaka",
-                "Description": ".misaka"
+                "Description": ".vdf to .misaka"
+            },
+            {
+                "Version": "2.2.2",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/com.ChromiumCandy.Clearity.misaka",
+                "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
             }
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
@@ -770,4 +775,4 @@
       }
     ]
   }
- 
+  
