@@ -405,7 +405,7 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://mega.nz/file/F7YjDRYC",
+                    "Package": "https://mega.nz/file/F7YjDRYC#wRCSnC4lY1PyEeSe-Vvss4E2lAVsmraN_Fe618BOvBM",
                     "Description": ".vdf to .misaka"
                 }
             ],
@@ -434,7 +434,7 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://mega.nz/file/puABEAhb",
+                    "Package": "https://mega.nz/file/puABEAhb#Lgo786bqpOIA5TC8_ndj-2qVo6DL1cb9HxTrJcC1_fQ",
                     "Description": ".vdf to .misaka"
                 }
             ],
@@ -463,7 +463,7 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://mega.nz/file/MyISFSYC",
+                    "Package": "https://mega.nz/file/MyISFSYC#LFx6DKRXbdtLWJkKV3zjhO1qNhjj-Oa11kbgA4SEm0o",
                     "Description": ".vdf to .misaka"
                 }
             ],
@@ -520,6 +520,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
+            "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
             "Category": null,
             "Caption": "Disable CC & AppSwitcher blur",
             "Screenshot": [
