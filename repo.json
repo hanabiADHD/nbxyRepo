@@ -275,6 +275,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087199954956726272/com.ChromiumCandy.7G.misaka",
                     "Description": ".vdf to .misaka\nmoved Custom string in tweak settings"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674713776128/com.ChromiumCandy.7G.misaka",
+                    "Description": "仕様変更に対応"
                 }
             ],
             "PackageID": "com.ChromiumCandy.7G"
@@ -309,6 +314,12 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087229917382590524/com.yyyywaiwai.RegSwap.misaka",
                     "Description": ".vdf to .misaka"
+                }
+                ,
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997676219547668/com.yyyywaiwai.RegSwap.misaka",
+                    "Description": "仕様変更に対応"
                 }
             ],
             "PackageID": "com.yyyywaiwai.RegSwap"
@@ -557,6 +568,11 @@
                 "Version": "2.2.2",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/com.ChromiumCandy.Clearity.misaka",
                 "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
+            },
+            {
+                "Version": "2.3.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/com.ChromiumCandy.Clearity.misaka",
+                "Description": "仕様変更に対応"
             }
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
@@ -634,6 +650,7 @@
               ]
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
+          "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1087959912698621982/IMG_3201.gif",
           "Category": null,
           "Caption": "Safe though only blocks usage limits",
           "Screenshot": null,
@@ -799,7 +816,7 @@
         "PackageID": "com.ChromiumCandy.ShutupPayPay"
     },
     {
-        "Name": "SOMEBODY-TOUCHA-MY-SPAGHET",
+        "Name": "SOMEBODY TOUCHA MY SPAGHET",
         "Description": "SOMEBODY TOUCHA MY SPAGHET!!",
         "Author": {
             "Label": "ChromiumCandy",
@@ -830,6 +847,11 @@
                 "Version": "0.3",
                 "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087927633033056327/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                 "Description": "smt changed"
+            },
+            {
+                "Version": "0.4",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                "Description": "仕様変更に対応"
             }
         ],
         "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
@@ -873,7 +895,7 @@
         "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087931118633894008/A6667775-E988-4B9A-B562-ADB4909E63B7.jpg",
         "Category": null,
         "Caption": "やりますやります",
-        "Screenshot": null,
+        "Screenshot":["https://cdn.discordapp.com/attachments/813615730473304064/1087967185739186216/RPReplay_Final1679461964.mov"],
         "Releases": [
             {
                 "Version": "0.1",
@@ -884,7 +906,7 @@
         "PackageID": "com.ChromiumCandy.yjspLINE"
     },{
         "Name": "sansKey",
-        "Description": "eheheheheh",
+        "Description": "*it's ALWAYS funny.",
         "Author": {
             "Label": "ChromiumCandy",
             "Links": [
@@ -899,7 +921,7 @@
         "Caption": "",
         "Screenshot": [
             "https://cdn.discordapp.com/attachments/813615730473304064/1087947920290107452/RPReplay_Final1679448583.mov",
-        "https://cdn.discordapp.com/attachments/813615730473304064/1087720669707501670/IMG_3172.gif"
+        "https://cdn.discordapp.com/attachments/813615730473304064/1087985058553540618/IMG_3205.gif"
     ],
         "Releases": [
             {
@@ -911,6 +933,11 @@
                 "Version": "0.2",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087926222312452197/com.ChromiumCandy.sansKey.misaka",
                 "Description": null
+            },
+            {
+                "Version": "0.3",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675217109074/com.ChromiumCandy.sansKey.misaka",
+                "Description": "仕様変更に対応"
             }
         ],
         "PackageID": "com.ChromiumCandy.sansKey"
@@ -971,6 +998,82 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.LegacyTwitter"
+    },
+    {
+        "Name": "UNDERESPRING",
+        "Description": "Change respring logo to heart",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088090476948758649/B8E389DA-14A6-4F1D-B32A-2EBC7CA6C6C5.jpg",
+        "Category": null,
+        "Caption": "Change respring logo to heart",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088087163574419566/UNDERISPRING.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.UNDERESPRING"
+    },
+    {
+        "Name": "MINECRESPRING",
+        "Description": "Change respring logo to a green guy we all know",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "Change respring logo to creeper",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088092241790238840/MINECRESPRING.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.MINECRESPRING"
+    },
+    {
+        "Name": "RespringSANS",
+        "Description": "SANS is Respring logo",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": null,
+        "Category": null,
+        "Caption": "SANS is Respring logo",
+        "Screenshot": null,
+        "Releases": [
+            {
+                "Version": "0.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088084318951309343/RespringSANS.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.RespringSANS"
     }
     ]
   }
