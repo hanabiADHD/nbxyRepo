@@ -90,7 +90,7 @@
                 "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large"
             ],
             "Releases": [
-              {
+                {
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079429515098476605/TrollSpotlight.vdf",
                     "Description": "1st release"
@@ -105,7 +105,6 @@
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589322907718/com.ChromiumCandy.TrollSpotlight.misaka",
                     "Description": ".vdf to .misaka"
                 }
-                
             ],
             "PackageID": "com.ChromiumCandy.TrollSpotlight"
         },
@@ -149,17 +148,18 @@
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
-                  {"Label":"Kumiki (Main Dev)",
-                  "Link":"https://twitter.com/FisqWclCKB8xtLC"
-                  },
-                  {
-                    "Label": "ChromiumCandy(en support)",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                },
-                {
-                    "Label": "瑞秋(Icon)",
-                    "Link": "https://twitter.com/fall20c"
-                }
+                    {
+                        "Label": "Kumiki (Main Dev)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "ChromiumCandy(en support)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
                 ]
             },
             "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
@@ -167,7 +167,7 @@
             "Caption": "Remove Swipe up to open text",
             "Screenshot": null,
             "Releases": [
-              {
+                {
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
                     "Description": "First relaese by Kumiki"
@@ -182,7 +182,6 @@
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
                     "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
                 }
-                
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
         },
@@ -197,8 +196,8 @@
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label":"Kumiki (Path,Testing,Bug fixes)",
-                        "Link":"https://twitter.com/FisqWclCKB8xtLC"
+                        "Label": "Kumiki (Path,Testing,Bug fixes)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -220,7 +219,7 @@
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
                     "Description": "Network module bug fix by Kumiki"
                 },
-                 {
+                {
                     "Version": "0.3",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
                     "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
@@ -235,7 +234,6 @@
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
                     "Description": ".vdf to .misaka"
                 }
-                
             ],
             "PackageID": "com.ChromiumCandy.14DND"
         },
@@ -254,7 +252,10 @@
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083542196218773634/E09B919B-2741-4D96-937A-2BA095DE871E.jpg",
             "Category": null,
             "Caption": "Change statusbar 5G text to 7G and others!",
-            "Screenshot": ["https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large","https://cdn.discordapp.com/attachments/813615730473304064/1088273102921805855/IMG_3273.png"],
+            "Screenshot": [
+                "https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large",
+                "https://cdn.discordapp.com/attachments/813615730473304064/1088273102921805855/IMG_3273.png"
+            ],
             "Releases": [
                 {
                     "Version": "0.3.2",
@@ -290,7 +291,7 @@
             "Author": {
                 "Label": "yyyywaiwai & ChromiumCandy",
                 "Links": [
-                  {
+                    {
                         "Label": "yyyywaiwai (Base Project)",
                         "Link": "https://twitter.com/yyyyyy_public"
                     },
@@ -303,7 +304,9 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083552066485616660/F8CF314D-4DEB-4C48-82D2-20C98C4A59D2.jpg",
             "Category": null,
             "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
-            "Screenshot": ["https://media.discordapp.net/attachments/813615730473304064/1088273100543631380/IMG_3268.png"],
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/813615730473304064/1088273100543631380/IMG_3268.png"
+            ],
             "Releases": [
                 {
                     "Version": "0.1",
@@ -314,8 +317,7 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087229917382590524/com.yyyywaiwai.RegSwap.misaka",
                     "Description": ".vdf to .misaka"
-                }
-                ,
+                },
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997676219547668/com.yyyywaiwai.RegSwap.misaka",
@@ -323,7 +325,8 @@
                 }
             ],
             "PackageID": "com.yyyywaiwai.RegSwap"
-        },{
+        },
+        {
             "Name": "PixelShutter",
             "Description": "Change camera shutter to Pixel's",
             "Author": {
@@ -352,13 +355,14 @@
                 }
             ],
             "PackageID": "com.ChromiumCandy.PixelShutter"
-        },{
+        },
+        {
             "Name": "NoCameraSound",
             "Description": "Bye bye noisy shutter sound",
             "Author": {
                 "Label": "しまりん & ChromiumCandy",
                 "Links": [
-                  {
+                    {
                         "Label": "しまりん(OriginalDev)",
                         "Link": "https://twitter.com/straight_tamago"
                     },
@@ -390,7 +394,8 @@
                 }
             ],
             "PackageID": "com.straight-tamago.NCS"
-        },{
+        },
+        {
             "Name": "Twemoji",
             "Description": "Twitter emoji",
             "Author": {
@@ -421,7 +426,8 @@
                 }
             ],
             "PackageID": "com.ChromiumCandy.Twemoji"
-        },{
+        },
+        {
             "Name": "Blobmoji",
             "Description": "Blobmoji Emoji",
             "Author": {
@@ -436,7 +442,9 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745620922378/IMG_2258.png",
             "Category": null,
             "Caption": "Swap Emoji to Blobmoji's",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1083354259321540699/IMG_2107.png"],
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1083354259321540699/IMG_2107.png"
+            ],
             "Releases": [
                 {
                     "Version": "0.1",
@@ -450,7 +458,8 @@
                 }
             ],
             "PackageID": "com.ChromiumCandy.Blobmoji"
-        },{
+        },
+        {
             "Name": "NotoColourEmoji",
             "Description": "Noto Colour Emoji",
             "Author": {
@@ -525,9 +534,9 @@
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                      "Label": "しまりん(Path)",
-                      "Link": "https://twitter.com/straight_tamago"
-                  }
+                        "Label": "しまりん(Path)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
@@ -538,7 +547,8 @@
                 "https://pbs.twimg.com/media/FrLM4n3aAAMVs2H?format=jpg&name=large",
                 "https://cdn.discordapp.com/attachments/813615730473304064/1088273102301036625/IMG_3272.png",
                 "https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
-                "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
+                "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"
+            ],
             "Releases": [
                 {
                     "Version": "0.1",
@@ -546,35 +556,35 @@
                     "Description": null
                 },
                 {
-                  "Version": "0.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083790557828100096/Clearity_v0.2.vdf",
-                  "Description": "HS folder supported"
-              },
-              {
-                "Version": "1.4.2",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085062676922773554/Clearity_v1.4.2.vdf",
-                "Description": "Clearified dock (only supports light mode due to respring loop on dark mode)"
-            },
-            {
-                "Version": "1.5.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085461589379006564/Clearity_v1.5.1.vdf",
-                "Description": "Style changed"
-            },
-            {
-                "Version": "2.0.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/com.ChromiumCandy.Clearity.misaka",
-                "Description": ".vdf to .misaka"
-            },
-            {
-                "Version": "2.2.2",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/com.ChromiumCandy.Clearity.misaka",
-                "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
-            },
-            {
-                "Version": "2.3.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/com.ChromiumCandy.Clearity.misaka",
-                "Description": "仕様変更に対応"
-            }
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083790557828100096/Clearity_v0.2.vdf",
+                    "Description": "HS folder supported"
+                },
+                {
+                    "Version": "1.4.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085062676922773554/Clearity_v1.4.2.vdf",
+                    "Description": "Clearified dock (only supports light mode due to respring loop on dark mode)"
+                },
+                {
+                    "Version": "1.5.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1085461589379006564/Clearity_v1.5.1.vdf",
+                    "Description": "Style changed"
+                },
+                {
+                    "Version": "2.0.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/com.ChromiumCandy.Clearity.misaka",
+                    "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "2.2.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/com.ChromiumCandy.Clearity.misaka",
+                    "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
+                },
+                {
+                    "Version": "2.3.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/com.ChromiumCandy.Clearity.misaka",
+                    "Description": "仕様変更に対応"
+                }
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
         },
@@ -609,538 +619,549 @@
             "PackageID": "com.ChromiumCandy.CCController"
         },
         {
-          "Name": "EnableSupervisedMode",
-          "Description": "Enable Supervised mode",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": null,
-          "Category": null,
-          "Caption": "Enable Supervised mode",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083572483770302564/EnableSupervisedMode_v0.2.vdf",
-                  "Description": null
-              },
-              {
-                "Version": "1.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/com.ChromiumCandy.Supervise.misaka",
-                "Description": ".vdf to .misaka"
-            }
-          ],
-          "PackageID": "com.ChromiumCandy.Supervise"
-      },
-      {
-          "Name": "FreeTime",
-          "Description": "Safe & Real Screentime disabler",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
-          "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1087959912698621982/IMG_3201.gif",
-          "Category": null,
-          "Caption": "Safe though only blocks usage limits",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.1",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083762574430044220/FreeTime.vdf",
-                  "Description": null
-              },
-              {
-                "Version": "1.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/com.ChromiumCandy.FreeTime.misaka",
-                "Description": ".vdf to .misaka"
-            }
-          ],
-          "PackageID": "com.ChromiumCandy.FreeTime"
-      },
-      {
-          "Name": "hyde",
-          "Description": "hide NC texts & homebar!",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
-                  {
-                      "Label": "ChromiumCandy (Main Dev)",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  },
-                  {
-                      "Label": "しまりん (Disable Homebar)",
-                      "Link": "https://twitter.com/straight_tamago"
-                  },
-                  {
-                    "Label": "Kumiki (No older notifications text path)",
-                    "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                }
-                  
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/1079074514257838130/1084067536598990848/phonto.JPG",
-          "Category": null,
-          "Caption": "hide NC texts and homebar!",
-          "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1084729444083712081/IMG_2410.png"],
-          "Releases": [
-              {
-                  "Version": "0.156",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084062104669147157/hyde.vdf",
-                  "Description": null
-              },
-              {
-                  "Version": "0.3-156",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084700013600440350/hyde_v0.3-156.vdf",
-                  "Description": "hyded Enter passcode text"
-              },
-              {
-                "Version": "0.4-156",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084722087240929300/hyde_v0.4-156.vdf",
-                "Description": "Multi language support"
+            "Name": "EnableSupervisedMode",
+            "Description": "Enable Supervised mode",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
             },
-            {
-                "Version": "0.5-156",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084996735014817822/hyde_v0.5-156.vdf",
-                "Description": "hyded No older notifications"
-            },
-            {
-                "Version": "1.0-156",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589146738739/com.ChromiumCandy.156.misaka",
-                "Description": ".vdf to .misaka"
-            }
-          ],
-          "PackageID": "com.ChromiumCandy.156"
-      },
-      {
-          "Name": "iOS4LockSound",
-          "Description": "Legacy!",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
+            "Icon": null,
+            "Category": null,
+            "Caption": "Enable Supervised mode",
+            "Screenshot": null,
+            "Releases": [
                 {
-                    "Label": "ChromiumCandy(Main Dev)",
-                    "Link": "https://twitter.com/ChromiumCandy"
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083572483770302564/EnableSupervisedMode_v0.2.vdf",
+                    "Description": null
                 },
                 {
-                    "Label": "瑞秋(Icon)",
-                    "Link": "https://twitter.com/fall20c"
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/com.ChromiumCandy.Supervise.misaka",
+                    "Description": ".vdf to .misaka"
                 }
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731280261918761/IMG_2412.jpg",
-          "Category": null,
-          "Caption": "iOS4 Lock sound.\na bit buggy so try respring and toggle on&off",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155646177058856/iOS4LockSound_v0.2.vdf",
-                  "Description": null
-              },
-              {
-                "Version": "1.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589465497670/com.ChromiumCandy.iOS4LockSound.misaka",
-                "Description": ".vdf to .misaka"
-            }
-          ],
-          "PackageID": "com.ChromiumCandy.iOS4LockSound"
-      },
-      {
-          "Name": "iOS7LockSound",
-          "Description": "Good old sound!",
-          "Author": {
-              "Label": "ChromiumCandy",
-              "Links": [
+            ],
+            "PackageID": "com.ChromiumCandy.Supervise"
+        },
+        {
+            "Name": "FreeTime",
+            "Description": "Safe & Real Screentime disabler",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1087959912698621982/IMG_3201.gif",
+            "Category": null,
+            "Caption": "Safe though only blocks usage limits",
+            "Screenshot": null,
+            "Releases": [
                 {
-                    "Label": "ChromiumCandy(Main Dev)",
-                    "Link": "https://twitter.com/ChromiumCandy"
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083762574430044220/FreeTime.vdf",
+                    "Description": null
                 },
                 {
-                    "Label": "瑞秋(Icon)",
-                    "Link": "https://twitter.com/fall20c"
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/com.ChromiumCandy.FreeTime.misaka",
+                    "Description": ".vdf to .misaka"
                 }
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731279926362132/IMG_2411.jpg",
-          "Category": null,
-          "Caption": "iOS7 Lock sound.\na bit buggy so try respring and toggle on&off",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "0.2",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155675503624284/iOS7LockSound_v0.2.vdf",
-                  "Description": null
-              },
-              {
-                  "Version": "1.0",
-                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589817823322/com.ChromiumCandy.iOS7LockSound.misaka",
-                  "Description": ".vdf to .misaka"
-              }
-          ],
-          "PackageID": "com.ChromiumCandy.iOS7LockSound"
-      },
-      {
-        "Name": "Shut up PayPay",
-        "Description": "PayPayの決済音無効化",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
+            ],
+            "PackageID": "com.ChromiumCandy.FreeTime"
         },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
-        "Category": null,
-        "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.2",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087387538127331432/ShutupPayPay.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.ShutupPayPay"
-    },
-    {
-        "Name": "SOMEBODY TOUCHA MY SPAGHET",
-        "Description": "SOMEBODY TOUCHA MY SPAGHET!!",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087648347378155530/IMG_3158.jpg",
-        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1087648079777382470/image0.gif",
-        "Category": null,
-        "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087621919702007818/SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
-                "Description": null
+        {
+            "Name": "hyde",
+            "Description": "hide NC texts & homebar!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy (Main Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "しまりん (Disable Homebar)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "Kumiki (No older notifications text path)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
             },
-            {
-                "Version": "0.2",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087659901729390643/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
-                "Description": "volume changed"
-            },
-            {
-                "Version": "0.3",
-                "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087927633033056327/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
-                "Description": "smt changed"
-            },
-            {
-                "Version": "0.4",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
-                "Description": "仕様変更に対応"
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
-    },
-    {
-        "Name": "DrumKey",
-        "Description": "Drum your Keyboard!",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
+            "Icon": "https://cdn.discordapp.com/attachments/1079074514257838130/1084067536598990848/phonto.JPG",
+            "Category": null,
+            "Caption": "hide NC texts and homebar!",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1084729444083712081/IMG_2410.png"
+            ],
+            "Releases": [
                 {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": null,
-        "Category": null,
-        "Caption": "Drummmmmm!!!!!",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087647811895574578/Drumkey.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.DrumKey"
-    },{
-        "Name": "yjspLINE",
-        "Description": "やりますねー",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087931118633894008/A6667775-E988-4B9A-B562-ADB4909E63B7.jpg",
-        "Category": null,
-        "Caption": "やりますやります",
-        "Screenshot":["https://cdn.discordapp.com/attachments/813615730473304064/1087967185739186216/RPReplay_Final1679461964.mov"],
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087656111567536168/yjspLINE.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.yjspLINE"
-    },{
-        "Name": "sansKey",
-        "Description": "*it's ALWAYS funny.",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.wikiwiki.jp/to/w/chaos-battle/Sans/::ref/Sans.png?rev=c10b14b283ab9c29cd27b81eb2256df8&t=20220203183111",
-        "Category": null,
-        "Caption": "",
-        "Screenshot": [
-            "https://cdn.discordapp.com/attachments/813615730473304064/1087947920290107452/RPReplay_Final1679448583.mov",
-        "https://cdn.discordapp.com/attachments/813615730473304064/1087985058553540618/IMG_3205.gif"
-    ],
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087709738453717044/SansKey.misaka",
-                "Description": null
-            },
-            {
-                "Version": "0.2",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087926222312452197/com.ChromiumCandy.sansKey.misaka",
-                "Description": null
-            },
-            {
-                "Version": "0.3",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675217109074/com.ChromiumCandy.sansKey.misaka",
-                "Description": "仕様変更に対応"
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.sansKey"
-    },{
-        "Name": "NoTLSound",
-        "Description": "Disable Twitter Refreshing sound!",
-        "Author": {
-            "Label": "fall20c",
-            "Links": [
-                {
-                    "Label": "fall20c",
-                    "Link": "https://twitter.com/fall20c"
+                    "Version": "0.156",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084062104669147157/hyde.vdf",
+                    "Description": null
                 },
                 {
-                    "Label": "ChromiumCandy (aac bug fix)",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1087755553046016090/IMG_8144.png",
-        "Category": null,
-        "Caption": "Disable Twitter Refreshing sound!",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.3",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087733505032732753/NoTLSound.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.fall20c.NoTLSound"
-    },
-    {
-        "Name": "LegacyTwitter",
-        "Description": "Good old refresh sound",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
+                    "Version": "0.3-156",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084700013600440350/hyde_v0.3-156.vdf",
+                    "Description": "hyded Enter passcode text"
                 },
                 {
-                    "Label": "fsll20c (path)",
-                    "Link": "https://twitter.com/fall20c"
-                }
-            ]
-        },
-        "Icon": "https://pbs.twimg.com/media/FrygRT4aIAEB7ET?format=jpg&name=medium",
-        "Category": null,
-        "Caption": "phssss...pop!",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087734364588224686/LegacyTwitter.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.LegacyTwitter"
-    },
-    {
-        "Name": "UNDERESPRING",
-        "Description": "Change respring logo to heart",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088264556159193109/2432214B-8DCE-410F-8678-E8ECCFE8E9D1.jpg",
-        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088263782406557746/8B7A02CF-BA03-4970-B355-30329FB556F2.jpg",
-        "Category": null,
-        "Caption": "Change respring logo to heart",
-        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273102020026553/IMG_3271.png"],
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088087163574419566/UNDERISPRING.misaka",
-                "Description": null
-            },
-            {
-                "Version": "1.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088260672611160194/com.ChromiumCandy.UNDERESPRING.misaka",
-                "Description": "Selectable styles"
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.UNDERESPRING"
-    },
-    {
-        "Name": "MINECRESPRING",
-        "Description": "Change respring logo to a green guy we all know",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088284761274978427/IMG_3253.png",
-        "Category": null,
-        "Caption": "Change respring logo to creeper",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088092241790238840/MINECRESPRING.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.MINECRESPRING"
-    },
-    {
-        "Name": "RespringSANS",
-        "Description": "SANS is Respring logo",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
-                {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": null,
-        "Category": null,
-        "Caption": "SANS is Respring logo",
-        "Screenshot": null,
-        "Releases": [
-            {
-                "Version": "0.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088084318951309343/RespringSANS.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.RespringSANS"
-    },
-    {
-        "Name": "LegacyLock",
-        "Description": "Good old lock sound!",
-        "Author": {
-            "Label": "しまりん",
-            "Links": [
-                {
-                    "Label": "しまりん",
-                    "Link": "https://twitter.com/straight_tamago"
+                    "Version": "0.4-156",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084722087240929300/hyde_v0.4-156.vdf",
+                    "Description": "Multi language support"
                 },
                 {
-                    "Label": "ChromiumCandy (Original Project, Settings Style)",
-                    "Link": "https://twitter.com/ChromiumCandy"
-                }
-            ]
-        },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088272137342693427/image0.jpg",
-        "Category": null,
-        "Caption": "Good old lock sound!",
-        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273101004996648/IMG_3269.png"],
-        "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/com.ChromiumCandy.iOSLockSound.misaka",
-                "Description": null
-            },
-            {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088294944822808636/com.straight-tamago.LegacyLock.misaka",
-                "Description": "Settings Style change"
-            }
-        ],
-        "PackageID": "com.straight-tamago.LegacyLock"
-    },
-    {
-        "Name": "EmojiSwap",
-        "Description": "Change emoji",
-        "Author": {
-            "Label": "ChromiumCandy",
-            "Links": [
+                    "Version": "0.5-156",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1084996735014817822/hyde_v0.5-156.vdf",
+                    "Description": "hyded No older notifications"
+                },
                 {
-                    "Label": "ChromiumCandy",
-                    "Link": "https://twitter.com/ChromiumCandy"
+                    "Version": "1.0-156",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589146738739/com.ChromiumCandy.156.misaka",
+                    "Description": ".vdf to .misaka"
                 }
-            ]
+            ],
+            "PackageID": "com.ChromiumCandy.156"
         },
-        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088268749850820778/9A2B01E5-E0C0-4BED-B733-0F976B702799.jpg",
-        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088268144407236618/1C66B9D1-D9D6-49DD-834C-A6F1BA9D23A1.jpg",
-        "Category": null,
-        "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
-        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273101332164680/IMG_3270.png"],
-        "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://download855.mediafire.com/6uchkokzl00gQ1zjlKYYm8I_Ey3VAShaFfK8W8v91GbT8QjcOVU8q9X_80-t5tXaP6vw_-rDu3rjeHHyqKXOA99FKxN7/19lsayx94wmcijq/EmojiSwap.misaka",
-                "Description": null
-            }
-        ],
-        "PackageID": "com.ChromiumCandy.EmojiSwap"
-    }
+        {
+            "Name": "iOS4LockSound",
+            "Description": "Legacy!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy(Main Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731280261918761/IMG_2412.jpg",
+            "Category": null,
+            "Caption": "iOS4 Lock sound.\na bit buggy so try respring and toggle on&off",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155646177058856/iOS4LockSound_v0.2.vdf",
+                    "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589465497670/com.ChromiumCandy.iOS4LockSound.misaka",
+                    "Description": ".vdf to .misaka"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.iOS4LockSound"
+        },
+        {
+            "Name": "iOS7LockSound",
+            "Description": "Good old sound!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy(Main Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731279926362132/IMG_2411.jpg",
+            "Category": null,
+            "Caption": "iOS7 Lock sound.\na bit buggy so try respring and toggle on&off",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1080155675503624284/iOS7LockSound_v0.2.vdf",
+                    "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589817823322/com.ChromiumCandy.iOS7LockSound.misaka",
+                    "Description": ".vdf to .misaka"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.iOS7LockSound"
+        },
+        {
+            "Name": "Shut up PayPay",
+            "Description": "PayPayの決済音無効化",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
+            "Category": null,
+            "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087387538127331432/ShutupPayPay.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.ShutupPayPay"
+        },
+        {
+            "Name": "SOMEBODY TOUCHA MY SPAGHET",
+            "Description": "SOMEBODY TOUCHA MY SPAGHET!!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087648347378155530/IMG_3158.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1087648079777382470/image0.gif",
+            "Category": null,
+            "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087621919702007818/SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087659901729390643/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Description": "volume changed"
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087927633033056327/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Description": "smt changed"
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Description": "仕様変更に対応"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
+        },
+        {
+            "Name": "DrumKey",
+            "Description": "Drum your Keyboard!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Drummmmmm!!!!!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087647811895574578/Drumkey.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.DrumKey"
+        },
+        {
+            "Name": "yjspLINE",
+            "Description": "やりますねー",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087931118633894008/A6667775-E988-4B9A-B562-ADB4909E63B7.jpg",
+            "Category": null,
+            "Caption": "やりますやります",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1087967185739186216/RPReplay_Final1679461964.mov"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087656111567536168/yjspLINE.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.yjspLINE"
+        },
+        {
+            "Name": "sansKey",
+            "Description": "*it's ALWAYS funny.",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.wikiwiki.jp/to/w/chaos-battle/Sans/::ref/Sans.png?rev=c10b14b283ab9c29cd27b81eb2256df8&t=20220203183111",
+            "Category": null,
+            "Caption": "",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1087947920290107452/RPReplay_Final1679448583.mov",
+                "https://cdn.discordapp.com/attachments/813615730473304064/1087985058553540618/IMG_3205.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087709738453717044/SansKey.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087926222312452197/com.ChromiumCandy.sansKey.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675217109074/com.ChromiumCandy.sansKey.misaka",
+                    "Description": "仕様変更に対応"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.sansKey"
+        },
+        {
+            "Name": "NoTLSound",
+            "Description": "Disable Twitter Refreshing sound!",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "ChromiumCandy (aac bug fix)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1087755553046016090/IMG_8144.png",
+            "Category": null,
+            "Caption": "Disable Twitter Refreshing sound!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087733505032732753/NoTLSound.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.NoTLSound"
+        },
+        {
+            "Name": "LegacyTwitter",
+            "Description": "Good old refresh sound",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "fsll20c (path)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://pbs.twimg.com/media/FrygRT4aIAEB7ET?format=jpg&name=medium",
+            "Category": null,
+            "Caption": "phssss...pop!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087734364588224686/LegacyTwitter.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.LegacyTwitter"
+        },
+        {
+            "Name": "UNDERESPRING",
+            "Description": "Change respring logo to heart",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088264556159193109/2432214B-8DCE-410F-8678-E8ECCFE8E9D1.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1088263782406557746/8B7A02CF-BA03-4970-B355-30329FB556F2.jpg",
+            "Category": null,
+            "Caption": "Change respring logo to heart",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1088273102020026553/IMG_3271.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088087163574419566/UNDERISPRING.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088260672611160194/com.ChromiumCandy.UNDERESPRING.misaka",
+                    "Description": "Selectable styles"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.UNDERESPRING"
+        },
+        {
+            "Name": "MINECRESPRING",
+            "Description": "Change respring logo to a green guy we all know",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088284761274978427/IMG_3253.png",
+            "Category": null,
+            "Caption": "Change respring logo to creeper",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088092241790238840/MINECRESPRING.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.MINECRESPRING"
+        },
+        {
+            "Name": "RespringSANS",
+            "Description": "SANS is Respring logo",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "SANS is Respring logo",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088084318951309343/RespringSANS.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.RespringSANS"
+        },
+        {
+            "Name": "LegacyLock",
+            "Description": "Good old lock sound!",
+            "Author": {
+                "Label": "しまりん",
+                "Links": [
+                    {
+                        "Label": "しまりん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "ChromiumCandy (Original Project, Settings Style)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088272137342693427/image0.jpg",
+            "Category": null,
+            "Caption": "Good old lock sound!",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1088273101004996648/IMG_3269.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/com.ChromiumCandy.iOSLockSound.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088294944822808636/com.straight-tamago.LegacyLock.misaka",
+                    "Description": "Settings Style change"
+                }
+            ],
+            "PackageID": "com.straight-tamago.LegacyLock"
+        },
+        {
+            "Name": "EmojiSwap",
+            "Description": "Change emoji",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088268749850820778/9A2B01E5-E0C0-4BED-B733-0F976B702799.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1088268144407236618/1C66B9D1-D9D6-49DD-834C-A6F1BA9D23A1.jpg",
+            "Category": null,
+            "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/813615730473304064/1088273101332164680/IMG_3270.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://download855.mediafire.com/6uchkokzl00gQ1zjlKYYm8I_Ey3VAShaFfK8W8v91GbT8QjcOVU8q9X_80-t5tXaP6vw_-rDu3rjeHHyqKXOA99FKxN7/19lsayx94wmcijq/EmojiSwap.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.EmojiSwap"
+        }
     ]
-  }
-  
+}
