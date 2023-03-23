@@ -663,8 +663,8 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1087959912698621982/IMG_3201.gif",
             "Category": null,
-            "Caption": "only blocks usage limits",
-            "Screenshot": null,
+            "Caption": "only blocks usage limits\nNOTE : WATCH THE VIDEO BELOW BEFORE ENABLING",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088309615755788359/Videoleap-C68A2C0B-75B0-4B83-838D-F355119E50C4.mov"],
             "Releases": [
                 {
                     "Version": "0.1",
