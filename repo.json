@@ -663,7 +663,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083783307608727592/336D5606-1611-4A62-B525-273A55B733C4.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1087959912698621982/IMG_3201.gif",
             "Category": null,
-            "Caption": "Safe though only blocks usage limits",
+            "Caption": "only blocks usage limits",
             "Screenshot": null,
             "Releases": [
                 {
@@ -675,6 +675,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/com.ChromiumCandy.FreeTime.misaka",
                     "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088301214510366792/com.ChromiumCandy.FreeTime.misaka",
+                    "Description": "Bug fix"
                 }
             ],
             "PackageID": "com.ChromiumCandy.FreeTime"
