@@ -1275,5 +1275,31 @@
             ],
             "PackageID": "com.ChromiumCandy.RollingCat"
         }
+        ,
+        {
+            "Name": "ResPM",
+            "Description": "Dynamic Island for Notch Devices",
+            "Author": {
+                "Label": "瑞秋",
+                "Links": [
+                    {
+                        "Label": "瑞秋",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "null",
+            "Category": null,
+            "Caption": "Change your resolution to iPhone 14 Pro Max and make a Dynamic Island appear",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.ResPM"
+        }
     ]
 }
