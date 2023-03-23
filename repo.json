@@ -1275,6 +1275,11 @@
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088482042108448921/DeviceSpoofer.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.5",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088495747256819793/DeviceSpoofer.misaka",
+                    "Description": "Resolution bug fix"
                 }
             ],
             "PackageID": "com.fall20c.DeviceSpoofer"
@@ -1291,7 +1296,7 @@
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/emojis/1056254031498063923.gif",
             "Category": null,
             "Caption": "Respring logo will be Rolling Cat",
             "Screenshot": null,
