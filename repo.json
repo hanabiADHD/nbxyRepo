@@ -1274,8 +1274,7 @@
                 }
             ],
             "PackageID": "com.ChromiumCandy.RollingCat"
-        }
-        ,
+        },
         {
             "Name": "ResPM",
             "Description": "Dynamic Island for Notch Devices",
@@ -1300,6 +1299,31 @@
                 }
             ],
             "PackageID": "com.fall20c.ResPM"
+        },
+        {
+            "Name": "MobileGestaltKiller",
+            "Description": "Reset your MobileGestaltCache",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "After apply & respring & reboot, you can reset your MobileGestaleCache",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.MGCKiller"
         }
     ]
 }
