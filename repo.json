@@ -1092,7 +1092,7 @@
                     "Link": "https://twitter.com/straight_tamago"
                 },
                 {
-                    "Label": "ChromiumCandy (Original Project)",
+                    "Label": "ChromiumCandy (Original Project, Settings Style)",
                     "Link": "https://twitter.com/ChromiumCandy"
                 }
             ]
@@ -1106,6 +1106,11 @@
                 "Version": "1.0",
                 "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/com.ChromiumCandy.iOSLockSound.misaka",
                 "Description": null
+            },
+            {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088294944822808636/com.straight-tamago.LegacyLock.misaka",
+                "Description": "Settings Style change"
             }
         ],
         "PackageID": "com.straight-tamago.LegacyLock"
