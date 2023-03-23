@@ -1301,8 +1301,8 @@
             "PackageID": "com.fall20c.ResPM"
         },
         {
-            "Name": "MobileGestaltKiller",
-            "Description": "Reset your MobileGestaltCache",
+            "Name": "MobileGestaltRestore",
+            "Description": "Restore your MobileGestaltCache",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
@@ -1323,7 +1323,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.fall20c.MGCKiller"
+            "PackageID": "com.fall20c.MGCRestore"
         }
     ]
 }
