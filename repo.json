@@ -254,7 +254,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083542196218773634/E09B919B-2741-4D96-937A-2BA095DE871E.jpg",
             "Category": null,
             "Caption": "Change statusbar 5G text to 7G and others!",
-            "Screenshot": ["https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large"],
+            "Screenshot": ["https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large","https://cdn.discordapp.com/attachments/813615730473304064/1088273102921805855/IMG_3273.png"],
             "Releases": [
                 {
                     "Version": "0.3.2",
@@ -303,7 +303,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083552066485616660/F8CF314D-4DEB-4C48-82D2-20C98C4A59D2.jpg",
             "Category": null,
             "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
-            "Screenshot": null,
+            "Screenshot": ["https://media.discordapp.net/attachments/813615730473304064/1088273100543631380/IMG_3268.png"],
             "Releases": [
                 {
                     "Version": "0.1",
@@ -536,6 +536,7 @@
             "Caption": "Disable CC & AppSwitcher blur",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FrLM4n3aAAMVs2H?format=jpg&name=large",
+                "https://cdn.discordapp.com/attachments/813615730473304064/1088273102301036625/IMG_3272.png",
                 "https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
                 "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"],
             "Releases": [
@@ -1011,16 +1012,21 @@
                 }
             ]
         },
-        "Icon": null,
-        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088090476948758649/B8E389DA-14A6-4F1D-B32A-2EBC7CA6C6C5.jpg",
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088264556159193109/2432214B-8DCE-410F-8678-E8ECCFE8E9D1.jpg",
+        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088263782406557746/8B7A02CF-BA03-4970-B355-30329FB556F2.jpg",
         "Category": null,
         "Caption": "Change respring logo to heart",
-        "Screenshot": null,
+        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273102020026553/IMG_3271.png"],
         "Releases": [
             {
                 "Version": "0.1",
                 "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088087163574419566/UNDERISPRING.misaka",
                 "Description": null
+            },
+            {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088260672611160194/com.ChromiumCandy.UNDERESPRING.misaka",
+                "Description": "Selectable styles"
             }
         ],
         "PackageID": "com.ChromiumCandy.UNDERESPRING"
@@ -1074,6 +1080,61 @@
             }
         ],
         "PackageID": "com.ChromiumCandy.RespringSANS"
+    },
+    {
+        "Name": "LegacyLock",
+        "Description": "Good old lock sound!",
+        "Author": {
+            "Label": "しまりん",
+            "Links": [
+                {
+                    "Label": "しまりん",
+                    "Link": "https://twitter.com/straight_tamago"
+                },
+                {
+                    "Label": "ChromiumCandy (Original Project)",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088272137342693427/image0.jpg",
+        "Category": null,
+        "Caption": "Good old lock sound!",
+        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273101004996648/IMG_3269.png"],
+        "Releases": [
+            {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/com.ChromiumCandy.iOSLockSound.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.straight-tamago.LegacyLock"
+    },
+    {
+        "Name": "EmojiSwap",
+        "Description": "Change emoji",
+        "Author": {
+            "Label": "ChromiumCandy",
+            "Links": [
+                {
+                    "Label": "ChromiumCandy",
+                    "Link": "https://twitter.com/ChromiumCandy"
+                }
+            ]
+        },
+        "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088268749850820778/9A2B01E5-E0C0-4BED-B733-0F976B702799.jpg",
+        "HeaderImage":"https://cdn.discordapp.com/attachments/813615730473304064/1088268144407236618/1C66B9D1-D9D6-49DD-834C-A6F1BA9D23A1.jpg",
+        "Category": null,
+        "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
+        "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1088273101332164680/IMG_3270.png"],
+        "Releases": [
+            {
+                "Version": "1.0",
+                "Package": "https://download855.mediafire.com/6uchkokzl00gQ1zjlKYYm8I_Ey3VAShaFfK8W8v91GbT8QjcOVU8q9X_80-t5tXaP6vw_-rDu3rjeHHyqKXOA99FKxN7/19lsayx94wmcijq/EmojiSwap.misaka",
+                "Description": null
+            }
+        ],
+        "PackageID": "com.ChromiumCandy.EmojiSwap"
     }
     ]
   }
