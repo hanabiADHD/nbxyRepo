@@ -153,7 +153,11 @@
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     },
                     {
-                        "Label": "ChromiumCandy(en support)",
+                        "Label": "YangJiii (path)",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "ChromiumCandy(support)",
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
@@ -181,6 +185,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
                     "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Creddit added"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
@@ -233,6 +242,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
                     "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
+                    "Description": "bug fix by Kumiki"
                 }
             ],
             "PackageID": "com.ChromiumCandy.14DND"
@@ -1324,6 +1338,60 @@
                 }
             ],
             "PackageID": "com.fall20c.MGCRestore"
+        },
+        {
+            "Name": "NoSwipeUpToOpen for 16",
+            "Description": "iOS16 supported!",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Only for iOS 16 users",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088641076203626506/NoSwipeUpToOpen16.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.NoSwipeUpToOpen16"
+        },
+        {
+            "Name": "AppleRingsResp",
+            "Description": "ported AppleRingsRespringTheme",
+            "Author": {
+              "Label": "ChromiumCandy",
+              "Links": [
+                  {
+                      "Label": "ChromiumCandy (.misaka porting)",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  },
+                  {
+                    "Label": "ichitaso (Animation)",
+                    "Link": "https://twitter.com/ichitaso"
+                }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "ported AppleRingsRespringTheme by ichitaso.\nAnimation provided by ichitaso♥",
+          "Screenshot": ["https://cdn.discordapp.com/attachments/1079074514257838130/1088745415500902511/2023-03-24_17h41_51.mp4","https://cdn.discordapp.com/attachments/813615730473304064/1088850889084772412/IMG_3491.png"],
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088638227390406686/Resplogo.misaka",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.ChromiumCandy.AppleRings"
         }
     ]
 }
