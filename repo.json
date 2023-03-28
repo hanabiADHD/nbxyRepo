@@ -1,6 +1,6 @@
 {
     "RepositoryName": "nbxy",
-    "RepositoryDescription": "*always wondered why people\nnever use their strongest attack first.",
+    "RepositoryDescription": "ChromiumCandy's repo",
     "RepositoryAuthor": "ChromiumCandy",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
     "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
@@ -1392,6 +1392,68 @@
               }
           ],
           "PackageID": "com.ChromiumCandy.AppleRings"
+        },
+        {
+            "Name": "XPing!",
+            "Description": "Discord ping sound to WinXP",
+            "Author": {
+                "Label": "ChromiumCandy&Leminz",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Leminz (BaseProj)",
+                        "Link": "https://twitter.com/https://twitter.com/LeminLimez"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Discord ping sound to WindowsXP starting sound\nmade based on Sumsung Discord Ping by Leminz",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090220340128526376/com.leemin.samsungdiscordping.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.XPing"
+        },
+        {
+            "Name": "ARIA Pass",
+            "Description": "IA & ONE on Passcode!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "34306 (Base Project)",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "しまりん (Bug fix)",
+                        "Link": "https://twitter.com/straight-tamago"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "IA & ONE on Passcode!",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1090221483399331840/IMG_3648.png"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090129076687212654/ARIA-Pass.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.ARIAPass"
         }
     ]
 }
