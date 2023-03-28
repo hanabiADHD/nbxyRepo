@@ -605,6 +605,7 @@
         {
             "Name": "ControlCenterController",
             "Description": "Customize your CC!",
+            "MinIOSVersion": "99.9",
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
