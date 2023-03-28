@@ -146,7 +146,7 @@
             "Name": "NoSwipeUpToOpen",
             "Description": "Remove the text",
             "Author": {
-                "Label": "Kumiki & ChromiumCandy",
+                "Label": "Kumiki, fal20c & ChromiumCandy",
                 "Links": [
                     {
                         "Label": "Kumiki (Main Dev)",
@@ -157,11 +157,11 @@
                         "Link": "https://twitter.com/duongduong0908"
                     },
                     {
-                        "Label": "ChromiumCandy(support)",
+                        "Label": "ChromiumCandy(multi language support, config)",
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label": "瑞秋(Icon,Support ios16)",
+                        "Label": "瑞秋(Icon,iOS16 Support)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
@@ -194,7 +194,7 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Compatible with iOS15 and iOS16 (by Kumiki)"
+                    "Description": "Compatible with iOS15 and iOS16 (by Kumiki & fall20c)"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
