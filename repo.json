@@ -1,6 +1,6 @@
 {
     "RepositoryName": "nbxy",
-    "RepositoryDescription": "ChromiumCandy's repo",
+    "RepositoryDescription": "ChromiumCandy & fall20c's repo",
     "RepositoryAuthor": "ChromiumCandy",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
     "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
@@ -552,7 +552,7 @@
                         "Link": "https://twitter.com/straight_tamago"
                     },
                     {
-                        "Label": "Sugiuta",
+                        "Label": "Sugiuta (Hide Passcode Blur)",
                         "Link": "https://twitter.com/FeAr_sugi"
                     }
                 ]
@@ -1408,7 +1408,7 @@
             "Name": "XPing!",
             "Description": "Discord ping sound to WinXP",
             "Author": {
-                "Label": "ChromiumCandy&Leminz",
+                "Label": "ChromiumCandy & Leminz",
                 "Links": [
                     {
                         "Label": "ChromiumCandy",
