@@ -194,7 +194,7 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
+                    "Description": "Compatible with iOS15 and iOS16 (by Kumiki)"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
@@ -1400,7 +1400,7 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090232485134225448/33668CD5-4108-42F6-8518-DC684F2FDAC7.jpg",
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090281273228021850/84028BEA-EF28-46AA-AB13-B2D4C94F21D5.jpg",
             "Category": null,
             "Caption": "Discord ping sound to WindowsXP starting sound\nmade based on Sumsung Discord Ping by Leminz",
             "Screenshot": null,
