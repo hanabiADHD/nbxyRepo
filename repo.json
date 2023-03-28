@@ -550,6 +550,10 @@
                     {
                         "Label": "しまりん(Path)",
                         "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "Sugiuta",
+                        "Link": "https://twitter.com/FeAr_sugi"
                     }
                 ]
             },
@@ -598,7 +602,13 @@
                     "Version": "2.3.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/com.ChromiumCandy.Clearity.misaka",
                     "Description": "仕様変更に対応"
+                },
+                {
+                    "Version": "2.4.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090264061725376582/com.ChromiumCandy.Clearity.misaka",
+                    "Description": "Clearified passcode backround.\nMade based on Hide Passcode Blur by Sugiuta"
                 }
+                
             ],
             "PackageID": "com.ChromiumCandy.Clearity"
         },
