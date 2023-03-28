@@ -127,7 +127,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084274792703733770/IMG_2351.jpg",
             "Category": null,
             "Caption": "Kill ur fucking web filter",
-            "Screenshot": null,
+            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1090230463542599741/Videoleap-4CE2F1DF-08E2-435C-9F59-6ADBB9B84B01.mov"],
             "Releases": [
                 {
                     "Version": "0.1",
