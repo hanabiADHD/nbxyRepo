@@ -161,7 +161,7 @@
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label": "瑞秋(Icon)",
+                        "Label": "瑞秋(Icon,Support ios16)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
@@ -1354,31 +1354,6 @@
                 }
             ],
             "PackageID": "com.fall20c.MGCRestore"
-        },
-        {
-            "Name": "NoSwipeUpToOpen for 16",
-            "Description": "iOS16 supported!",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": null,
-            "Caption": "Only for iOS 16 users",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088641076203626506/NoSwipeUpToOpen16.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.fall20c.NoSwipeUpToOpen16"
         },
         {
             "Name": "AppleRingsResp",
