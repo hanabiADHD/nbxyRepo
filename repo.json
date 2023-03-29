@@ -618,9 +618,9 @@
                     "Description": "Clearified passcode backround.\nMade based on Hide Passcode Blur by Sugiuta"
                 },
                 {
-                    "Version": "2.5.0",
+                    "Version": "2.4.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090533667241201734/com.ChromiumCandy.Clearity.misaka",
-                    "Description": "Reduce file size"
+                    "Description": "File size issue fixed by Kumiki"
                 }
                 
             ],
