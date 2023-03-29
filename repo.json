@@ -1482,6 +1482,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090616977413918790/AppleResplogo.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090620564508512337/jp.ChromiumCandy.Respple.misaka",
+                    "Description": "small bug fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple"
