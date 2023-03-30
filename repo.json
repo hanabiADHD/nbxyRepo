@@ -1490,6 +1490,35 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple"
+        },
+        {
+            "Name": "GenshinCC",
+            "Description": "CC icons are Genshin elements",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "ChromiumCandy (.misaka porting)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090872012441923605/IMG_3738.png",
+            "Category": null,
+            "Caption": "CC icons are Genshin elements",
+            "Screenshot": ["https://images-ext-2.discordapp.net/external/9TldazjJ0qPUmemwOEYv25ioaTkUNmhohsM-mRtOFL4/https/pbs.twimg.com/media/Fry0fHyXgAEvLgx.jpg?width=237&height=512"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088444683690201098/CCstuff.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.34306.GenshinCC"
         }
     ]
 }
