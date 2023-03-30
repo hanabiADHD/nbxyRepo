@@ -272,7 +272,7 @@
             "Category": null,
             "Caption": "Change statusbar 5G text to 7G and others!",
             "Screenshot": [
-                "https://pbs.twimg.com/media/FqNOrXsacAAk_GK?format=jpg&name=large",
+                "https://pbs.twimg.com/media/Fr4hmCCakAARPde?format=jpg&name=large",
                 "https://cdn.discordapp.com/attachments/813615730473304064/1088273102921805855/IMG_3273.png"
             ],
             "Releases": [
@@ -1069,6 +1069,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1098,7 +1102,7 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006262218608640/com.ChromiumCandy.UNDERESPRING.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.UNDERESPRING"
@@ -1112,6 +1116,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1128,7 +1136,7 @@
                 {
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090992443115180082/com.ChromiumCandy.MINECRESPRING.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.MINECRESPRING"
@@ -1142,6 +1150,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1158,7 +1170,7 @@
                 {
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006261430079591/com.ChromiumCandy.RespringSANS.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.RespringSANS"
@@ -1176,6 +1188,10 @@
                     {
                         "Label": "ChromiumCandy (Original Project, Settings Style)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1199,7 +1215,7 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090959745361387550/com.straight-tamago.LegacyLock.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "com.straight-tamago.LegacyLock"
@@ -1407,6 +1423,10 @@
                   {
                     "Label": "ichitaso (Animation)",
                     "Link": "https://twitter.com/ichitaso"
+                },
+                {
+                    "Label": "Kumiki (Function optimization)",
+                    "Link": "https://twitter.com/FisqWclCKB8xtLC"
                 }
               ]
           },
@@ -1423,7 +1443,7 @@
               {
                 "Version": "0.2",
                 "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006260511526952/com.ChromiumCandy.AppleRings.misaka",
-                "Description": "update"
+                "Description": "Function updated by Kumiki"
               }
           ],
           "PackageID": "jp.ChromiumCandy.AppleRings"
@@ -1500,6 +1520,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1521,7 +1545,7 @@
                 {
                     "Version": "0.3",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006260914171924/com.ChromiumCandy.Respple.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple"
@@ -1539,6 +1563,10 @@
                     {
                         "Label": "ChromiumCandy (.misaka porting)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1555,7 +1583,7 @@
                 {
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090959745654992946/com.34306.GenshinCC.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "com.34306.GenshinCC"
@@ -1569,6 +1597,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
@@ -1585,7 +1617,7 @@
                 {
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006262600269914/jp.ChromiumCandy.Respple2.misaka",
-                    "Description": "update"
+                    "Description": "Function updated by Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
