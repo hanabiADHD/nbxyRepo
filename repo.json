@@ -33,11 +33,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590438596658/jp.ChromiumCandy.TrollBalloon.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590438596658/com.ChromiumCandy.TrollBalloon.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.TrollBalloon"
+            "PackageID": "com.ChromiumCandy.TrollBalloon"
         },
         {
             "Name": "TrollLazer",
@@ -65,11 +65,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590606360649/jp.ChromiumCandy.TrollLazer.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590606360649/com.ChromiumCandy.TrollLazer.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.TrollLazer"
+            "PackageID": "com.ChromiumCandy.TrollLazer"
         },
         {
             "Name": "TrollSpotlight",
@@ -102,11 +102,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589322907718/jp.ChromiumCandy.TrollSpotlight.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589322907718/com.ChromiumCandy.TrollSpotlight.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.TrollSpotlight"
+            "PackageID": "com.ChromiumCandy.TrollSpotlight"
         },
         {
             "Name": "GonnaKillYaWebContentFilter",
@@ -136,11 +136,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589587136592/jp.ChromiumCandy.GonnaKillYaWCF.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589587136592/com.ChromiumCandy.GonnaKillYaWCF.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.GonnaKillYaWCF"
+            "PackageID": "com.ChromiumCandy.GonnaKillYaWCF"
         },
         {
             "Name": "NoSwipeUpToOpen",
@@ -245,16 +245,16 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/jp.ChromiumCandy.14DND.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
                     "Description": ".vdf to .misaka"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/jp.ChromiumCandy.14DND.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
                     "Description": "bug fix by Kumiki"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.14DND"
+            "PackageID": "com.ChromiumCandy.14DND"
         },
         {
             "Name": "7G",
@@ -293,16 +293,16 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087199954956726272/jp.ChromiumCandy.7G.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087199954956726272/com.ChromiumCandy.7G.misaka",
                     "Description": ".vdf to .misaka\nmoved Custom string in tweak settings"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674713776128/jp.ChromiumCandy.7G.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674713776128/com.ChromiumCandy.7G.misaka",
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.7G"
+            "PackageID": "com.ChromiumCandy.7G"
         },
         {
             "Name": "RegionSwap",
@@ -369,11 +369,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590195323011/jp.ChromiumCandy.PixelShutter.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590195323011/com.ChromiumCandy.PixelShutter.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.PixelShutter"
+            "PackageID": "com.ChromiumCandy.PixelShutter"
         },
         {
             "Name": "NoCameraSound",
@@ -444,7 +444,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.Twemoji"
+            "PackageID": "com.ChromiumCandy.Twemoji"
         },
         {
             "Name": "Blobmoji",
@@ -476,7 +476,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.Blobmoji"
+            "PackageID": "com.ChromiumCandy.Blobmoji"
         },
         {
             "Name": "NotoColourEmoji",
@@ -506,7 +506,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.NotoColorEmoji"
+            "PackageID": "com.ChromiumCandy.NotoColorEmoji"
         },
         {
             "Name": "NoSettingsIcon",
@@ -599,32 +599,32 @@
                 },
                 {
                     "Version": "2.0.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/jp.ChromiumCandy.Clearity.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589092225105/com.ChromiumCandy.Clearity.misaka",
                     "Description": ".vdf to .misaka"
                 },
                 {
                     "Version": "2.2.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/jp.ChromiumCandy.Clearity.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087610282131591218/com.ChromiumCandy.Clearity.misaka",
                     "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
                 },
                 {
                     "Version": "2.3.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/jp.ChromiumCandy.Clearity.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997674969632799/com.ChromiumCandy.Clearity.misaka",
                     "Description": "仕様変更に対応"
                 },
                 {
                     "Version": "2.4.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090264061725376582/jp.ChromiumCandy.Clearity.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090264061725376582/com.ChromiumCandy.Clearity.misaka",
                     "Description": "Clearified passcode backround.\nMade based on Hide Passcode Blur by Sugiuta"
                 },
                 {
                     "Version": "2.4.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090533667241201734/jp.ChromiumCandy.Clearity.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090533667241201734/com.ChromiumCandy.Clearity.misaka",
                     "Description": "File size issue fixed by Kumiki"
                 }
                 
             ],
-            "PackageID": "jp.ChromiumCandy.Clearity"
+            "PackageID": "com.ChromiumCandy.Clearity"
         },
         {
             "Name": "ControlCenterController",
@@ -651,11 +651,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589335486524/jp.ChromiumCandy.CCController.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589335486524/com.ChromiumCandy.CCController.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.CCController"
+            "PackageID": "com.ChromiumCandy.CCController"
         },
         {
             "Name": "EnableSupervisedMode",
@@ -681,11 +681,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/jp.ChromiumCandy.Supervise.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/com.ChromiumCandy.Supervise.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.Supervise"
+            "PackageID": "com.ChromiumCandy.Supervise"
         },
         {
             "Name": "FreeTime",
@@ -712,16 +712,16 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/jp.ChromiumCandy.FreeTime.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589255786616/com.ChromiumCandy.FreeTime.misaka",
                     "Description": ".vdf to .misaka"
                 },
                 {
                     "Version": "2.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088301214510366792/jp.ChromiumCandy.FreeTime.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088301214510366792/com.ChromiumCandy.FreeTime.misaka",
                     "Description": "Bug fix"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.FreeTime"
+            "PackageID": "com.ChromiumCandy.FreeTime"
         },
         {
             "Name": "hyde",
@@ -772,11 +772,11 @@
                 },
                 {
                     "Version": "1.0-156",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589146738739/jp.ChromiumCandy.156.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589146738739/com.ChromiumCandy.156.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.156"
+            "PackageID": "com.ChromiumCandy.156"
         },
         {
             "Name": "iOS4LockSound",
@@ -806,11 +806,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589465497670/jp.ChromiumCandy.iOS4LockSound.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589465497670/com.ChromiumCandy.iOS4LockSound.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.iOS4LockSound"
+            "PackageID": "com.ChromiumCandy.iOS4LockSound"
         },
         {
             "Name": "iOS7LockSound",
@@ -840,11 +840,11 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589817823322/jp.ChromiumCandy.iOS7LockSound.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589817823322/com.ChromiumCandy.iOS7LockSound.misaka",
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.iOS7LockSound"
+            "PackageID": "com.ChromiumCandy.iOS7LockSound"
         },
         {
             "Name": "Shut up PayPay",
@@ -869,7 +869,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.ShutupPayPay"
+            "PackageID": "com.ChromiumCandy.ShutupPayPay"
         },
         {
             "Name": "SOMEBODY TOUCHA MY SPAGHET",
@@ -896,21 +896,21 @@
                 },
                 {
                     "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087659901729390643/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087659901729390643/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                     "Description": "volume changed"
                 },
                 {
                     "Version": "0.3",
-                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087927633033056327/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087927633033056327/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                     "Description": "smt changed"
                 },
                 {
                     "Version": "0.4",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
+            "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
         },
         {
             "Name": "DrumKey",
@@ -935,7 +935,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.DrumKey"
+            "PackageID": "com.ChromiumCandy.DrumKey"
         },
         {
             "Name": "yjspLINE",
@@ -962,7 +962,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.yjspLINE"
+            "PackageID": "com.ChromiumCandy.yjspLINE"
         },
         {
             "Name": "sansKey",
@@ -991,16 +991,16 @@
                 },
                 {
                     "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087926222312452197/jp.ChromiumCandy.sansKey.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087926222312452197/com.ChromiumCandy.sansKey.misaka",
                     "Description": null
                 },
                 {
                     "Version": "0.3",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675217109074/jp.ChromiumCandy.sansKey.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675217109074/com.ChromiumCandy.sansKey.misaka",
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.sansKey"
+            "PackageID": "com.ChromiumCandy.sansKey"
         },
         {
             "Name": "NoTLSound",
@@ -1058,7 +1058,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.LegacyTwitter"
+            "PackageID": "com.ChromiumCandy.LegacyTwitter"
         },
         {
             "Name": "UNDERESPRING",
@@ -1087,16 +1087,16 @@
                 },
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088260672611160194/jp.ChromiumCandy.UNDERESPRING.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088260672611160194/com.ChromiumCandy.UNDERESPRING.misaka",
                     "Description": "Selectable styles"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090615327236296744/jp.ChromiumCandy.UNDERESPRING.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090615327236296744/com.ChromiumCandy.UNDERESPRING.misaka",
                     "Description": "update"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.UNDERESPRING"
+            "PackageID": "com.ChromiumCandy.UNDERESPRING"
         },
         {
             "Name": "MINECRESPRING",
@@ -1121,7 +1121,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.MINECRESPRING"
+            "PackageID": "com.ChromiumCandy.MINECRESPRING"
         },
         {
             "Name": "RespringSANS",
@@ -1146,7 +1146,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.RespringSANS"
+            "PackageID": "com.ChromiumCandy.RespringSANS"
         },
         {
             "Name": "LegacyLock",
@@ -1173,7 +1173,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/jp.ChromiumCandy.iOSLockSound.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1088168813977161838/com.ChromiumCandy.iOSLockSound.misaka",
                     "Description": null
                 },
                 {
@@ -1210,7 +1210,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.EmojiSwap"
+            "PackageID": "com.ChromiumCandy.EmojiSwap"
         },
         {
             "Name": "7G for iOS16",
@@ -1235,7 +1235,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088441090002137098/jp.ChromiumCandy.7G.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088441090002137098/com.ChromiumCandy.7G.misaka",
                     "Description": null
                 }
             ],
@@ -1264,7 +1264,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.ApplePayPay"
+            "PackageID": "com.ChromiumCandy.ApplePayPay"
         },
         {
             "Name": "14DND for iOS 16(SpringLang = ja)",
@@ -1288,7 +1288,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088450247379927090/jp.ChromiumCandy.14DND.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088450247379927090/com.ChromiumCandy.14DND.misaka",
                     "Description": null
                 }
             ],
@@ -1317,7 +1317,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.RollingCat"
+            "PackageID": "com.ChromiumCandy.RollingCat"
         },
         {
             "Name": "ResPM",
@@ -1396,7 +1396,7 @@
                   "Description": null
               }
           ],
-          "PackageID": "jp.ChromiumCandy.AppleRings"
+          "PackageID": "com.ChromiumCandy.AppleRings"
         },
         {
             "Name": "XPing!",
@@ -1425,7 +1425,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.XPing"
+            "PackageID": "com.ChromiumCandy.XPing"
         },
         {
             "Name": "ARIA Pass",
@@ -1459,7 +1459,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.ARIAPass"
+            "PackageID": "com.ChromiumCandy.ARIAPass"
         },
         {
             "Name": "Respple",
@@ -1485,11 +1485,11 @@
                 },
                 {
                     "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090620564508512337/jp.ChromiumCandy.Respple.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090620564508512337/com.ChromiumCandy.Respple.misaka",
                     "Description": "small bug fix"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.Respple"
+            "PackageID": "com.ChromiumCandy.Respple"
         },
         {
             "Name": "GenshinCC",
