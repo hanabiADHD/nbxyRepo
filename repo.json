@@ -37,7 +37,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.TrollBalloon"
+            "PackageID": "jp.ChromiumCandy.TrollBalloon"
         },
         {
             "Name": "TrollLazer",
@@ -69,7 +69,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.TrollLazer"
+            "PackageID": "jp.ChromiumCandy.TrollLazer"
         },
         {
             "Name": "TrollSpotlight",
@@ -106,7 +106,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.TrollSpotlight"
+            "PackageID": "jp.ChromiumCandy.TrollSpotlight"
         },
         {
             "Name": "GonnaKillYaWebContentFilter",
@@ -140,7 +140,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.GonnaKillYaWCF"
+            "PackageID": "jp.ChromiumCandy.GonnaKillYaWCF"
         },
         {
             "Name": "NoSwipeUpToOpen",
@@ -254,7 +254,7 @@
                     "Description": "bug fix by Kumiki"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.14DND"
+            "PackageID": "jp.ChromiumCandy.14DND"
         },
         {
             "Name": "7G",
@@ -302,7 +302,7 @@
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.7G"
+            "PackageID": "jp.ChromiumCandy.7G"
         },
         {
             "Name": "RegionSwap",
@@ -373,7 +373,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.PixelShutter"
+            "PackageID": "jp.ChromiumCandy.PixelShutter"
         },
         {
             "Name": "NoCameraSound",
@@ -444,7 +444,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.Twemoji"
+            "PackageID": "jp.ChromiumCandy.Twemoji"
         },
         {
             "Name": "Blobmoji",
@@ -476,7 +476,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.Blobmoji"
+            "PackageID": "jp.ChromiumCandy.Blobmoji"
         },
         {
             "Name": "NotoColourEmoji",
@@ -506,7 +506,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.NotoColorEmoji"
+            "PackageID": "jp.ChromiumCandy.NotoColorEmoji"
         },
         {
             "Name": "NoSettingsIcon",
@@ -624,7 +624,7 @@
                 }
                 
             ],
-            "PackageID": "com.ChromiumCandy.Clearity"
+            "PackageID": "jp.ChromiumCandy.Clearity"
         },
         {
             "Name": "ControlCenterController",
@@ -655,7 +655,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.CCController"
+            "PackageID": "jp.ChromiumCandy.CCController"
         },
         {
             "Name": "EnableSupervisedMode",
@@ -685,7 +685,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.Supervise"
+            "PackageID": "jp.ChromiumCandy.Supervise"
         },
         {
             "Name": "FreeTime",
@@ -721,7 +721,7 @@
                     "Description": "Bug fix"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.FreeTime"
+            "PackageID": "jp.ChromiumCandy.FreeTime"
         },
         {
             "Name": "hyde",
@@ -776,7 +776,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.156"
+            "PackageID": "jp.ChromiumCandy.156"
         },
         {
             "Name": "iOS4LockSound",
@@ -810,7 +810,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.iOS4LockSound"
+            "PackageID": "jp.ChromiumCandy.iOS4LockSound"
         },
         {
             "Name": "iOS7LockSound",
@@ -844,7 +844,7 @@
                     "Description": ".vdf to .misaka"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.iOS7LockSound"
+            "PackageID": "jp.ChromiumCandy.iOS7LockSound"
         },
         {
             "Name": "Shut up PayPay",
@@ -869,7 +869,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.ShutupPayPay"
+            "PackageID": "jp.ChromiumCandy.ShutupPayPay"
         },
         {
             "Name": "SOMEBODY TOUCHA MY SPAGHET",
@@ -910,7 +910,7 @@
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
+            "PackageID": "jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
         },
         {
             "Name": "DrumKey",
@@ -935,7 +935,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.DrumKey"
+            "PackageID": "jp.ChromiumCandy.DrumKey"
         },
         {
             "Name": "yjspLINE",
@@ -962,7 +962,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.yjspLINE"
+            "PackageID": "jp.ChromiumCandy.yjspLINE"
         },
         {
             "Name": "sansKey",
@@ -1000,7 +1000,7 @@
                     "Description": "仕様変更に対応"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.sansKey"
+            "PackageID": "jp.ChromiumCandy.sansKey"
         },
         {
             "Name": "NoTLSound",
@@ -1058,7 +1058,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.LegacyTwitter"
+            "PackageID": "jp.ChromiumCandy.LegacyTwitter"
         },
         {
             "Name": "UNDERESPRING",
@@ -1096,7 +1096,7 @@
                     "Description": "update"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.UNDERESPRING"
+            "PackageID": "jp.ChromiumCandy.UNDERESPRING"
         },
         {
             "Name": "MINECRESPRING",
@@ -1121,7 +1121,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.MINECRESPRING"
+            "PackageID": "jp.ChromiumCandy.MINECRESPRING"
         },
         {
             "Name": "RespringSANS",
@@ -1146,7 +1146,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.RespringSANS"
+            "PackageID": "jp.ChromiumCandy.RespringSANS"
         },
         {
             "Name": "LegacyLock",
@@ -1210,7 +1210,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.EmojiSwap"
+            "PackageID": "jp.ChromiumCandy.EmojiSwap"
         },
         {
             "Name": "7G for iOS16",
@@ -1264,7 +1264,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.ApplePayPay"
+            "PackageID": "jp.ChromiumCandy.ApplePayPay"
         },
         {
             "Name": "14DND for iOS 16(SpringLang = ja)",
@@ -1317,7 +1317,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.RollingCat"
+            "PackageID": "jp.ChromiumCandy.RollingCat"
         },
         {
             "Name": "ResPM",
@@ -1396,7 +1396,7 @@
                   "Description": null
               }
           ],
-          "PackageID": "com.ChromiumCandy.AppleRings"
+          "PackageID": "jp.ChromiumCandy.AppleRings"
         },
         {
             "Name": "XPing!",
@@ -1425,7 +1425,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.XPing"
+            "PackageID": "jp.ChromiumCandy.XPing"
         },
         {
             "Name": "ARIA Pass",
@@ -1459,7 +1459,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.ChromiumCandy.ARIAPass"
+            "PackageID": "jp.ChromiumCandy.ARIAPass"
         },
         {
             "Name": "Respple",
@@ -1489,7 +1489,7 @@
                     "Description": "small bug fix"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.Respple"
+            "PackageID": "jp.ChromiumCandy.Respple"
         },
         {
             "Name": "GenshinCC",
