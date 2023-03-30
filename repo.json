@@ -1519,6 +1519,32 @@
                 }
             ],
             "PackageID": "com.34306.GenshinCC"
+        },
+        {
+            "Name": "Respple2",
+            "Description": "Apple respring logo",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090937672211632158/IMG_3741.gif",
+            "Category": "Respring Theme",
+            "Caption": "Apple respring logo\nSelectable styles",
+            "Screenshot": "https://cdn.discordapp.com/attachments/813615730473304064/1090814673995178096/655008EC-6965-4597-B58F-BBE7756D28B1.jpg",
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090891363488378950/sand.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.Respple2"
         }
+
     ]
 }
