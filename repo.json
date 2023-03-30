@@ -1094,6 +1094,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090615327236296744/com.ChromiumCandy.UNDERESPRING.misaka",
                     "Description": "update"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006262218608640/com.ChromiumCandy.UNDERESPRING.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.UNDERESPRING"
@@ -1119,6 +1124,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088092241790238840/MINECRESPRING.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090992443115180082/com.ChromiumCandy.MINECRESPRING.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.MINECRESPRING"
@@ -1144,6 +1154,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088084318951309343/RespringSANS.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006261430079591/com.ChromiumCandy.RespringSANS.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.RespringSANS"
@@ -1180,6 +1195,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088294944822808636/com.straight-tamago.LegacyLock.misaka",
                     "Description": "Settings Style change"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090959745361387550/com.straight-tamago.LegacyLock.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "com.straight-tamago.LegacyLock"
@@ -1315,6 +1335,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088484531335594165/RollyCat.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006261824323624/com.ChromiumCandy.RollingCat.misaka",
+                    "Description": null
                 }
             ],
             "PackageID": "jp.ChromiumCandy.RollingCat"
@@ -1394,6 +1419,11 @@
                   "Version": "0.1",
                   "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088638227390406686/Resplogo.misaka",
                   "Description": null
+              },
+              {
+                "Version": "0.2",
+                "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006260511526952/com.ChromiumCandy.AppleRings.misaka",
+                "Description": "update"
               }
           ],
           "PackageID": "jp.ChromiumCandy.AppleRings"
@@ -1487,6 +1517,11 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090620564508512337/com.ChromiumCandy.Respple.misaka",
                     "Description": "small bug fix"
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006260914171924/com.ChromiumCandy.Respple.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple"
@@ -1516,6 +1551,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088444683690201098/CCstuff.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090959745654992946/com.34306.GenshinCC.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "com.34306.GenshinCC"
@@ -1541,6 +1581,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090891363488378950/sand.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006262600269914/jp.ChromiumCandy.Respple2.misaka",
+                    "Description": "update"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
