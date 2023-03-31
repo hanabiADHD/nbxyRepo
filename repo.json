@@ -1386,7 +1386,7 @@
         },
         {
             "Name": "ResPM",
-            "Description": "Dynamic Island for iOS 16 Notch Devices",
+            "Description": "Dynamic Island for iOS 16 Notched Devices",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
@@ -1398,7 +1398,7 @@
             },
             "Icon": "https://pbs.twimg.com/media/FsjunrracAEPXe3?format=jpg&name=large",
             "Category": null,
-            "Caption": "Change your resolution to iPhone 14 Pro Max and make Dynamic Island appear \n Warning: iOS 15 is not supported",
+            "Caption": "Change your resolution to iPhone 14 Pro Max and make Dynamic Island appear \nWarning: iOS 15 is not supported",
             "Screenshot": null,
             "Releases": [
                 {
