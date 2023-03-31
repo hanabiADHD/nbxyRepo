@@ -145,6 +145,7 @@
         {
             "Name": "NoSwipeUpToOpen",
             "Description": "Remove the text",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki, fal20c & ChromiumCandy",
                 "Links": [
@@ -190,14 +191,35 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
                     "Description": "Creddit added"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Compatible with iOS15 and iOS16 (by Kumiki & fall20c)"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
+        },
+        {
+            "Name": "NoSwipeUpToOpen for 16",
+            "Description": "iOS16 supported!",
+            "MinIOSVersion": "16",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Only for iOS 16 users",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088641076203626506/NoSwipeUpToOpen16.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.NoSwipeUpToOpen16"
         },
         {
             "Name": "14DND",
@@ -257,6 +279,35 @@
             "PackageID": "jp.ChromiumCandy.14DND"
         },
         {
+            "Name": "14DND for iOS 16(SpringLang = ja)",
+            "Description": "14DND for iOS 16(SpringLang = ja)",
+            "MinIOSVersion": "16",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c (Main dev)",
+                        "Link": "https://twitter.com/fall20c"
+                    },{
+                        "Label": "ChromiumCandy (Original project)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "14DND for iOS 16(SpringLang = ja)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088450247379927090/com.ChromiumCandy.14DND.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.14DND4iOS16"
+        },
+        {
             "Name": "7G",
             "Description": "Change 5G to 7G",
             "Author": {
@@ -303,6 +354,36 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.7G"
+        },
+        {
+            "Name": "7G for iOS16",
+            "Description": "only for ja",
+            "MinIOSVersion": "16",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c (Main dev)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "ChromiumCandy (Original project)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "7G for iOS16",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088441090002137098/com.ChromiumCandy.7G.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.fall20c.7G4iOS16"
         },
         {
             "Name": "RegionSwap",
@@ -1249,35 +1330,6 @@
             "PackageID": "jp.ChromiumCandy.EmojiSwap"
         },
         {
-            "Name": "7G for iOS16",
-            "Description": "only for ja",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c (Main dev)",
-                        "Link": "https://twitter.com/fall20c"
-                    },
-                    {
-                        "Label": "ChromiumCandy (Original project)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": null,
-            "Caption": "7G for iOS16",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088441090002137098/com.ChromiumCandy.7G.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.fall20c.7G4iOS16"
-        },
-        {
             "Name": "ApplePayPay",
             "Description": "ペイペイ！をプピーン！に",
             "Author": {
@@ -1301,34 +1353,6 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ApplePayPay"
-        },
-        {
-            "Name": "14DND for iOS 16(SpringLang = ja)",
-            "Description": "14DND for iOS 16(SpringLang = ja)",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c (Main dev)",
-                        "Link": "https://twitter.com/fall20c"
-                    },{
-                        "Label": "ChromiumCandy (Original project)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": null,
-            "Caption": "14DND for iOS 16(SpringLang = ja)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088450247379927090/com.ChromiumCandy.14DND.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.fall20c.14DND4iOS16"
         },
         {
             "Name": "RollyCat",
