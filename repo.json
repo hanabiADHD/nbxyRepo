@@ -402,7 +402,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083552066485616660/F8CF314D-4DEB-4C48-82D2-20C98C4A59D2.jpg",
-            "Category": null,
+            "Category": "MobileGestalt",
             "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
             "Screenshot": [
                 "https://media.discordapp.net/attachments/813615730473304064/1088273100543631380/IMG_3268.png"
@@ -439,7 +439,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084274974459691058/E2317534-9C07-4E3A-B1BB-5566E0D07F43.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Change camera shutter to Pixel's",
             "Screenshot": null,
             "Releases": [
@@ -473,7 +473,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083390259192152094/3ADF0B29-04A6-4844-9007-335CDAECEE06.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Destroy noisy annnoying cursed Shutter sound",
             "Screenshot": null,
             "Releases": [
@@ -876,7 +876,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731280261918761/IMG_2412.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "iOS4 Lock sound.\na bit buggy so try respring and toggle on&off",
             "Screenshot": null,
             "Releases": [
@@ -904,13 +904,13 @@
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label": "瑞秋(Icon)",
+                        "Label": "fall20c(Icon)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084731279926362132/IMG_2411.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "iOS7 Lock sound.\na bit buggy so try respring and toggle on&off",
             "Screenshot": null,
             "Releases": [
@@ -940,7 +940,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ",
             "Screenshot": null,
             "Releases": [
@@ -1006,7 +1006,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Drummmmmm!!!!!",
             "Screenshot": null,
             "Releases": [
@@ -1031,7 +1031,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087931118633894008/A6667775-E988-4B9A-B562-ADB4909E63B7.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "やりますやります",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1087967185739186216/RPReplay_Final1679461964.mov"
@@ -1100,7 +1100,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1087755553046016090/IMG_8144.png",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Disable Twitter Refreshing sound!",
             "Screenshot": null,
             "Releases": [
@@ -1129,7 +1129,7 @@
                 ]
             },
             "Icon": "https://pbs.twimg.com/media/FrygRT4aIAEB7ET?format=jpg&name=medium",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "phssss...pop!",
             "Screenshot": null,
             "Releases": [
@@ -1159,7 +1159,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088264556159193109/2432214B-8DCE-410F-8678-E8ECCFE8E9D1.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1088263782406557746/8B7A02CF-BA03-4970-B355-30329FB556F2.jpg",
-            "Category": null,
+            "Category": "Respring Theme",
             "Caption": "Change respring logo to heart",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1088273102020026553/IMG_3271.png"
@@ -1205,7 +1205,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088284761274978427/IMG_3253.png",
-            "Category": null,
+            "Category": "Respring Theme",
             "Caption": "Change respring logo to creeper",
             "Screenshot": null,
             "Releases": [
@@ -1239,7 +1239,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Respring Theme",
             "Caption": "SANS is Respring logo",
             "Screenshot": null,
             "Releases": [
@@ -1277,7 +1277,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088272137342693427/image0.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Good old lock sound!",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1088273101004996648/IMG_3269.png"
@@ -1315,7 +1315,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088268749850820778/9A2B01E5-E0C0-4BED-B733-0F976B702799.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1088268144407236618/1C66B9D1-D9D6-49DD-834C-A6F1BA9D23A1.jpg",
-            "Category": null,
+            "Category": "Custom Emoji",
             "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1088273101332164680/IMG_3270.png"
@@ -1342,7 +1342,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "語彙力",
             "Screenshot": null,
             "Releases": [
@@ -1367,7 +1367,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/emojis/1056254031498063923.gif",
-            "Category": null,
+            "Category": "Respring Theme",
             "Caption": "Respring logo will be Rolling Cat",
             "Screenshot": null,
             "Releases": [
@@ -1401,7 +1401,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
-            "Category": null,
+            "Category": "MobileGestalt",
             "Caption": "Change your resolution to iPhone 14 Pro Max and make Dynamic Island appear \nWarning: iOS 15 is not supported",
             "Screenshot": null,
             "Releases": [
@@ -1426,7 +1426,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "MobileGestalt",
             "Caption": "After apply & respring & reboot, you can restore your MobileGestaltCache",
             "Screenshot": null,
             "Releases": [
@@ -1459,7 +1459,7 @@
               ]
           },
           "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090222804345028628/lightspinny.113x.png",
-          "Category": null,
+          "Category": "Respring Theme",
           "Caption": "ported AppleRingsRespringTheme by ichitaso.\nAnimation provided by ichitaso♥",
           "Screenshot": ["https://cdn.discordapp.com/attachments/1079074514257838130/1088745415500902511/2023-03-24_17h41_51.mp4","https://cdn.discordapp.com/attachments/813615730473304064/1088850889084772412/IMG_3491.png"],
           "Releases": [
@@ -1493,7 +1493,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090281273228021850/84028BEA-EF28-46AA-AB13-B2D4C94F21D5.jpg",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Discord ping sound to WindowsXP starting sound\nmade based on Sumsung Discord Ping by Leminz",
             "Screenshot": null,
             "Releases": [
@@ -1556,7 +1556,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090618971092426762/IMG_3700.gif",
-            "Category": null,
+            "Category": "Respring Theme",
             "Caption": "Apple respring logo\nSelectable sizes",
             "Screenshot": null,
             "Releases": [
@@ -1599,7 +1599,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090872012441923605/IMG_3738.png",
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "CC icons are Genshin elements",
             "Screenshot": ["https://images-ext-2.discordapp.net/external/9TldazjJ0qPUmemwOEYv25ioaTkUNmhohsM-mRtOFL4/https/pbs.twimg.com/media/Fry0fHyXgAEvLgx.jpg?width=237&height=512"],
             "Releases": [
@@ -1667,7 +1667,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091388237005725706/IMG_8858.tif",
-            "Category": "CC Module",
+            "Category": "Control Center",
             "Caption": "You can switch Silent Mode without touching physical silent switch",
             "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1091379960779903047/IMG_8859.png"],
             "Releases": [
