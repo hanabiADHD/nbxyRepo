@@ -1645,7 +1645,35 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
+        },
+        {
+            "Name": "MuteModule",
+            "Description": "Add MuteModule to CC",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Function optimization)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": "CC Module",
+            "Caption": "Apple respring logo\nSelectable styles",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1091379960779903047/IMG_8859.png"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091243895729430558/MuteModule.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.MuteModule"
         }
-
     ]
 }
