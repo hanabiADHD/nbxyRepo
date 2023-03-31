@@ -147,7 +147,7 @@
             "Description": "Remove the text",
             "MaxIOSVersion": "15.7.1",
             "Author": {
-                "Label": "Kumiki, fal20c & ChromiumCandy",
+                "Label": "Kumiki, fall20c & ChromiumCandy",
                 "Links": [
                     {
                         "Label": "Kumiki (Main Dev)",
@@ -158,11 +158,11 @@
                         "Link": "https://twitter.com/duongduong0908"
                     },
                     {
-                        "Label": "ChromiumCandy(multi language support, config)",
+                        "Label": "ChromiumCandy (multi language support, config)",
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label": "瑞秋(Icon,iOS16 Support)",
+                        "Label": "fall20c (Icon,iOS16 Support)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
@@ -508,7 +508,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745365090374/IMG_2257.png",
-            "Category": null,
+            "Category": "Custom Emoji",
             "Caption": "Change Apple Emoji to Twemoji.\nDue to the file size restriction, some of them are broken. Any help to solve this issue would be thanked",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1083354259967443024/IMG_2105.png"
@@ -540,7 +540,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745620922378/IMG_2258.png",
-            "Category": null,
+            "Category": "Custom Emoji",
             "Caption": "Swap Emoji to Blobmoji's",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1083354259321540699/IMG_2107.png"
@@ -572,7 +572,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083546745855823872/IMG_2260.png",
-            "Category": null,
+            "Category": "Custom Emoji",
             "Caption": "Change Emoji to Noto Colour Emoji",
             "Screenshot": null,
             "Releases": [
@@ -1527,7 +1527,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1090268018422063215/IMG_3661.png",
             "HeaderImage": "https://1stplace.co.jp/wp/wp-content/uploads/2023/02/IA-with_ARIAMARK.jpg",
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "IA & ONE on Passcode!",
             "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1090221483399331840/IMG_3648.png"],
             "Releases": [
