@@ -1358,6 +1358,8 @@
         {
             "Name": "MobileGestaltRestore",
             "Description": "Restore your MobileGestaltCache",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
