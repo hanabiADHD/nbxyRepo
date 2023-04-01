@@ -1165,40 +1165,6 @@
             "PackageID": "jp.ChromiumCandy.MINECRESPRING"
         },
         {
-            "Name": "RespringSANS",
-            "Description": "SANS is Respring logo",
-            "Author": {
-                "Label": "ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "Kumiki (Function optimization)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "Respring Theme",
-            "Caption": "SANS is Respring logo",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088084318951309343/RespringSANS.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006261430079591/com.ChromiumCandy.RespringSANS.misaka",
-                    "Description": "Function updated by Kumiki"
-                }
-            ],
-            "PackageID": "jp.ChromiumCandy.RespringSANS"
-        },
-        {
             "Name": "LegacyLock",
             "Description": "Good old lock sound!",
             "Author": {
