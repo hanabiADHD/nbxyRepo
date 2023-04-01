@@ -1548,14 +1548,19 @@
             "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1090983144527773757/IMG_3754.png"],
             "Releases": [
                 {
-                    "Version": "0.1",
+                    "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090891363488378950/sand.misaka",
                     "Description": null
                 },
                 {
-                    "Version": "0.2",
+                    "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091006262600269914/jp.ChromiumCandy.Respple2.misaka",
                     "Description": "Function updated by Kumiki"
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091647341854986321/jp.ChromiumCandy.Respple2.misaka",
+                    "Description": "Added Cowabunga style"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
