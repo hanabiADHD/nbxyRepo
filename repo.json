@@ -931,6 +931,11 @@
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                     "Description": "仕様変更に対応"
+                },
+                {
+                    "Version": "0.5",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302787708620841/ShutupPayPay.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
@@ -983,6 +988,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087656111567536168/yjspLINE.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302844352712724/yjspLINE.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.yjspLINE"
@@ -1050,6 +1060,11 @@
                     "Version": "0.3",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087733505032732753/NoTLSound.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091301308549566554/NoTLSound.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "com.fall20c.NoTLSound"
@@ -1079,6 +1094,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087734364588224686/LegacyTwitter.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091301343035150356/LegacyTwitter.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.LegacyTwitter"
@@ -1258,6 +1278,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088327085858242580/ApplePayPay.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302816947114004/ApplePayPay.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ApplePayPay"
