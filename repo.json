@@ -878,6 +878,10 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "fall20c (Support 3.80.0+, Icon)",
+                        "Link": "https://twitter.com/fall20c"
                     }
                 ]
             },
@@ -899,7 +903,7 @@
                 {
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091730362457129080/ShutupPayPay.misaka",
-                    "Description": "Support PayPay 3.80.0+"
+                    "Description": "Support PayPay 3.80.0+ by fall20c"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ShutupPayPay"
@@ -1273,8 +1277,12 @@
                 "Label": "ChromiumCandy",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy (Main Dev)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "fall20c (Support 3.80.0+, Icon)",
+                        "Link": "https://twitter.com/fall20c"
                     }
                 ]
             },
@@ -1296,7 +1304,7 @@
                 {
                     "Version": "0.3",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091734806804562011/ApplePayPay.misaka",
-                    "Description": "Support PayPay 3.80.0+"
+                    "Description": "Support PayPay 3.80.0+ by fall20c"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ApplePayPay"
