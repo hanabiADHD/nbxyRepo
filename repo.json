@@ -1276,7 +1276,7 @@
             },
             "Icon": null,
             "Category": "Custom Sound",
-            "Caption": "語彙力",
+            "Caption": "語彙力\nInstall Version 0.2 if you use PayPay -3.79.0",
             "Screenshot": null,
             "Releases": [
                 {
@@ -1288,6 +1288,11 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302816947114004/ApplePayPay.misaka",
                     "Description": "Function fix"
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091734806804562011/ApplePayPay.misaka",
+                    "Description": "Support PayPay 3.80.0+"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ApplePayPay"
