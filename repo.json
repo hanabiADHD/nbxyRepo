@@ -196,32 +196,6 @@
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
         },
         {
-            "Name": "NoSwipeUpToOpen for 16",
-            "Description": "iOS16 supported!",
-            "MinIOSVersion": "16",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1091380075213111419/4FF489BF-15E1-4E30-B457-0BA9F86993D8.jpg",
-            "Category": null,
-            "Caption": "Only for iOS 16 users",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088641076203626506/NoSwipeUpToOpen16.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.fall20c.NoSwipeUpToOpen16"
-        },
-        {
             "Name": "14DND",
             "Description": "iOS14 style DND module on CC",
             "Author": {
@@ -234,6 +208,10 @@
                     {
                         "Label": "Kumiki (Path,Testing,Bug fixes)",
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "fall20c (Support iOS 16)",
+                        "Link": "https://twitter.com/fall20c"
                     }
                 ]
             },
@@ -275,38 +253,14 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
                     "Description": "bug fix by Kumiki"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091585118197526609/14DND.misaka",
+                    "Description": "Support iOS 16 by Kumiki & fall20c"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.14DND"
-        },
-        {
-            "Name": "14DND for iOS 16(SpringLang = ja)",
-            "Description": "14DND for iOS 16(SpringLang = ja)",
-            "MinIOSVersion": "16",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c (Main dev)",
-                        "Link": "https://twitter.com/fall20c"
-                    },{
-                        "Label": "ChromiumCandy (Original project)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": null,
-            "Caption": "14DND for iOS 16(SpringLang = ja)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088450247379927090/com.ChromiumCandy.14DND.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.fall20c.14DND4iOS16"
         },
         {
             "Name": "7G",
