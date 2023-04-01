@@ -199,7 +199,7 @@
             "Name": "14DND",
             "Description": "iOS14 style DND module on CC",
             "Author": {
-                "Label": "Kumiki & ChromiumCandy",
+                "Label": "Kumiki, ChromiumCandy & fall20c",
                 "Links": [
                     {
                         "Label": "ChromiumCandy (Main Dev)",
@@ -210,7 +210,7 @@
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     },
                     {
-                        "Label": "fall20c (Support iOS 16)",
+                        "Label": "fall20c (iOS16 Support)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
@@ -257,20 +257,32 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091585118197526609/14DND.misaka",
-                    "Description": "Support iOS 16 by Kumiki & fall20c"
+                    "Description": "iOS 16 Support by Kumiki & fall20c"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.14DND"
         },
         {
             "Name": "7G",
-            "Description": "Change 5G to 7G",
+            "Description": "Change 5G to 7G and others!",
             "Author": {
-                "Label": "ChromiumCandy",
+                "Label": "ChromiumCandy, fall20c & Kumiki",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy (Main dev)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "fall20c (iOS16 Support)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "Kumiki (iOS16 Support)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "hagetako (iOS16 Test)",
+                        "Link": "https://twitter.com/_unlim1"
                     }
                 ]
             },
@@ -310,7 +322,7 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1091582491980206100/7G.misaka",
-                    "Description": "Support iOS 16"
+                    "Description": "iOS16 supported by fall20c & Kumiki"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.7G"
