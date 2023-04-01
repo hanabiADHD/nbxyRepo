@@ -1566,6 +1566,11 @@
                     "Version": "2.1",
                     "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1091661113961218168/jp.ChromiumCandy.Respple2.misaka",
                     "Description": "Size fix"
+                },
+                {
+                    "Version": "2.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091712509708357692/jp.ChromiumCandy.Respple2.misaka",
+                    "Description": "Tweak Setting bug fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
