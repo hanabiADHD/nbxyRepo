@@ -883,7 +883,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083755756182061106/C7FB0102-3D89-46E5-972B-2951E847828A.jpg",
             "Category": "Custom Sound",
-            "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ",
+            "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ\nInstall Version 0.3 if you use PayPay -3.79.0",
             "Screenshot": null,
             "Releases": [
                 {
@@ -895,6 +895,11 @@
                     "Version": "0.3",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302787708620841/ShutupPayPay.misaka",
                     "Description": "Function fix"
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091730362457129080/ShutupPayPay.misaka",
+                    "Description": "Support PayPay 3.80.0+"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ShutupPayPay"
