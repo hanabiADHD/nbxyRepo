@@ -20,7 +20,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553454879932466/IMG_2268.png",
             "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
-            "Category": null,
+            "Category": "App Custom",
             "Caption": "Troll your iMesssage effects!",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FqA7todaEAEo_5K?format=jpg&name=large"
@@ -52,7 +52,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553455571996712/IMG_1699.png",
-            "Category": null,
+            "Category": "App Custom",
             "Caption": "Change iMessage Lazer effect into TrollFace",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large"
@@ -84,7 +84,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553455223873678/IMG_1697.png",
-            "Category": null,
+            "Category": "App Custom",
             "Caption": "Change iMessage Spotlight effect into TrollFace",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large"
@@ -168,7 +168,7 @@
                 ]
             },
             "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "Remove Swipe up to open text",
             "Screenshot": null,
             "Releases": [
@@ -217,7 +217,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1091272086972026880/IMG_3789.gif",
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
@@ -287,7 +287,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1083542196218773634/E09B919B-2741-4D96-937A-2BA095DE871E.jpg",
-            "Category": null,
+            "Category": "Springboard",
             "Caption": "Change statusbar 5G text to 7G and others!",
             "Screenshot": [
                 "https://pbs.twimg.com/media/Fr4hmCCakAARPde?format=jpg&name=large",
@@ -591,7 +591,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1084290090387378186/phonto.jpg",
             "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
-            "Category": null,
+            "Category": "Springboard",
             "Caption": "Disable CC, AppSwitcher, Passcode BG blur\nAlso customizable Blur amount and colour!",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FrLM4n3aAAMVs2H?format=jpg&name=large",
@@ -663,7 +663,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "Controll your CC module",
             "Screenshot": null,
             "Releases": [
@@ -767,7 +767,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1079074514257838130/1084067536598990848/phonto.JPG",
-            "Category": null,
+            "Category": "Springboard",
             "Caption": "hide NC texts and homebar!",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1084729444083712081/IMG_2410.png"
@@ -908,7 +908,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087648347378155530/IMG_3158.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1087648079777382470/image0.gif",
-            "Category": null,
+            "Category": "Custom Sound",
             "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
             "Screenshot": null,
             "Releases": [
@@ -1000,8 +1000,8 @@
                 ]
             },
             "Icon": "https://cdn.wikiwiki.jp/to/w/chaos-battle/Sans/::ref/Sans.png?rev=c10b14b283ab9c29cd27b81eb2256df8&t=20220203183111",
-            "Category": null,
-            "Caption": "",
+            "Category": "Custom Sound",
+            "Caption": "*huh. always wondered why people never use their strongest attack first.",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/813615730473304064/1087947920290107452/RPReplay_Final1679448583.mov",
                 "https://cdn.discordapp.com/attachments/813615730473304064/1087985058553540618/IMG_3205.gif"
