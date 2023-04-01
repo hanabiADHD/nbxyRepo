@@ -954,10 +954,14 @@
                     {
                         "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "0u714nd3r2007 (Icon)",
+                        "Link": "https://twitter.com/Outland3r2007"
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://ton.twitter.com/1.1/ton/data/dm/1642178454987718660/1642178447941279751/sJx_mO7k.jpg:small",
             "Category": "Custom Sound",
             "Caption": "Drummmmmm!!!!!",
             "Screenshot": null,
