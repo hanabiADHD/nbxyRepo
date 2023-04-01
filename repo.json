@@ -890,6 +890,11 @@
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087387538127331432/ShutupPayPay.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302787708620841/ShutupPayPay.misaka",
+                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ShutupPayPay"
@@ -931,11 +936,6 @@
                     "Version": "0.4",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997675544248350/com.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET.misaka",
                     "Description": "仕様変更に対応"
-                },
-                {
-                    "Version": "0.5",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091302787708620841/ShutupPayPay.misaka",
-                    "Description": "Function fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
