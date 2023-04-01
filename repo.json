@@ -1329,6 +1329,8 @@
         {
             "Name": "ResPM",
             "Description": "Dynamic Island for iOS 16 Notched Devices",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
@@ -1358,8 +1360,6 @@
         {
             "Name": "MobileGestaltRestore",
             "Description": "Restore your MobileGestaltCache",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
