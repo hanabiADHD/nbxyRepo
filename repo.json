@@ -1561,6 +1561,11 @@
                     "Version": "2.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1091647341854986321/jp.ChromiumCandy.Respple2.misaka",
                     "Description": "Added Cowabunga style"
+                },
+                {
+                    "Version": "2.1",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1091661113961218168/jp.ChromiumCandy.Respple2.misaka",
+                    "Description": "Size fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Respple2"
