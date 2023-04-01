@@ -208,7 +208,7 @@
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1091380075213111419/4FF489BF-15E1-4E30-B457-0BA9F86993D8.jpg",
             "Category": null,
             "Caption": "Only for iOS 16 users",
             "Screenshot": null,
@@ -238,6 +238,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1091272086972026880/IMG_3789.gif",
             "Category": null,
             "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
             "Screenshot": [
@@ -372,7 +373,7 @@
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1091379982430908527/B69FFC6D-297A-4EA0-B68E-4F24CE4D15A8.jpg",
             "Category": null,
             "Caption": "7G for iOS16",
             "Screenshot": null,
