@@ -1622,6 +1622,35 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.MuteModule"
+        },
+        {
+            "Name": "DeviceSpoofer",
+            "Description": "Spoof your Device Name!",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "LeminLimez (Path)",
+                        "Link": "https://github.com/leminlimez"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": "MobileGestalt",
+            "Caption": "Spoof your Device Name and Model Name as you like",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1091617703355228301/IMG_0275.jpg"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1091617984692359248/DeviceSpoofer.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.fall20c.DeviceSpoofer"
         }
     ]
 }
