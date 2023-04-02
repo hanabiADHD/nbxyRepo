@@ -1357,8 +1357,8 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
             "Category": "MobileGestalt",
-            "Caption": "Change your resolution and make Notch or Dynamic Island appear",
-            "Screenshot": null,
+            "Caption": "Change your resolution and make Notch or Dynamic Island appear/nWarning: Resolution of 14P/PM is NOT supported on iOS 15",
+            "Screenshot": "https://cdn.discordapp.com/attachments/1083917960046985296/1092137897517400187/IMG_FE0972163FB5-1.jpg",
             "Releases": [
                 {
                     "Version": "0.1",
