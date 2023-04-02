@@ -1368,7 +1368,7 @@
                 {
                     "Version": "0.2",
                     "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1092130730022273085/ResChanger.misaka",
-                    "Description": "Resolution of X and 14 Pro can be selected"
+                    "Description": "Resolution of X and 14 Pro can be selected and change name from ResPM to ResChanger"
                 }
             ],
             "PackageID": "com.fall20c.ResPM"
