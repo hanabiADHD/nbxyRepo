@@ -1340,40 +1340,6 @@
             "PackageID": "jp.ChromiumCandy.RollingCat"
         },
         {
-            "Name": "ResChanger",
-            "Description": "Make Notch or Dynamic Island appear",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
-                    },
-                    {
-                        "Label": "Mizframa (Base Icon)",
-                        "Link": "https://twitter.com/mizframa"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
-            "Category": "MobileGestalt",
-            "Caption": "Change your resolution and make Notch or Dynamic Island appear\nWarning: Resolution of 14P and PM is NOT supported on iOS 15",
-            "Screenshot": "https://cdn.discordapp.com/attachments/1083917960046985296/1092137897517400187/IMG_FE0972163FB5-1.jpg",
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1092130730022273085/ResChanger.misaka",
-                    "Description": "Resolution of X and 14 Pro can be selected and change name from ResPM to ResChanger"
-                }
-            ],
-            "PackageID": "com.fall20c.ResPM"
-        },
-        {
             "Name": "MobileGestaltRestore",
             "Description": "Restore your MobileGestaltCache",
             "Author": {
