@@ -749,6 +749,7 @@
         {
             "Name": "hyde",
             "Description": "hide NC texts & homebar!",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
