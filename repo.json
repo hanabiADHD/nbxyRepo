@@ -1340,10 +1340,8 @@
             "PackageID": "jp.ChromiumCandy.RollingCat"
         },
         {
-            "Name": "ResPM",
-            "Description": "Dynamic Island for iOS 16 Notched Devices",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "Name": "ResChanger",
+            "Description": "Make Notch or Dynamic Island appear",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
@@ -1359,13 +1357,18 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
             "Category": "MobileGestalt",
-            "Caption": "Change your resolution to iPhone 14 Pro Max and make Dynamic Island appear",
+            "Caption": "Change your resolution and make Notch or Dynamic Island appear",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1092130730022273085/ResChanger.misaka",
+                    "Description": "Resolution of X and 14 Pro can be selected"
                 }
             ],
             "PackageID": "com.fall20c.ResPM"
