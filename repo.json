@@ -1682,6 +1682,35 @@
                 }
             ],
             "PackageID": "jp.fall20c.DeviceSpoofer"
+        },
+        {
+            "Name": "Atsumori",
+            "Description": "Change SOLD Label to 熱盛!",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c (Base Project)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "mo. (SpringLang Issue Fix, Support Custom Text)",
+                        "Link": "https://twitter.com/pgp110_user/status/1643429041003991040?s=46"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": "App Custom",
+            "Caption": "失礼いたしました熱盛と出てしまいました",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1087759839964438589/1092987416752705566/IMG_0685.png"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1087759839964438589/1092998314645016637/Atsumori.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.fall20c.Atsumori"
         }
     ]
 }
