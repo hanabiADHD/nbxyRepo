@@ -881,7 +881,7 @@
                         "Link": "https://twitter.com/ChromiumCandy"
                     },
                     {
-                        "Label": "fall20c (Support 3.80.0+, Icon)",
+                        "Label": "fall20c (Support 3.80.0+)",
                         "Link": "https://twitter.com/fall20c"
                     }
                 ]
@@ -1341,10 +1341,8 @@
             "PackageID": "jp.ChromiumCandy.RollingCat"
         },
         {
-            "Name": "ResPM",
-            "Description": "Dynamic Island for iOS 16 Notched Devices",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "Name": "ResChanger",
+            "Description": "Make Notch or Dynamic Island appear",
             "Author": {
                 "Label": "fall20c",
                 "Links": [
@@ -1360,13 +1358,18 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
             "Category": "MobileGestalt",
-            "Caption": "Change your resolution to iPhone 14 Pro Max and make Dynamic Island appear",
-            "Screenshot": null,
+            "Caption": "Change your resolution and make Notch or Dynamic Island appear\nWarning: Resolution of 14P and 14PM is NOT supported on iOS 15",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1092145927659212940/IMG_8927.png"],
             "Releases": [
                 {
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1092130730022273085/ResChanger.misaka",
+                    "Description": "Resolution of X and 14 Pro can be selected and change name from ResPM to ResChanger"
                 }
             ],
             "PackageID": "com.fall20c.ResPM"
@@ -1680,6 +1683,35 @@
                 }
             ],
             "PackageID": "jp.fall20c.DeviceSpoofer"
+        },
+        {
+            "Name": "Atsumori",
+            "Description": "Change SOLD Label to 熱盛!",
+            "Author": {
+                "Label": "fall20c & mo.",
+                "Links": [
+                    {
+                        "Label": "fall20c (Base Project)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "mo. (SpringLang Issue Fix, Support Custom Text, Icon)",
+                        "Link": "https://twitter.com/pgp110_user/status/1643429041003991040?s=46"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1087759839964438589/1093004883239645234/C75D4EB8-7FF5-49FA-8441-038600A526D8.jpg",
+            "Category": "App Custom",
+            "Caption": "失礼いたしました熱盛と出てしまいました",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1087759839964438589/1093022219518623804/IMG_2294.png"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1093006033338765433/jp.fall20c.Atsumori.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.fall20c.Atsumori"
         }
     ]
 }
