@@ -1736,6 +1736,43 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.TrolliMsg"
+        },{
+            "Name": "MobileGestaltManager",
+            "Description": "Spoof your Device Info",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c (Integration, DeviceSpoofer, ResChanager)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "nbxy (RegionSwap)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "yyyywaiwai (RegionSwap)",
+                        "Link": "https://twitter.com/yyyyyy_public"
+                    },
+                    {
+                        "Label": "LeminLimez (DeviceSpoofer Path)",
+                        "Link": "https://github.com/leminlimez"
+                    }
+
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1093600983038308392/imb_20230407031938_Q2Hb.GIF",
+            "Category": "MobileGestalt",
+            "Caption": "Spoof your Device Name, Region and Resolution as you like",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1093603245492031649/IMG_0857.PNG"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1087759839964438589/1093602231376433302/MobileGestaltManager.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.fall20c.MGM"
         }
     ]
 }
