@@ -1712,6 +1712,30 @@
                 }
             ],
             "PackageID": "jp.fall20c.Atsumori"
+        },{
+            "Name": "TrolliMessage",
+            "Description": "Troll your iMessage effects!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1092625123401543740/jp.ChromiumCandy.TrolliMsg.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.TrolliMsg"
         }
     ]
 }
