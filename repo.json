@@ -1736,6 +1736,31 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.TrolliMsg"
+        },
+        {
+            "Name": "VersionSpoofer",
+            "Description": "Spoof your Device Vesion",
+            "Author": {
+                "Label": "fall20c",
+                "Links": [
+                    {
+                        "Label": "fall20c",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Spoof your Device Version (Build Version is NOT spoofed because it can cause bootloop)",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1087759839964438589/1093582856531488858/IMG_0843.jpg"],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1087759839964438589/1093578958492155944/VersionSpoofer.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.fall20c.VersionSpoofer"
         }
     ]
 }
