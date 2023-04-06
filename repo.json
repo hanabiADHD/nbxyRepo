@@ -561,6 +561,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087232346954145842/com.Kumiki.NoSettingsIcon.misaka",
                     "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093510097759649862/com.Kumiki.NoSettingsIcon.misaka",
+                    "Description": "File size issue fixed"
                 }
             ],
             "PackageID": "com.Kumiki.NoSettingsIcon"
