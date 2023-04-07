@@ -561,6 +561,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1087232346954145842/com.Kumiki.NoSettingsIcon.misaka",
                     "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093510097759649862/com.Kumiki.NoSettingsIcon.misaka",
+                    "Description": "File size issue fixed"
                 }
             ],
             "PackageID": "com.Kumiki.NoSettingsIcon"
@@ -1496,6 +1501,11 @@
                     "Version": "0.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1090129076687212654/ARIA-Pass.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093526745673637938/jp.ChromiumCandy.ARIAPass.misaka",
+                    "Description": "Add Misaka_Resize, Reduce File size"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.ARIAPass"
