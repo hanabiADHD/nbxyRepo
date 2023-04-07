@@ -1272,6 +1272,11 @@
                     "Version": "1.0",
                     "Package": "https://drive.google.com/uc?export=download&id=16ehna0x-MdDlz-6yPGfrndMU2Ms3tYp6",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://github.com/chimaha/misakarepo/releases/download/release/EmojiSwap.misaka",
+                    "Description": "Function updated"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.EmojiSwap"
