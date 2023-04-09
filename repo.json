@@ -1889,10 +1889,10 @@
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1094626120353198110/phonto.jpg",
             "Category": null,
             "Caption": "Change the WP by appearance!\nStill beta and only tested on iPhone13\nContact me and be a tester!",
-            "Screenshot": null,
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1074645700828200970/1094628526516338758/RPReplay_Final1681050171.mov"],
             "Releases": [
                 {
                     "Version": "0.1",
