@@ -323,6 +323,11 @@
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1091582491980206100/7G.misaka",
                     "Description": "iOS16 supported by fall20c & Kumiki"
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1091582491980206100/7G.misaka",
+                    "Description": "5Ge, 5Guw, 5Guc, LTE, LTE+ and LTE-A support!"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.7G"
@@ -1817,6 +1822,31 @@
                 }
             ],
             "PackageID": "jp.fall20c.VersionSpoofer"
+        },
+        {
+            "Name": "AlwaysVPN",
+            "Description": "VPN is always on!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Every time I lock my phone, VPN is disabled.\nApple sucks!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1093817695776014346/AleaysVPN.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.AlwayVPN"
         }
     ]
 }
