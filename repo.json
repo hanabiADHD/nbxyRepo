@@ -27,9 +27,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "0.1",
+                    "Version": "0.1 beta",
                     "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
-                    "Description": ""
+                    "Description": "beta release"
                 },
                 {
                     "Version": "1.0",
@@ -1876,6 +1876,31 @@
                 }
             ],
             "PackageID": "com.34306.Checlock"
+        },
+        {
+            "Name": "AP-WP",
+            "Description": "Change the WP by appearance!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change the WP by appearance!\nStill beta and only tested on iPhone13\nContact me and be a tester!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1074645700828200970/1094628618442907770/AP-WP.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.AP-WP"
         }
     ]
 }
