@@ -1847,6 +1847,35 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.AlwaysVPN"
+        },
+        {
+            "Name": "Checlock",
+            "Description": "Checkra1n on clock icon!",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "ChromiumCandy (.misaka porting)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://pbs.twimg.com/media/FtRTiBFaUAEFMGF?format=jpg",
+            "Category": null,
+            "Caption": "Checkra1n on clock icon!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1094589557409853511/Checlock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.34306.Checlock"
         }
     ]
 }
