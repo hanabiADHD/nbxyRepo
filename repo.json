@@ -28,7 +28,7 @@
             "Releases": [
                 {
                     "Version": "0.1 beta",
-                    "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
+                    "Package+": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
                     "Description": "beta release"
                 },
                 {
@@ -1879,6 +1879,7 @@
         },
         {
             "Name": "AP-WP",
+            "MaxIOSVersion": "15.7.1",
             "Description": "Change the WP by appearance!",
             "Author": {
                 "Label": "ChromiumCandy",
@@ -1901,6 +1902,56 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.AP-WP"
+        },
+        {
+            "Name": "Anti F OTA",
+            "Description": "Disable OTA update!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1095309941096591391/BlockOTA3.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
+        },
+        {
+            "Name": "Anti OTA Ⓐ",
+            "Description": "Disable OTA update!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Disable OTA update!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1094936691963342858/1095292633330483270/NoOTA.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
         }
     ]
 }
