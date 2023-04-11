@@ -554,8 +554,11 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087232205874540604/C560A218-898F-489A-AE02-AD4ED396095E.jpg",
             "Category": null,
-            "Caption": "Hide setting icons",
-            "Screenshot": null,
+            "Caption": "Hide setting icons and labels",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1095374397356904458/IMG_0561.jpg",
+                "https://cdn.discordapp.com/attachments/957426517107949612/1095374397621161984/IMG_05612.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "0.2",
@@ -571,6 +574,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093510097759649862/com.Kumiki.NoSettingsIcon.misaka",
                     "Description": "File size issue fixed"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1095376069072257125/com.Kumiki.NoSettingsIcon.misaka",
+                    "Description": "Add label hiding"
                 }
             ],
             "PackageID": "com.Kumiki.NoSettingsIcon"
