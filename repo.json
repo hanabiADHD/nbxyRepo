@@ -4,9 +4,7 @@
     "RepositoryAuthor": "ChromiumCandy",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
     "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
-    "Default": {
-        "HeaderImage": "https://cdn.discordapp.com/attachments/1079878178035736656/1083411883912081479/04F63A18-CFCD-4EB8-BDAA-8CAFACB38BFA.jpg"
-    },
+    "DefaultHeaderImage": "https://cdn.discordapp.com/attachments/1079878178035736656/1083411883912081479/04F63A18-CFCD-4EB8-BDAA-8CAFACB38BFA.jpg",
     "RepositoryContents": [
         {
             "Name": "TrollBalloon",
@@ -556,11 +554,8 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1087232205874540604/C560A218-898F-489A-AE02-AD4ED396095E.jpg",
             "Category": null,
-            "Caption": "Hide setting icons and labels",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1095374397356904458/IMG_0561.jpg",
-                "https://cdn.discordapp.com/attachments/957426517107949612/1095374397621161984/IMG_05612.jpg"
-            ],
+            "Caption": "Hide setting icons",
+            "Screenshot": null,
             "Releases": [
                 {
                     "Version": "0.2",
@@ -576,11 +571,6 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093510097759649862/com.Kumiki.NoSettingsIcon.misaka",
                     "Description": "File size issue fixed"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1095376069072257125/com.Kumiki.NoSettingsIcon.misaka",
-                    "Description": "Add label hiding"
                 }
             ],
             "PackageID": "com.Kumiki.NoSettingsIcon"
@@ -1851,6 +1841,11 @@
             "Screenshot": null,
             "Releases": [
                 {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1096349273643302922/jp.ChromiumCandy.AlwaysVPN.misaka",
+                    "Description": "plist overwrite bug fix"
+                }
+                {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1093817695776014346/AleaysVPN.misaka",
                     "Description": null
@@ -1927,8 +1922,8 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1095311818450276463/phonto.jpg",
             "Category": null,
-            "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5. Enable the Tweak again\n6. Reboot or LDRestart\n7. Done!",
-            "Screenshot": null,
+            "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1095315855518208153/IMG_4209.png","https://cdn.discordapp.com/attachments/813615730473304064/1095315855807623229/IMG_4210.png"],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -1962,6 +1957,56 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
+        },
+        {
+            "Name": "Animatica",
+            "Description": "Change CC animation speed!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1096349180890447892/DDA28700-D413-45F5-961A-AEAFC11C8BF4.png",
+            "Category": null,
+            "Caption": "Change CC animation speed!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0 beta",
+                    "Package": "https://cdn.discordapp.com/attachments/1094936691963342858/1096344179661082634/Animatica.misaka",
+                    "Description": "pre-release"
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.Animatica"
+        },
+        {
+            "Name": "misakaBG",
+            "Description": "Change misaka BG animation!",
+            "Author": {
+                "Label": "ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1088417197455589446/1088785730765074432/misaka.png",
+            "Category": null,
+            "Caption": "Change misaka BG animation!",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1096349325245808710/misakaBG.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "jp.ChromiumCandy.misakaBG"
         }
     ]
 }
