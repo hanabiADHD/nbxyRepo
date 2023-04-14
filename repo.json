@@ -1,6 +1,6 @@
 {
-    "RepositoryName": "nbxy",
-    "RepositoryDescription": "ChromiumCandy & fall20c's repo",
+    "RepositoryName": "Applicott",
+    "RepositoryDescription": "nbxy, fall20c and mo.'s repo",
     "RepositoryAuthor": "ChromiumCandy",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
     "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
@@ -1923,7 +1923,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1095311818450276463/phonto.jpg",
             "Category": null,
             "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1095315855518208153/IMG_4209.png","https://cdn.discordapp.com/attachments/813615730473304064/1095315855807623229/IMG_4210.png"],
+            "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
