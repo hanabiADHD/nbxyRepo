@@ -1841,14 +1841,14 @@
             "Screenshot": null,
             "Releases": [
                 {
-                    "Version": "2.0",
-                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1096349273643302922/jp.ChromiumCandy.AlwaysVPN.misaka",
-                    "Description": "plist overwrite bug fix"
-                },
-                {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1093817695776014346/AleaysVPN.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1096349273643302922/jp.ChromiumCandy.AlwaysVPN.misaka",
+                    "Description": "plist overwrite bug fix"
                 }
             ],
             "PackageID": "jp.ChromiumCandy.AlwaysVPN"
