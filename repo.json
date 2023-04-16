@@ -1962,12 +1962,18 @@
             "Name": "Animatica",
             "Description": "Change CC animation speed!",
             "Author": {
-                "Label": "ChromiumCandy",
+                "Label": "ChromiumCandy & roeegh",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy (Original dev)",
                         "Link": "https://twitter.com/ChromiumCandy"
+                    },
+
+ {
+                        "Label": "roeegh (iOS16 fix)",
+                        "Link": "https://twitter.com/roeegh"
                     }
+
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1096349180890447892/DDA28700-D413-45F5-961A-AEAFC11C8BF4.png",
@@ -1979,7 +1985,14 @@
                     "Version": "1.0 beta",
                     "Package": "https://cdn.discordapp.com/attachments/1094936691963342858/1096344179661082634/Animatica.misaka",
                     "Description": "pre-release"
+                },
+
+{
+                    "Version": "2.0 beta",
+                    "Package": "https://cdn.discordapp.com/attachments/1089248899438485564/1096455417988644904/Animatica16.misaka",
+                    "Description": "iOS16 compatibility by roeegh"
                 }
+
             ],
             "PackageID": "jp.ChromiumCandy.Animatica"
         },
