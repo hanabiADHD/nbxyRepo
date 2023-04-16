@@ -2008,32 +2008,5 @@
             ],
             "PackageID": "jp.ChromiumCandy.misakaBG"
         }
-
-{
-    "Name": "Too Many Modules",
-    "Description": "Add hidden modules!!",
-    "Author": {
-        "Label": "mo",
-        "Links": [
-            {
-                "Label": "mo",
-                "Link": "https://twitter.com/mo__dev"
-            }
-        ]
-    },
-    "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1097066907775016970/5AE1BFB6-DB4B-48B6-AC61-43766386FE99.jpg",
-    "Category": "ControlCenter",
-    "Caption": "Add hidden modules on screenshot\n -FaceTime Modules\n -Mute Module\n -Spoken Notification Module\n -System Trace Module",
-    "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1097075347712909342/IMG_4332.png"],
-    "Releases": [
-        {
-            "Version": "1.0",
-            "Package": "https://cdn.discordapp.com/attachments/1094936691963342858/1096840300393148557/MoreModules.misaka",
-            "Description": null
-        }
-    ],
-    "PackageID": "jp.mo.tooManyModules"
-}
-
     ]
 }
