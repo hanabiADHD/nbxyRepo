@@ -1923,7 +1923,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1095311818450276463/phonto.jpg",
             "Category": null,
             "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1095315855518208153/IMG_4209.png,https://cdn.discordapp.com/attachments/813615730473304064/1095315855807623229/IMG_4210.png"],
+            "Screenshot": ["https://cdn.discordapp.com/attachments/813615730473304064/1095315855518208153/IMG_4209.png","https://cdn.discordapp.com/attachments/813615730473304064/1095315855807623229/IMG_4210.png"],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -1962,18 +1962,12 @@
             "Name": "Animatica",
             "Description": "Change CC animation speed!",
             "Author": {
-                "Label": "ChromiumCandy & roeegh",
+                "Label": "ChromiumCandy",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy (Original dev)",
+                        "Label": "ChromiumCandy",
                         "Link": "https://twitter.com/ChromiumCandy"
-                    },
-
- {
-                        "Label": "roeegh (iOS16 fix)",
-                        "Link": "https://twitter.com/roeegh"
                     }
-
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1096349180890447892/DDA28700-D413-45F5-961A-AEAFC11C8BF4.png",
@@ -1985,14 +1979,7 @@
                     "Version": "1.0 beta",
                     "Package": "https://cdn.discordapp.com/attachments/1094936691963342858/1096344179661082634/Animatica.misaka",
                     "Description": "pre-release"
-                },
-
-{
-                    "Version": "2.0 beta",
-                    "Package": "https://cdn.discordapp.com/attachments/1089248899438485564/1096455417988644904/Animatica16.misaka",
-                    "Description": "iOS16 compatibility by roeegh"
                 }
-
             ],
             "PackageID": "jp.ChromiumCandy.Animatica"
         },
