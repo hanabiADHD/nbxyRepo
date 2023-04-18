@@ -333,47 +333,6 @@
             "PackageID": "jp.ChromiumCandy.7G"
         },
         {
-            "Name": "RegionSwap",
-            "Description": "Swap ur region to Canada",
-            "Author": {
-                "Label": "yyyywaiwai & ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "yyyywaiwai (Base Project)",
-                        "Link": "https://twitter.com/yyyyyy_public"
-                    },
-                    {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083552066485616660/F8CF314D-4DEB-4C48-82D2-20C98C4A59D2.jpg",
-            "Category": "MobileGestalt",
-            "Caption": "For Japanese and Korean user who hates noisy forced Shutter sound restriction",
-            "Screenshot": [
-                "https://media.discordapp.net/attachments/813615730473304064/1088273100543631380/IMG_3268.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083333397117681765/RegionSwapCanada.vdf",
-                    "Description": null
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087229917382590524/com.yyyywaiwai.RegSwap.misaka",
-                    "Description": ".vdf to .misaka"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087997676219547668/com.yyyywaiwai.RegSwap.misaka",
-                    "Description": "仕様変更に対応"
-                }
-            ],
-            "PackageID": "com.yyyywaiwai.RegSwap"
-        },
-        {
             "Name": "PixelShutter",
             "Description": "Change camera shutter to Pixel's",
             "Author": {
@@ -1356,40 +1315,6 @@
             "PackageID": "jp.ChromiumCandy.RollingCat"
         },
         {
-            "Name": "ResChanger",
-            "Description": "Make Notch or Dynamic Island appear",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
-                    },
-                    {
-                        "Label": "Mizframa (Base Icon)",
-                        "Link": "https://twitter.com/mizframa"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1091391246993477773/IMG_0249.jpg",
-            "Category": "MobileGestalt",
-            "Caption": "Change your resolution and make Notch or Dynamic Island appear\nWarning: Resolution of 14P and 14PM is NOT supported on iOS 15",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1092145927659212940/IMG_8927.png"],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1092130730022273085/ResChanger.misaka",
-                    "Description": "Resolution of X and 14 Pro can be selected and change name from ResPM to ResChanger"
-                }
-            ],
-            "PackageID": "com.fall20c.ResPM"
-        },
-        {
             "Name": "MobileGestaltRestore",
             "Description": "Restore your MobileGestaltCache",
             "Author": {
@@ -1674,35 +1599,6 @@
                 }
             ],
             "PackageID": "jp.ChromiumCandy.MuteModule"
-        },
-        {
-            "Name": "DeviceSpoofer",
-            "Description": "Spoof your Device Name!",
-            "Author": {
-                "Label": "fall20c",
-                "Links": [
-                    {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
-                    },
-                    {
-                        "Label": "LeminLimez (Path)",
-                        "Link": "https://github.com/leminlimez"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1091634198357487666/55AFA678-8E87-481D-B9BE-B4D46A50706B.png",
-            "Category": "MobileGestalt",
-            "Caption": "Spoof your Device Name and Model Name as you like",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1091620841227296778/IMG_0275.jpg"],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1091617984692359248/DeviceSpoofer.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "jp.fall20c.DeviceSpoofer"
         },
         {
             "Name": "Atsumori",
