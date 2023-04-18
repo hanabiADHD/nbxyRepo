@@ -1786,8 +1786,8 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1083917960046985296/1093600983038308392/imb_20230407031938_Q2Hb.GIF",
             "Category": "DeviceInfo",
-            "Caption": "Spoof your Device Name, Region and Resolution as you like",
-            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1097736630703493150/IMG_1655.png"],
+            "Caption": "Spoof your Model Name, Region and Resolution as you like",
+            "Screenshot": ["https://cdn.discordapp.com/attachments/1083917960046985296/1097747050663268372/IMG_1662.png"],
             "Releases": [
                 {
                     "Version": "0.1",
