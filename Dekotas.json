@@ -1,0 +1,841 @@
+{
+    "RepositoryName": "Dekotas",
+    "RepositoryDescription": "We are international devs :)",
+    "RepositoryAuthor": "Sean Boleslawski",
+    "RepositoryIcon": "https://dekotas.org/image/repoicon.png",
+    "RepositoryWebsite": "",
+    "Default": {
+        "HeaderImage": "https://dekotas.org/image/header2.png",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+      {
+          "Name": "SamsungUI Emoji's",
+          "Description": "Get Samsung Emoji's",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "See More",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  },
+                  {
+                      "Label": "poomsmart"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/SamsungEmoji/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Custom Emoji",
+          "Caption": "",
+          "Screenshot": ["https://dekotas.org/pkg/SamsungEmoji/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/SamsungEmoji/ver/1.0/Samsung_OneUi_emoji.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.adelstar.samsungemoji"
+      },
+      {
+          "Name": "Facebook Emoji's",
+          "Description": "Get Facebook Emoji's",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "See More",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  },
+                  {
+                      "Label": "poomsmart"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/FaceBookEmoji/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Custom Emoji",
+          "Caption": "",
+          "Screenshot": ["https://dekotas.org/pkg/FaceBookEmoji/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/FaceBookEmoji/ver/1.0/fe.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.dekotastm.facebook"
+      },
+      {
+          "Name": "SnakeLegalNotice",
+          "Description": "Get Snake back to your device like an Nokia phone",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Sean Boleslawski",
+              "Links": [
+                  {
+                      "Label": "Sean Boleslawski"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/SnakeLegalNotice/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "nothing xD",
+          "Caption": "",
+          "Screenshot": ["https://dekotas.org/pkg/SnakeLegalNotice/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/SnakeLegalNotice/ver/1.0/com.dekotastm.sneak.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.dekotastm.snake"
+      },
+      {
+          "Name": "Windows 11 Emojis",
+          "Description": "Get Windows 11 Emoji's",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "See More",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  },
+                  {
+                      "Label": "poomsmart"
+                  }
+]
+          },
+          "Icon": "https://dekotas.org/pkg/WindowsEmoji/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Custom Emoji",
+          "Caption": "Get Windows 11 Emojis",
+          "Screenshot": ["https://dekotas.org/pkg/WindowsEmoji/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/WindowsEmoji/ver/1.0/emojipack.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.adelstar.windowsemojis"
+      },
+      {
+          "Name": "EpicDynamicness",
+          "Description": "Change the dynamic wallpaper for iPhone 7/X/11/13 Pro",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/EpicDynamicness/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Look",
+          "Caption": "Change your dynamicwallpaper to something looking cool and jailbroken",
+          "Screenshot": ["https://dekotas.org/pkg/EpicDynamicness/screen.mp4"],
+          "Releases": [
+              {
+                  "Version": "0.3",
+                  "Package": "https://dekotas.org/pkg/EpicDynamicness/ver/0.3/everythings.going.wrong.misaka",
+                  "Description": "Beta Release"
+              }
+          ],
+          "PackageID": "com.dekotastm.epicdynamicness"
+      },
+ {
+          "Name": "SettingsCustomizer",
+          "Description": "Customize your Settings",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.2",
+          "Author": {
+              "Label": "Sean Boleslawski",
+              "Links": [
+                  {
+                      "Label": "Sean Boleslawski"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/SettingsCustomizer/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "nothing xD",
+          "Caption": "Customize your Settings\n\nSettingsCustomizer\n\nPossible:\n-change General Page/Title\n-change AirDrop Page\n-change Airplay and Handoff Page\n-change Picture in Picture Page\n-change Date and Time Page\n-change Font Page\n-change Factory Reset Page\n-change Legal Page",
+          "Screenshot": ["https://dekotas.org/pkg/SettingsCustomizer/screen.png","https://dekotas.org/pkg/SettingsCustomizer/screen1.png","https://dekotas.org/pkg/SettingsCustomizer/screen2.png"],
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.1/com.sean.settingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.1.1",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.1.1/com.sean.settingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.1.2",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.1.2/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.2",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.2/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.3",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.3/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.3.1",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.3.1/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.4",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.4/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.5",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.5/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.6",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.6/com.sean.seetingsc1.misaka",
+                  "Description": "Misaka 1.0 beta (and above)"
+              },
+              {
+                  "Version": "0.7",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.7/com.sean.settingsc1.misaka",
+                  "Description": "Misaka 1.7.3.2 beta (and above)"
+              }
+          ],
+          "PackageID": "com.sean.settingsc1"
+      },
+      {
+          "Name": "mario coin",
+          "Description": "mario coin sound for apple pay",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.2",
+          "Author": {
+              "Label": "L95vz",
+              "Links": [
+                  {
+                      "Label": "L95vz"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/MarioCoin/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "sound",
+          "Caption": "make your apple pay sound like sound mario coin",
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/MarioCoin/ver/1.0/mario_coin.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.L95vz.mariocoin"
+      },
+      {
+          "Name": "Exodar",
+          "Description": "Brings back Exodar clock font",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/exodar/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Fonts",
+          "Caption": "Brings back Exodar Clock Font :)",
+          "Screenshot": ["https://dekotas.org/pkg/exodar/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/exodar/ver/1.0/exodar.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.sean.yangjiiii.exoder"
+      },
+      {
+          "Name": "Constance",
+          "Description": "Brings back Constance clock font",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/constance/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Fonts",
+          "Caption": "Brings back Constance Clock Font :)",
+          "Screenshot": ["https://dekotas.org/pkg/constance/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/constance/ver/1.0/constance.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.sean.yangjiiii.constance"
+      },
+      {
+          "Name": "Lineat",
+          "Description": "Brings back Lineat clock font",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/lineat/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Fonts",
+          "Caption": "Brings back Lineat Clock Font :)",
+          "Screenshot": ["https://dekotas.org/pkg/lineat/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/lineat/ver/1.0/lineat.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.sean.yangjiiii.lineat"
+      },
+      {
+          "Name": "FlappyLegalNotice",
+          "Description": "Bring FlappyBirds to your Settings",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/FlappyLegalNotice/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Games",
+          "Caption": "Play FlappyBirds in your SettingsApp\nPlease dont respring after apply... just apply and reopen Settings App\n\n\nSettings > General > Legal > Legal",
+          "Screenshot": ["https://dekotas.org/pkg/FlappyLegalNotice/screen.png","https://dekotas.org/pkg/FlappyLegalNotice/screen1.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/FlappyLegalNotice/ver/1.0/flappylegalnotice.misaka",
+                  "Description": "Initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://dekotas.org/pkg/FlappyLegalNotice/ver/1.1/flappylegalnotice.misaka",
+                  "Description": "Update"
+              }
+          ],
+          "PackageID": "com.dekotastm.flappy"
+      },
+      {
+          "Name": "Dog",
+          "Description": "Brings back Dog clock font",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/dog/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Fonts",
+          "Caption": "Brings back Dog Clock Font :)",
+          "Screenshot": ["https://dekotas.org/pkg/dog/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/dog/ver/1.0/dog.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.sean.yangjiiii.dog"
+      },
+      {
+          "Name": "ArcadeCenter",
+          "Description": "Brings old ArcadeGames back",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7,1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/ArcadeCenter/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Games",
+          "Caption": "Brings back old ArcadeGames\n-FlappyBirds\n-PacMan (another one not fomris)\n-Tetris\n\nPlease dont respring after Apply u need to Apply the tweak seperatly and just reopen settings app after that :)\nSettings Path: Settings>General>Legal>",
+          "Screenshot": ["https://dekotas.org/pkg/ArcadeCenter/screen.png","https://dekotas.org/pkg/ArcadeCenter/screen1.png","https://dekotas.org/pkg/ArcadeCenter/screen2.png"],
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://dekotas.org/pkg/ArcadeCenter/ver/0.1/GameCenter.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": "com.dekotastm.arcadecenter"
+      },
+	{
+ "Name": "iPhone 14 Pro",
+          "Description": "model name",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "L95vz",
+              "Links": [
+                  {
+                      "Label": "L95vz"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/iPhone14Pro/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "settings",
+          "Caption": "make your name model like iPhone 14 Pro",
+          "Screenshot": ["https://dekotas.org/pkg/iPhone14Pro/screen.jpg"],
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://dekotas.org/pkg/iPhone14Pro/ver/1.0/com.L95vz.i14p.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.L95vz.i14p"
+},
+{
+ "Name": "Masked Face ID",
+          "Description": "Cowabunga Lock icon",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/MaskedID/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "look",
+          "Caption": "Masked Face ID for misaka\n\nOriginally released by. YangJii for Cowabunga",
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/MaskedID/ver/1.0/Masked_Face_ID.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.maskedfaceid"
+},
+{
+ "Name": "5GEnabler",
+          "Description": "enable 5g on older devices cosmetical",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/5GEnabler/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Caption": "5GEnabler for older devices\nlike iPhone 11pro(and bellow)",
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/5GEnabler/ver/0.1/Unsupported5G.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.5genabler"
+},
+{
+ "Name": "EmojiCategoryChanger",
+          "Description": "customise the names of your EmojiCategorys",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/EmojiCategoryChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Caption": "Change names of EmojiCategorys",
+          "Screenshot": ["https://dekotas.org/pkg/EmojiCategoryChanger/screen.mov"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/EmojiCategoryChanger/ver/1.0/EmojiCategoryChanger.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotas.emojicategorychanger"
+},
+{
+ "Name": "PassChanger",
+          "Description": "CustomiseThe PassText",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/PassChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "look",
+          "Caption": "Change PassText",
+          "Screenshot": ["https://dekotas.org/pkg/PassChanger/screen.jpg"],
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "https://dekotas.org/pkg/PassChanger/ver/0.1/passchanger.misaka",
+                  "Description": "Beta release"
+              }
+          ],
+          "PackageID": 
+"com.dekotas.passchanger"
+},
+{
+ "Name": "Toss Face Emoji's",
+          "Description": "Get Toss Face Emojis",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "See More",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  },
+                  {
+                      "Label": "poomsmart"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/TossEmoji/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Custom Emoji",
+          "Screenshot": ["https://dekotas.org/pkg/TossEmoji/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/TossEmoji/ver/1.0/Toss_Face_emojis.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.tossface"
+},
+{
+ "Name": "MuteMSGChanger",
+          "Description": "Change MuteMSGMessage",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/MuteMSGChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/MuteMSGChanger/screen.jpg"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/MuteMSGChanger/ver/1.0/MuteMSGChanger.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.mutemsgchanger"
+},
+{
+ "Name": "LSBatteryMSGChanger",
+          "Description": "Change Lockscreen Battery Message",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/LSBatteryMSGChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/LSBatteryMSGChanger/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/LSBatteryMSGChanger/ver/1.0/BatteryLSMSGChanger.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.batterychanger"
+},
+{
+ "Name": "CustomConnectivityLabels",
+          "Description": "Change name of things in connectivity module",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/CustomConnectivityLabels/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/CustomConnectivityLabels/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/CustomConnectivityLabels/ver/1.0/CustomConnectivityLabels.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.ccoonectlabels"
+},
+{
+ "Name": "SliderChanger",
+          "Description": "Change name of things in Slieder module",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/SliderChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/SliderChanger/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/SliderChanger/ver/1.0/SliderChanger.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.slidechange"
+},
+{
+ "Name": "Whatsapp Emoji's",
+          "Description": "Get Whatsapp Emoji's",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/WhatsappEmoji/icon.jpg",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Custom Emoji",
+          "Screenshot": ["https://dekotas.org/pkg/WhatsappEmoji/screen.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/WhatsappEmoji/ver/1.0/WhatsApp_emoji.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID": 
+"com.dekotastm.whatsappemoji"
+},
+{
+ "Name": "MusicModuleChanger",
+          "Description": "change stuff",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/MusicModuleChanger/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/MusicModuleChanger/screen1.png", "https://dekotas.org/pkg/MusicModuleChanger/screen2.png","https://dekotas.org/pkg/MusicModuleChanger/screen3.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://dekotas.org/pkg/MusicModuleChanger/ver/1.0/Media.misaka",
+                  "Description": "Initial release"
+              }
+          ],
+          "PackageID":
+"com.dekotastm.musicmodulechanger"
+},
+{
+ "Name": "SettingsCustomizerPro",
+          "Description": "Customize your Settings like a PRO",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.1",
+          "Author": {
+              "Label": "DekotasTM",
+              "Links": [
+                  {
+                      "Label": "DekotasTM"
+                  }
+              ]
+          },
+          "Icon": "https://dekotas.org/pkg/SettingsCustomizerPro/icon.png",
+          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "Category": "Tweaks",
+          "Screenshot": ["https://dekotas.org/pkg/SettingsCustomizerPro/screen.png","https://dekotas.org/pkg/SettingsCustomizerPro/screen1.png"],
+          "Releases": [
+              {
+                  "Version": "0.1.1",
+                  "Package": "https://dekotas.org/pkg/SettingsCustomizerPro/ver/0.1/SettingsCustomizerPro.misaka",
+                  "Description": "Beta release"
+              }
+          ],
+          "PackageID":
+"com.dekotastm.settingsc1pro"
+},
+{
+    "Name": "NoVulnTools",
+             "Description": "Gives u more Settings",
+             "MinIOSVersion":"14.0",
+             "MaxIOSVersion":"16.1.2",
+             "Author": {
+                 "Label": "DekotasTM",
+                 "Links": [
+                     {
+                         "Label": "DekotasTM"
+                     }
+                 ]
+             },
+             "Icon": "https://dekotas.org/pkg/NoVulnTools/icon.png",
+             "HeaderImage": "https://dekotas.org/image/header2.png",
+             "Category": "Tweaks",
+             "Caption": "Control Your Animation Speed...\nU need to respring after a change\n\nSettings>General",
+             "Screenshot": ["https://dekotas.org/pkg/NoVulnTools/screenupd3.png"],
+             "Releases": [
+                 {
+                     "Version": "0.1",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.1/AnimationSettings.misaka",
+                     "Description": "Beta release"
+                 },
+                 {
+                     "Version": "0.1.1",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.1.1/AnimationSettings.misaka",
+                     "Description": "Beta release"
+                 },
+                 {
+                     "Version": "0.2",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.2/AnimationSettings.misaka",
+                     "Description": "Beta release"
+                 },
+                 {
+                     "Version": "0.2.1",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.2.1/AnimationSettings.misaka",
+                     "Description": "Security Update"
+                 },
+                 {
+                     "Version": "0.2.2",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.2.2/AnimationSettings.misaka",
+                     "Description": "Security Update"
+                 },
+                 {
+                     "Version": "0.2.3",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.2.3/AnimationSettings.misaka",
+                     "Description": "Security Update"
+                 },
+                 {
+                     "Version": "0.3 alpha 1",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.3.alpha1/AnimationSettings.misaka",
+                     "Description": "Changes"
+                 },
+                 {
+                     "Version": "0.3 alpha 2",
+                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.3.alpha2/AnimationSettings.misaka",
+                     "Description": "Changes"
+                 }
+             ],
+             "PackageID":
+   "com.dekotastm.novulntools"
+   }    ]
+}
