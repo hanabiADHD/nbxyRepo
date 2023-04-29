@@ -1,8 +1,8 @@
 {
     "RepositoryName": "Dekotas",
-    "RepositoryDescription": "We are international devs :)",
-    "RepositoryAuthor": "Sean Boleslawski",
-    "RepositoryIcon": "https://dekotas.org/image/repoicon.png",
+    "RepositoryDescription": "Dekotas mirror by nbxy",
+    "RepositoryAuthor": "nbxy",
+    "RepositoryIcon": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/repoicon.png",
     "RepositoryWebsite": "",
     "Default": {
         "HeaderImage": "https://dekotas.org/image/header2.png",
@@ -33,11 +33,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/SamsungEmoji/ver/1.0/Samsung_OneUi_emoji.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/Samsung_OneUi_emoji.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.adelstar.samsungemoji"
+          "PackageID": "mirror.adelstar.samsungemoji"
       },
       {
           "Name": "Facebook Emoji's",
@@ -63,11 +63,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/FaceBookEmoji/ver/1.0/fe.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/fe.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.dekotastm.facebook"
+          "PackageID": "mirror.dekotastm.facebook"
       },
       {
           "Name": "SnakeLegalNotice",
@@ -90,11 +90,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/SnakeLegalNotice/ver/1.0/com.dekotastm.sneak.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/com.dekotastm.sneak.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.dekotastm.snake"
+          "PackageID": "mirror.dekotastm.snake"
       },
       {
           "Name": "Windows 11 Emojis",
@@ -120,11 +120,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/WindowsEmoji/ver/1.0/emojipack.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/emojipack.misaka",
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.adelstar.windowsemojis"
+          "PackageID": "mirror.adelstar.windowsemojis"
       },
       {
           "Name": "EpicDynamicness",
@@ -147,11 +147,11 @@
           "Releases": [
               {
                   "Version": "0.3",
-                  "Package": "https://dekotas.org/pkg/EpicDynamicness/ver/0.3/everythings.going.wrong.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/everythings.going.wrong.misaka",
                   "Description": "Beta Release"
               }
           ],
-          "PackageID": "com.dekotastm.epicdynamicness"
+          "PackageID": "mirror.dekotastm.epicdynamicness"
       },
  {
           "Name": "SettingsCustomizer",
@@ -219,11 +219,11 @@
               },
               {
                   "Version": "0.7",
-                  "Package": "https://dekotas.org/pkg/SettingsCustomizer/ver/0.7/com.sean.settingsc1.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/com.sean.settingsc1.misaka",
                   "Description": "Misaka 1.7.3.2 beta (and above)"
               }
           ],
-          "PackageID": "com.sean.settingsc1"
+          "PackageID": "mirror.sean.settingsc1"
       },
       {
           "Name": "mario coin",
@@ -245,11 +245,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/MarioCoin/ver/1.0/mario_coin.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/mario_coin.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.L95vz.mariocoin"
+          "PackageID": "mirror.L95vz.mariocoin"
       },
       {
           "Name": "Exodar",
@@ -272,11 +272,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/exodar/ver/1.0/exodar.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/exodar.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.sean.yangjiiii.exoder"
+          "PackageID": "mirror.sean.yangjiiii.exoder"
       },
       {
           "Name": "Constance",
@@ -299,11 +299,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/constance/ver/1.0/constance.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/constance.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.sean.yangjiiii.constance"
+          "PackageID": "mirror.sean.yangjiiii.constance"
       },
       {
           "Name": "Lineat",
@@ -326,11 +326,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/lineat/ver/1.0/lineat.misaka",
+                  "Package": "hhttps://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/lineat.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.sean.yangjiiii.lineat"
+          "PackageID": "mirror.sean.yangjiiii.lineat"
       },
       {
           "Name": "FlappyLegalNotice",
@@ -358,11 +358,11 @@
               },
               {
                   "Version": "1.1",
-                  "Package": "https://dekotas.org/pkg/FlappyLegalNotice/ver/1.1/flappylegalnotice.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/flappylegalnotice.misaka",
                   "Description": "Update"
               }
           ],
-          "PackageID": "com.dekotastm.flappy"
+          "PackageID": "mirror.dekotastm.flappy"
       },
       {
           "Name": "Dog",
@@ -378,18 +378,18 @@
               ]
           },
           "Icon": "https://dekotas.org/pkg/dog/icon.png",
-          "HeaderImage": "https://dekotas.org/image/header2.png",
+          "HeaderImage": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/header2.png",
           "Category": "Fonts",
           "Caption": "Brings back Dog Clock Font :)",
           "Screenshot": ["https://dekotas.org/pkg/dog/screen.png"],
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/dog/ver/1.0/dog.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/dog.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.sean.yangjiiii.dog"
+          "PackageID": "mirror.sean.yangjiiii.dog"
       },
       {
           "Name": "ArcadeCenter",
@@ -412,11 +412,11 @@
           "Releases": [
               {
                   "Version": "0.1",
-                  "Package": "https://dekotas.org/pkg/ArcadeCenter/ver/0.1/GameCenter.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/GameCenter.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": "com.dekotastm.arcadecenter"
+          "PackageID": "mirror.dekotastm.arcadecenter"
       },
 	{
  "Name": "iPhone 14 Pro",
@@ -439,12 +439,11 @@
           "Releases": [
               {
                   "Version": "0.1",
-                  "Package": "https://dekotas.org/pkg/iPhone14Pro/ver/1.0/com.L95vz.i14p.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/com.L95vz.i14p.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.L95vz.i14p"
+          "PackageID": "mirror.L95vz.i14p"
 },
 {
  "Name": "Masked Face ID",
@@ -466,12 +465,12 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/MaskedID/ver/1.0/Masked_Face_ID.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/Masked_Face_ID.misaka",
                   "Description": "Initial release"
               }
           ],
           "PackageID": 
-"com.dekotastm.maskedfaceid"
+"mirror.dekotastm.maskedfaceid"
 },
 {
  "Name": "5GEnabler",
@@ -493,12 +492,12 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/5GEnabler/ver/0.1/Unsupported5G.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/Unsupported5G.misaka",
                   "Description": "Initial release"
               }
           ],
           "PackageID": 
-"com.dekotastm.5genabler"
+"mirror.dekotastm.5genabler"
 },
 {
  "Name": "EmojiCategoryChanger",
@@ -521,12 +520,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/EmojiCategoryChanger/ver/1.0/EmojiCategoryChanger.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/EmojiCategoryChanger.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotas.emojicategorychanger"
+          "PackageID": "mirror.dekotas.emojicategorychanger"
 },
 {
  "Name": "PassChanger",
@@ -549,12 +547,11 @@
           "Releases": [
               {
                   "Version": "0.1",
-                  "Package": "https://dekotas.org/pkg/PassChanger/ver/0.1/passchanger.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/passchanger.misaka",
                   "Description": "Beta release"
               }
           ],
-          "PackageID": 
-"com.dekotas.passchanger"
+          "PackageID": "mirror.dekotas.passchanger"
 },
 {
  "Name": "Toss Face Emoji's",
@@ -579,12 +576,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/TossEmoji/ver/1.0/Toss_Face_emojis.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/Toss_Face_emojis.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.tossface"
+          "PackageID": "mirror.dekotastm.tossface"
 },
 {
  "Name": "MuteMSGChanger",
@@ -606,12 +602,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/MuteMSGChanger/ver/1.0/MuteMSGChanger.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/MuteMSGChanger.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.mutemsgchanger"
+          "PackageID": "mirror.dekotastm.mutemsgchanger"
 },
 {
  "Name": "LSBatteryMSGChanger",
@@ -633,12 +628,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/LSBatteryMSGChanger/ver/1.0/BatteryLSMSGChanger.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/BatteryLSMSGChanger.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.batterychanger"
+          "PackageID": "mirror.dekotastm.batterychanger"
 },
 {
  "Name": "CustomConnectivityLabels",
@@ -660,12 +654,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/CustomConnectivityLabels/ver/1.0/CustomConnectivityLabels.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/CustomConnectivityLabels.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.ccoonectlabels"
+          "PackageID": "mirror.dekotastm.ccoonectlabels"
 },
 {
  "Name": "SliderChanger",
@@ -687,12 +680,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/SliderChanger/ver/1.0/SliderChanger.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/SliderChanger.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.slidechange"
+          "PackageID": "mirror.dekotastm.slidechange"
 },
 {
  "Name": "Whatsapp Emoji's",
@@ -718,8 +710,7 @@
                   "Description": "Initial release"
               }
           ],
-          "PackageID": 
-"com.dekotastm.whatsappemoji"
+          "PackageID": "mirror.dekotastm.whatsappemoji"
 },
 {
  "Name": "MusicModuleChanger",
@@ -741,12 +732,11 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://dekotas.org/pkg/MusicModuleChanger/ver/1.0/Media.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/Media.misaka",
                   "Description": "Initial release"
               }
           ],
-          "PackageID":
-"com.dekotastm.musicmodulechanger"
+          "PackageID": "mirrordekotastm.musicmodulechanger"
 },
 {
  "Name": "SettingsCustomizerPro",
@@ -768,12 +758,11 @@
           "Releases": [
               {
                   "Version": "0.1.1",
-                  "Package": "https://dekotas.org/pkg/SettingsCustomizerPro/ver/0.1/SettingsCustomizerPro.misaka",
+                  "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/SettingsCustomizerPro.misaka",
                   "Description": "Beta release"
               }
           ],
-          "PackageID":
-"com.dekotastm.settingsc1pro"
+          "PackageID": "mirrordekotastm.settingsc1pro"
 },
 {
     "Name": "NoVulnTools",
@@ -831,11 +820,11 @@
                  },
                  {
                      "Version": "0.3 alpha 2",
-                     "Package": "https://dekotas.org/pkg/NoVulnTools/ver/0.3.alpha2/AnimationSettings.misaka",
+                     "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/dekotasMirror/AnimationSettings.misaka",
                      "Description": "Changes"
                  }
              ],
              "PackageID":
-   "com.dekotastm.novulntools"
+   "mirror.dekotastm.novulntools"
    }    ]
 }
