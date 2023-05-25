@@ -1937,6 +1937,32 @@
         }
     ],
     "PackageID": "jp.mo.tooManyModules"
+},
+        },
+        {
+    "Name": "AdguardDNS",
+    "Description": "Adds Adguard DNS Profile!!",
+    "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+            {
+                "Label": "ChromiumCandy",
+                "Link": "https://twitter.com/ChromiumCandy"
+            }
+        ]
+    },
+    "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1111092025048178688/007525DD-D142-45C2-A987-862D42B6B5FE.jpg1097066907775016970/5AE1BFB6-DB4B-48B6-AC61-43766386FE99.jpg",
+    "Category": "Profile",
+    "Caption": "Adds Adguard Defaut DNS (doh) and block annoying ADs!",
+    "Screenshot": ["https://media.discordapp.net/attachments/813615730473304064/1111092587021991986/IMG_5462.png","https://media.discordapp.net/attachments/813615730473304064/1111092586791321730/IMG_5461.png"],
+    "Releases": [
+        {
+            "Version": "1.0",
+            "Package": "https://cdn.discordapp.com/attachments/1091739880092074074/1111090985221488692/AdguardDNS.misaka",
+            "Description": null
+        }
+    ],
+    "PackageID": "jp.ChromiumCandy.AdguardDNSdoh"
 }
     ]
 }
