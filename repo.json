@@ -1448,7 +1448,7 @@
         },
         {
             "Name": "Respple",
-            "MinIOSVersion": "99.9",
+            "MinIOSVersion": "15.0",
             "Description": "Apple respring logo",
             "Author": {
                 "Label": "ChromiumCandy",
@@ -1526,7 +1526,7 @@
         },
         {
             "Name": "Respple2",
-            "MinIOSVersion": "99.9",
+            "MinIOSVersion": "15.0",
             "Description": "Apple respring logo",
             "Author": {
                 "Label": "ChromiumCandy",
