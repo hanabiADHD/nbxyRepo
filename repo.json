@@ -9,6 +9,15 @@
         {
             "Name": "TrollBalloon",
             "Description": "Change iMessage Balloon effects into TrollFace",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -42,6 +51,15 @@
         {
             "Name": "TrollLazer",
             "Description": "Troll your iMessage effects!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -74,6 +92,15 @@
         {
             "Name": "TrollSpotlight",
             "Description": "Trolly Trolly Trolly",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -111,6 +138,8 @@
         {
             "Name": "GonnaKillYaWebContentFilter",
             "Description": "Kill ur fucking web filter",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -145,6 +174,7 @@
         {
             "Name": "NoSwipeUpToOpen",
             "Description": "Remove the text",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki, fall20c & ChromiumCandy",
@@ -198,6 +228,15 @@
         {
             "Name": "14DND",
             "Description": "iOS14 style DND module on CC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Kumiki, ChromiumCandy & fall20c",
                 "Links": [
@@ -265,6 +304,15 @@
         {
             "Name": "7G",
             "Description": "Change 5G to 7G and others!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy, fall20c & Kumiki",
                 "Links": [
@@ -335,6 +383,15 @@
         {
             "Name": "PixelShutter",
             "Description": "Change camera shutter to Pixel's",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -365,6 +422,15 @@
         {
             "Name": "NoCameraSound",
             "Description": "Bye bye noisy shutter sound",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "しまりん & ChromiumCandy",
                 "Links": [
@@ -498,6 +564,15 @@
         {
             "Name": "NoSettingsIcon",
             "Description": "Hide setting icons",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -537,6 +612,15 @@
         {
             "Name": "Clearity",
             "Description": "Clearify ur SpringBoard!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -1606,6 +1690,8 @@
         {
             "Name": "Atsumori",
             "Description": "Change SOLD Label to 熱盛!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "fall20c & mo.",
                 "Links": [
@@ -1762,6 +1848,15 @@
         {
             "Name": "Checlock",
             "Description": "Checkra1n on clock icon!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -1790,6 +1885,7 @@
         },
         {
             "Name": "AP-WP",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Description": "Change the WP by appearance!",
             "Author": {
@@ -1817,6 +1913,8 @@
         {
             "Name": "Anti F OTA",
             "Description": "Disable OTA update!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
@@ -1842,6 +1940,8 @@
         {
             "Name": "Anti OTA Ⓐ",
             "Description": "Disable OTA update!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "ChromiumCandy",
                 "Links": [
