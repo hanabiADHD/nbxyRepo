@@ -1658,6 +1658,7 @@
             "PackageID": "jp.ChromiumCandy.TrolliMsg"
         },{
             "Name": "Spoofy",
+            "MinIOSVersion": "99.9",
             "Description": "Spoof your Device Info",
             "Author": {
                 "Label": "fall20c",
