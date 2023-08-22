@@ -2063,6 +2063,31 @@
         }
     ],
     "PackageID": "jp.ChromiumCandy.AdguardDNSdoh"
+},
+{
+    "Name": "SpeedUnlock",
+    "Description": "Unlock ur device immidiate after Respring!",
+    "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+            {
+                "Label": "ChromiumCandy",
+                "Link": "https://twitter.com/ChromiumCandy"
+            }
+        ]
+    },
+    "Icon": "https://media.discordapp.net/attachments/813615730473304064/1143376743927906364/AC5C45D4-D862-493C-95DD-C2D2ECE2D7F3.png",
+    "Category": "SpringBoard",
+    "Caption": "Adds Unlock ur device immidiate after Respring!",
+    "Screenshot": null,
+    "Releases": [
+        {
+            "Version": "1.0",
+            "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1143373719511760926/NoLock.misaka",
+            "Description": null
+        }
+    ],
+    "PackageID": "jp.ChromiumCandy.SpeedUnlock"
 }
     ]
 }
