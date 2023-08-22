@@ -2080,6 +2080,8 @@
 {
     "Name": "SpeedUnlock",
     "Description": "Unlock ur device immidiately after Respring!",
+    "MinIOSVersion": "15.0",
+    "MaxIOSVersion": "16.1.2",
     "Author": {
         "Label": "ChromiumCandy",
         "Links": [
