@@ -188,7 +188,7 @@
             "Name": "NoSwipeUpToOpen",
             "Description": "Remove the text",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "16.7",
             "Author": {
                 "Label": "Kumiki, fall20c & ChromiumCandy",
                 "Links": [
@@ -234,6 +234,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
                     "Description": "Creddit added"
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1145998427872825375/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "iOS16 support by uz.ra"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
