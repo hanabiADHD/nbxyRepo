@@ -2135,7 +2135,10 @@
     "Icon": "https://media.discordapp.net/attachments/813615730473304064/1146024443194392576/044F21E2-9DB9-4773-9786-C94A6A9B9924.png",
     "Category": "LockScreen",
     "Caption": "Hide Old notifications text\nFix for iOS15 and custom text feature",
-    "Screenshot": null,
+    "Screenshot": [
+    "https://media.discordapp.net/attachments/813615730473304064/1146028946991882330/IMG_8217.png",
+    "https://media.discordapp.net/attachments/1078723159957700730/1146026850896842814/IMG_0226.png"
+    ],
     "Releases": [
         {
             "Version": "1.0",
