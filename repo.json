@@ -239,6 +239,11 @@
                     "Version": "2.0",
                     "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1145998427872825375/com.Kumiki.NoSwipeUpToOpen.misaka",
                     "Description": "iOS16 support by uz.ra"
+                },
+                {
+                    "Version": "2.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146003884733640765/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Bug fix (iOS15)"
                 }
             ],
             "PackageID": "com.Kumiki.NoSwipeUpToOpen"
