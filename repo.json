@@ -186,7 +186,7 @@
         },
         {
             "Name": "NoSwipeUpToOpen",
-            "Description": "Remove the text",
+            "Description": "Costomizable "Swipe up to open" text",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.7",
             "Author": {
