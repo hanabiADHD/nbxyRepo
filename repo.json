@@ -2174,6 +2174,11 @@
             "Version": "1.0",
             "Package": "https://cdn.discordapp.com/attachments/1074645700828200970/1146408518757384283/canvas.misaka",
             "Description": null
+        },
+        {
+            "Version": "1.1",
+            "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146435873878069398/canvas.misaka",
+            "Description": "added iPhone 12 mini resolution. tysm 34306!",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
