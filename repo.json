@@ -2150,7 +2150,7 @@
 },
 {
     "Name": "Canvas",
-    "Description": "Change device resolution and Enable DynamicIsland!",
+    "Description": "Enable Dynamic Island & iPhone X gesture!",
     "MinIOSVersion": "15.0",
     "MaxIOSVersion": "16.9",
     "Author": {
@@ -2164,10 +2164,12 @@
     },
     "Icon": "https://media.discordapp.net/attachments/813615730473304064/1146407365353144370/8B2A93D1-2497-4285-B8D2-4865176F27D0.png",
     "Category": "SpringBoard",
-    "Caption": "Change resolution and Enable or Disable DynamicIsland!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!",
+    "Caption": "Change resolution and Enable or Disable DynamicIsland!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!\nScreenshots by @lx4tvnelxo",
     "Screenshot": [
-    "https://media.discordapp.net/attachments/1074645700828200970/1146409899006378065/IMG_8231.png",
-    "https://media.discordapp.net/attachments/1074645700828200970/1146409899291594792/IMG_8232.png"
+    "https://media.discordapp.net/attachments/813615730473304064/1146494576048226354/IMG_8259.png",
+    "https://media.discordapp.net/attachments/813615730473304064/1146494754461339708/IMG_8260.png",
+    "https://media.discordapp.net/attachments/1078723159957700730/1146494264176549959/9B69EA28-C7F4-445D-85A5-F83FD86A11F9.png",
+    "https://media.discordapp.net/attachments/1078723159957700730/1146494264797302856/9E00E1AA-A985-4F5C-93E0-87E5A3B53E13.png"
     ],
     "Releases": [
         {
@@ -2179,6 +2181,11 @@
             "Version": "1.1",
             "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146435873878069398/canvas.misaka",
             "Description": "added iPhone 12 mini resolution. tysm 34306!",
+        },
+        {
+            "Version": "1.2",
+            "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146490978711113758/canvas.misaka",
+            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option.",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
