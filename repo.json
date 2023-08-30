@@ -2185,7 +2185,7 @@
         {
             "Version": "1.2",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146490978711113758/canvas.misaka",
-            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option.",
+            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding eroor bug.",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
