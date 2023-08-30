@@ -2164,7 +2164,7 @@
     },
     "Icon": "https://media.discordapp.net/attachments/813615730473304064/1146407365353144370/8B2A93D1-2497-4285-B8D2-4865176F27D0.png",
     "Category": "SpringBoard",
-    "Caption": "Change resolution and Enable or Disable DynamicIsland!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!\nScreenshots by @lx4tvnelxo",
+    "Caption": "Change resolution and Enable or Disable Dynamic Island!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!\n\nScreenshots by @lx4tvnelxo",
     "Screenshot": [
     "https://media.discordapp.net/attachments/813615730473304064/1146494576048226354/IMG_8259.png",
     "https://media.discordapp.net/attachments/813615730473304064/1146494754461339708/IMG_8260.png",
@@ -2185,7 +2185,7 @@
         {
             "Version": "1.2",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146490978711113758/canvas.misaka",
-            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding eroor bug.",
+            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding error bug.",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
