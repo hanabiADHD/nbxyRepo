@@ -2147,6 +2147,33 @@
         }
     ],
     "PackageID": "jp.ChromiumCandy.HideOldNotificationFix"
+},
+{
+    "Name": "Canvas",
+    "Description": "Change device resolution and Enable DynamicIsland!",
+    "MinIOSVersion": "15.0",
+    "MaxIOSVersion": "16.9",
+    "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+            {
+                "Label": "ChromiumCandy",
+                "Link": "https://twitter.com/ChromiumCandy"
+            }
+        ]
+    },
+    "Icon": "https://media.discordapp.net/attachments/813615730473304064/1146407365353144370/8B2A93D1-2497-4285-B8D2-4865176F27D0.png",
+    "Category": "SpringBoard",
+    "Caption": "Change resolution and Enable or Disable DynamicIsland!\nYou can also Enable iPhoneX gesture on iPhoneSE and other typpe of iPhones!",
+    "Screenshot": null,
+    "Releases": [
+        {
+            "Version": "1.0",
+            "Package": "https://cdn.discordapp.com/attachments/1074645700828200970/1146408518757384283/canvas.misaka",
+            "Description": null
+        }
+    ],
+    "PackageID": "jp.ChromiumCandy.Canvas"
 }
     ]
 }
