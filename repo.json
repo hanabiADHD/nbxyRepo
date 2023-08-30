@@ -2166,10 +2166,12 @@
     "Category": "SpringBoard",
     "Caption": "Change resolution and Enable or Disable Dynamic Island!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!\n\nScreenshots by @lx4tvnelxo",
     "Screenshot": [
-    "https://media.discordapp.net/attachments/813615730473304064/1146494576048226354/IMG_8259.png",
-    "https://media.discordapp.net/attachments/813615730473304064/1146494754461339708/IMG_8260.png",
-    "https://media.discordapp.net/attachments/1078723159957700730/1146494264176549959/9B69EA28-C7F4-445D-85A5-F83FD86A11F9.png",
-    "https://media.discordapp.net/attachments/1078723159957700730/1146494264797302856/9E00E1AA-A985-4F5C-93E0-87E5A3B53E13.png"
+    "https://media.discordapp.net/attachments/813615730473304064/1146589582243143730/6420F067-75A9-42A0-A8F4-6213C73944FC.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1146590955680563220/961A1380-1833-4775-B3E2-19D23F445F23.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1146588237532500008/7D5DFA05-F36E-4176-B12F-E65F22F79207.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1146588238056800316/D53CC985-8ECC-4AF2-A3D7-172DEDC70E66.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1146588236886577173/4CE209BA-DDE8-4CA5-BCB9-5767BE666B9F.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1146588237146636318/7973544B-E265-4BBA-B464-B3D5C6DC0718.jpg"
     ],
     "Releases": [
         {
@@ -2186,6 +2188,11 @@
             "Version": "1.2",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146490978711113758/canvas.misaka",
             "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding error bug.",
+        },
+        {
+            "Version": "1.3",
+            "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146591613099978922/jp.ChromiumCandy.Canvas.misaka",
+            "Description": "added iPhone SE (Gen1) resolution",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
