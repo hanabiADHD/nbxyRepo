@@ -2198,6 +2198,11 @@
             "Version": "1.4",
             "Package": "https://cdn.discordapp.com/attachments/1089248899438485564/1146654835379286016/jp.ChromiumCandy.Canvas.misaka",
             "Description": "avoid bplist padding error",
+        },
+        {
+            "Version": "1.5",
+            "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146765945545687050/jp.ChromiumCandy.Canvas.misaka",
+            "Description": "Added Xs Max resolution. tysm tabemaru!",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
