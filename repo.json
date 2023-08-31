@@ -2193,6 +2193,11 @@
             "Version": "1.3",
             "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146591613099978922/jp.ChromiumCandy.Canvas.misaka",
             "Description": "added iPhone SE (Gen1) resolution",
+        },
+        {
+            "Version": "1.4",
+            "Package": "https://cdn.discordapp.com/attachments/1089248899438485564/1146654835379286016/jp.ChromiumCandy.Canvas.misaka",
+            "Description": "avoid bplist padding error",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
