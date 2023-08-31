@@ -1424,6 +1424,7 @@
         },
         {
             "Name": "MobileGestaltRestore",
+            "MinIOSVersion": "114.514",
             "Description": "Restore your MobileGestaltCache",
             "Author": {
                 "Label": "fall20c",
