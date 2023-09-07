@@ -2204,6 +2204,11 @@
             "Version": "1.5",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146765945545687050/jp.ChromiumCandy.Canvas.misaka",
             "Description": "Added Xs Max resolution. tysm tabemaru!",
+        },
+        {
+            "Version": "1.6",
+            "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1149244974081261669/jp.ChromiumCandy.Canvas.misaka",
+            "Description": "Fixed a bug that correct file wont apply",
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
