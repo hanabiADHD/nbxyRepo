@@ -2183,32 +2183,32 @@
         {
             "Version": "1.1",
             "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146435873878069398/canvas.misaka",
-            "Description": "added iPhone 12 mini resolution. tysm 34306!",
+            "Description": "added iPhone 12 mini resolution. tysm 34306!"
         },
         {
             "Version": "1.2",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146490978711113758/canvas.misaka",
-            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding error bug.",
+            "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding error bug."
         },
         {
             "Version": "1.3",
             "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1146591613099978922/jp.ChromiumCandy.Canvas.misaka",
-            "Description": "added iPhone SE (Gen1) resolution",
+            "Description": "added iPhone SE (Gen1) resolution"
         },
         {
             "Version": "1.4",
             "Package": "https://cdn.discordapp.com/attachments/1089248899438485564/1146654835379286016/jp.ChromiumCandy.Canvas.misaka",
-            "Description": "avoid bplist padding error",
+            "Description": "avoid bplist padding error"
         },
         {
             "Version": "1.5",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1146765945545687050/jp.ChromiumCandy.Canvas.misaka",
-            "Description": "Added Xs Max resolution. tysm tabemaru!",
+            "Description": "Added Xs Max resolution. tysm tabemaru!"
         },
         {
             "Version": "1.6",
             "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1149244974081261669/jp.ChromiumCandy.Canvas.misaka",
-            "Description": "Fixed a bug that correct file wont apply",
+            "Description": "Fixed a bug that correct file wont apply"
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
