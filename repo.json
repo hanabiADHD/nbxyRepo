@@ -2233,7 +2233,7 @@
     },
     "Icon": "https://media.discordapp.net/attachments/813615730473304064/1151700344670277642/E91B3CC2-72EF-4038-932C-42BB5ABD5B83.png",
     "Category": "Settings",
-    "Caption": "Features\n・Enable\Disable SupervisedMode.\n・Hide \"Your divice is supervised by...\" text on Settings app.\n\nSince there be not a feature to overwrite /var/ on kfd yet, Enable/Disable SuperviseMode feature only works on mdc!\n\nScreenshots by @lx4tvnelxo",
+    "Caption": "Features\n・Enable/Disable SupervisedMode.\n・Hide \"Your divice is supervised by...\" text on Settings app.\n\nSince there be not a feature to overwrite /var/ on kfd yet, Enable/Disable SuperviseMode feature only works on mdc!\n\nScreenshots by @lx4tvnelxo",
     "Screenshot": [
     "https://media.discordapp.net/attachments/813615730473304064/1152104876046823444/899BC7D6-6E26-47A7-B500-7101C2978126.jpg",
     "https://media.discordapp.net/attachments/813615730473304064/1152104876386558063/D09FC515-98F7-486E-9865-FFDD1F8A7330.jpg",
