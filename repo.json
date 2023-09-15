@@ -2212,6 +2212,41 @@
         }
     ],
     "PackageID": "jp.ChromiumCandy.Canvas"
+},
+{
+    "Name": "Superevise",
+    "Description": "Revised SupervisedMode!",
+    "MinIOSVersion": "15.0",
+    "MaxIOSVersion": "16.9",
+    "Author": {
+        "Label": "uz.ra",
+        "Links": [
+            {
+                "Label": "uz.ra (main dev)",
+                "Link": "https://twitter.com/ChromiumCandy"
+            },
+            {
+                "Label": "LeminLimez (Avoid BootLoop method)",
+                "Link": "https://twitter.com/leminlimez"
+            }
+        ]
+    },
+    "Icon": "https://media.discordapp.net/attachments/813615730473304064/1151700344670277642/E91B3CC2-72EF-4038-932C-42BB5ABD5B83.png",
+    "Category": "Settings",
+    "Caption": "Features\n・Enable\Disable SupervisedMode.\n・Hide \"Your divice is supervised by...\" text on Settings app.\n\nSince there be not a feature to overwrite /var/ on kfd yet, Enable/Disable SuperviseMode feature only works on mdc!\n\nScreenshots by @lx4tvnelxo",
+    "Screenshot": [
+    "https://media.discordapp.net/attachments/813615730473304064/1152104876046823444/899BC7D6-6E26-47A7-B500-7101C2978126.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1152104876386558063/D09FC515-98F7-486E-9865-FFDD1F8A7330.jpg",
+    "https://media.discordapp.net/attachments/813615730473304064/1152104876617248838/9C78009E-2FFD-4199-B270-306EC040D88E.jpg"
+    ],
+    "Releases": [
+        {
+            "Version": "1.0",
+            "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1151706894159851550/jp.ChromiumCandy.Supervise.misaka",
+            "Description": "Initial release"
+        }
+    ],
+    "PackageID": "jp.ChromiumCandy.Superevise"
 }
     ]
 }
