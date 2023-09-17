@@ -2214,6 +2214,11 @@
             "Version": "1.0",
             "Package": "https://cdn.discordapp.com/attachments/1078723159957700730/1151706894159851550/jp.ChromiumCandy.Supervise.misaka",
             "Description": "Initial release"
+        },
+        {
+            "Version": "1.1",
+            "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1152885733527396402/jp.ChromiumCandy.Supervise.misaka",
+            "Description": "Fixed incomplete file error on kfd device"
         }
     ],
     "PackageID": "jp.ChromiumCandy.Superevise"
