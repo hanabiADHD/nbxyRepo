@@ -757,36 +757,6 @@
             "PackageID": "jp.ChromiumCandy.CCController"
         },
         {
-            "Name": "EnableSupervisedMode",
-            "Description": "Enable Supervised mode",
-            "Author": {
-                "Label": "ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": null,
-            "Caption": "Enable Supervised mode",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1083572483770302564/EnableSupervisedMode_v0.2.vdf",
-                    "Description": null
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589205471272/com.ChromiumCandy.Supervise.misaka",
-                    "Description": ".vdf to .misaka"
-                }
-            ],
-            "PackageID": "jp.ChromiumCandy.Supervise"
-        },
-        {
             "Name": "FreeTime",
             "Description": "Safe & Real Screentime disabler",
             "Author": {
