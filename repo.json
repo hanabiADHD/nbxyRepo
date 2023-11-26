@@ -2222,6 +2222,35 @@
         }
     ],
     "PackageID": "jp.ChromiumCandy.Superevise"
+},
+{
+    "Name": "Dentac",
+    "Description": "Enable calculator CC module on iPad!",
+    "MinIOSVersion": "15.0",
+    "MaxIOSVersion": "16.9",
+    "Author": {
+        "Label": "uz.ra",
+        "Links": [
+            {
+                "Label": "uz.ra",
+                "Link": "https://twitter.com/ChromiumCandy"
+            }
+        ]
+    },
+    "Icon": "https://github.com/hanabiADHD/nbxyRepo/blob/main/TweakImages/Dentac-header.png",
+    "Category": "ControlCenter",
+    "Caption": "Features\n・Enable Calculator CCmodule on iPad (mdc only)\n・Open any apps via calculator module (also available on iPhone with both kfd and mdc).",
+    "Screenshot": [
+    "https://video.twimg.com/ext_tw_video/1728437706097848320/pu/vid/avc1/720x960/4seWom_EeUTh_NyB.mp4"
+    ],
+    "Releases": [
+        {
+            "Version": "1.0",
+            "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/Packages/Dentac_v1.misaka",
+            "Description": "Initial release"
+        }
+    ],
+    "PackageID": "jp.ChromiumCandy.Dentac"
 }
     ]
 }
