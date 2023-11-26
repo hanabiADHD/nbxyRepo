@@ -2237,7 +2237,7 @@
             }
         ]
     },
-    "Icon": "https://github.com/hanabiADHD/nbxyRepo/blob/main/TweakImages/Dentac-header.png",
+    "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Dentac-icon.png",
     "Category": "ControlCenter",
     "Caption": "Features\n・Enable Calculator CCmodule on iPad (mdc only)\n・Open any apps via calculator module (also available on iPhone with both kfd and mdc).",
     "Screenshot": [
@@ -2246,8 +2246,13 @@
     "Releases": [
         {
             "Version": "1.0",
-            "Package": "https://github.com/hanabiADHD/nbxyRepo/blob/main/Packages/Dentac_v1.misaka",
+            "Package": "https://https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/Dentac_v1.misaka",
             "Description": "Initial release"
+        },
+        {
+            "Version": "1.1",
+            "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/Dentac_v1.1.misaka",
+            "Description": "Shit fix"
         }
     ],
     "PackageID": "jp.ChromiumCandy.Dentac"
