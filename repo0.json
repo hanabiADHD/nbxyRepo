@@ -935,7 +935,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Shut up PayPay-icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Shut-up-PayPay-icon.jpg",
       "Category": "Sound",
       "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ\nInstall Version 0.3 if you use PayPay -3.79.0",
       "Screenshot": null,
@@ -970,7 +970,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/SOMEBODY TOUCHA MY SPAGHET-icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/SOMEBODY-TOUCHA-MY-SPAGHET-icon.jpg",
       "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/SOMEBODY TOUCHA MY SPAGHET-header.gif",
       "Category": "Sound",
       "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
@@ -1511,12 +1511,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/ARIA Pass-icon.png",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/ARIA-Pass-icon.png",
       "HeaderImage": "https://1stplace.co.jp/wp/wp-content/uploads/2023/02/IA-with_ARIAMARK.jpg",
       "Category": "Passcode",
       "Caption": "IA & ONE on Passcode!",
       "Screenshot": [
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/ARIA Pass-ss0.png"
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/ARIA-Pass-ss0.png"
       ],
       "Releases": [
         {
@@ -1937,12 +1937,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti F OTA-icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti-F-OTA-icon.jpg",
       "Category": null,
       "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
       "Screenshot": [
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti F OTA-ss0.png",
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti F OTA-ss1.png"
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti-F-OTA-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti-F-OTA-ss1.png"
       ],
       "Releases": [
         {
@@ -1967,7 +1967,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti OTA Ⓐ-icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti-OTA-Ⓐ-icon.jpg",
       "Category": null,
       "Caption": "Disable OTA update!\nIf this doesnt work, use Anti F OTA",
       "Screenshot": null,
@@ -2042,11 +2042,11 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Too Many Modules-icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Too-Many-Modules-icon.jpg",
       "Category": "Control Center",
       "Caption": "Add hidden modules on screenshot\n -FaceTime Modules\n -Mute Module\n -Spoken Notification Module\n -System Trace Module",
       "Screenshot": [
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Too Many Modules-ss0.png"
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Too-Many-Modules-ss0.png"
       ],
       "Releases": [
         {
@@ -2130,12 +2130,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/HideOldNotifications Fix-icon.png",
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/HideOldNotifications-Fix-icon.png",
       "Category": "LockScreen",
       "Caption": "Hide Old notifications text\nFix for iOS15 and custom text feature",
       "Screenshot": [
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications Fix-ss0.png",
-        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications Fix-ss1.png"
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications-Fix-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications-Fix-ss1.png"
       ],
       "Releases": [
         {
