@@ -2150,7 +2150,8 @@
       "Name": "Canvas",
       "Description": "Enable Dynamic Island & iPhone X gesture!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.9",
+      "MaxIOSVersion": "17.0",
+      "compatibleExploit": ["MDC", "KFD","TrollStore"],
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
