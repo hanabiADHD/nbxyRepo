@@ -1956,7 +1956,7 @@
     {
       "Name": "Anti OTA Ⓐ",
       "Description": "Disable OTA update!",
-      "MinIOSVersion": "15.0",
+      "MinIOSVersion": "18.0",
       "MaxIOSVersion": "16.1.2",
       "Author": {
         "Label": "ChromiumCandy",
