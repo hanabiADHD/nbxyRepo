@@ -1,0 +1,2289 @@
+{
+  "RepositoryName": "Applicott",
+  "RepositoryDescription": "by nbxy (aka uz.ra), fall20c and mo.",
+  "RepositoryAuthor": "ChromiumCandy",
+  "RepositoryIcon": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Applicott-logo.png",
+  "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
+  "Default": {
+    "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/DefaultHeaderImage.jpg",
+    "Author": {
+      "Label": "uz.ra",
+      "Links": [
+        {
+          "Label": "Twitter",
+          "Link": "https://twitter.com/ChromiumCandy"
+        }
+      ]
+    },
+    "ViewCount": true
+  },
+  "DefaultHeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/DefaultHeaderImage.jpg",
+  "RepositoryContents": [
+    {
+      "Name": "TrollBalloon",
+      "Description": "Change iMessage Balloon effects into TrollFace",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/TrollBalloon-icon.png",
+      "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
+      "Category": "App Custom",
+      "Caption": "Troll your iMesssage effects!",
+      "Screenshot": [
+        "https://pbs.twimg.com/media/FqA7todaEAEo_5K?format=jpg&name=large"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1 beta",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollBalloon_v0.1 beta.vdf",
+          "Description": "beta release"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollBalloon_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.TrollBalloon"
+    },
+    {
+      "Name": "TrollLazer",
+      "Description": "Troll your iMessage effects!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/TrollLazer-icon.png",
+      "Category": "App Custom",
+      "Caption": "Change iMessage Lazer effect into TrollFace",
+      "Screenshot": [
+        "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollLazer_v0.1.vdf",
+          "Description": ""
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollLazer_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.TrollLazer"
+    },
+    {
+      "Name": "TrollSpotlight",
+      "Description": "Trolly Trolly Trolly",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/TrollSpotlight-icon.png",
+      "Category": "App Custom",
+      "Caption": "Change iMessage Spotlight effect into TrollFace",
+      "Screenshot": [
+        "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollSpotlight_v0.1.vdf",
+          "Description": "1st release"
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollSpotlight_v0.2.vdf",
+          "Description": "画像の歪み修正"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrollSpotlight_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.TrollSpotlight"
+    },
+    {
+      "Name": "GonnaKillYaWebContentFilter",
+      "Description": "Kill ur fucking web filter",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy(Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c(Icon)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/GonnaKillYaWebContentFilter-icon.jpg",
+      "Category": null,
+      "Caption": "Kill ur fucking web filter",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/GonnaKillYaWebContentFilter-ss0.mov"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.GonnaKillYaWCF_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.GonnaKillYaWCF_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.GonnaKillYaWCF"
+    },
+    {
+      "Name": "NoSwipeUpToOpen",
+      "Description": "Costomizable Swipe up to open text",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.7",
+      "Author": {
+        "Label": "Kumiki, fall20c & ChromiumCandy",
+        "Links": [
+          {
+            "Label": "Kumiki (Main Dev)",
+            "Link": null
+          },
+          {
+            "Label": "YangJiii (path)",
+            "Link": "https://twitter.com/duongduong0908"
+          },
+          {
+            "Label": "ChromiumCandy (multi language support, config)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c (Icon,iOS16 Support)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
+      "Category": "Lock Screen",
+      "Caption": "Remove Swipe up to open text",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v0.1.vdf",
+          "Description": "First relaese by Kumiki"
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v0.2.vdf",
+          "Description": "english support added by ChromiumCandy"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v1.0.misaka",
+          "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v1.1.misaka",
+          "Description": "Creddit added"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v2.0.misaka",
+          "Description": "iOS16 support by uz.ra"
+        },
+        {
+          "Version": "2.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSwipeUpToOpen_v2.1.misaka",
+          "Description": "Bug fix (iOS15)"
+        }
+      ],
+      "PackageID": "com.Kumiki.NoSwipeUpToOpen"
+    },
+    {
+      "Name": "14DND",
+      "Description": "iOS14 style DND module on CC",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki, ChromiumCandy & fall20c",
+        "Links": [
+          {
+            "Label": "ChromiumCandy (Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Path,Testing,Bug fixes)",
+            "Link": null
+          },
+          {
+            "Label": "fall20c (iOS16 Support)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/14DND-icon.png",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/14DND-header.gif",
+      "Category": "Control Center",
+      "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/14DND-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/14DND-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v0.1.vdf",
+          "Description": "First relaese by ChromiumCandy"
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v0.2.vdf",
+          "Description": "Network module bug fix by Kumiki"
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v0.3.vdf",
+          "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
+        },
+        {
+          "Version": "0.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v0.4.vdf",
+          "Description": "Bug fix"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v1.1.misaka",
+          "Description": "bug fix by Kumiki"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.14DND_v1.2.misaka",
+          "Description": "iOS 16 supported by Kumiki & fall20c"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.14DND"
+    },
+    {
+      "Name": "7G",
+      "Description": "Change 5G to 7G and others!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy, fall20c & Kumiki",
+        "Links": [
+          {
+            "Label": "ChromiumCandy (Main dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c (iOS16 Support)",
+            "Link": "https://twitter.com/fall20c"
+          },
+          {
+            "Label": "Kumiki (iOS16 Support)",
+            "Link": null
+          },
+          {
+            "Label": "hagetako (iOS16 Test)",
+            "Link": "https://twitter.com/_unlim1"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/7G-icon.jpg",
+      "Category": "SpringBoard",
+      "Caption": "Change statusbar 5G text to 7G and others!",
+      "Screenshot": [
+        "https://pbs.twimg.com/media/Fr4hmCCakAARPde?format=jpg&name=large",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/7G-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.3.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v0.3.2.vdf",
+          "Description": null
+        },
+        {
+          "Version": "0.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v0.4.vdf",
+          "Description": "Multi language & Custom string support"
+        },
+        {
+          "Version": "0.4.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v0.4.1.vdf",
+          "Description": "ja support disabled, fixed 5G+ shows up 5G"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v1.0.misaka",
+          "Description": ".vdf to .misaka\nmoved Custom string in tweak settings"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v1.1.misaka",
+          "Description": "仕様変更に対応"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v1.2.misaka",
+          "Description": "iOS16 supported by fall20c & Kumiki"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.7G_v2.0.misaka",
+          "Description": "5Ge, 5Guw, 5Guc, LTE, LTE+ and LTE-A support!"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.7G"
+    },
+    {
+      "Name": "PixelShutter",
+      "Description": "Change camera shutter to Pixel's",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/PixelShutter-icon.jpg",
+      "Category": "Sound",
+      "Caption": "Change camera shutter to Pixel's",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.PixelShutter_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.PixelShutter_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.PixelShutter"
+    },
+    {
+      "Name": "NoCameraSound",
+      "Description": "Bye bye noisy shutter sound",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "しまりん & ChromiumCandy",
+        "Links": [
+          {
+            "Label": "しまりん(OriginalDev)",
+            "Link": "https://twitter.com/straight_tamago"
+          },
+          {
+            "Label": "ChromiumCandy (VDF Porting)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/NoCameraSound-icon.jpg",
+      "Category": "Sound",
+      "Caption": "Destroy noisy annnoying cursed Shutter sound",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.NCS_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.NCS_v0.2.vdf",
+          "Description": "Added Recording & Burst sound support"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.NCS_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "com.straight-tamago.NCS"
+    },
+    {
+      "Name": "Twemoji",
+      "Description": "Twitter emoji",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Twemoji-icon.png",
+      "Category": "Emoji",
+      "Caption": "Change Apple Emoji to Twemoji.\nDue to the file size restriction, some of them are broken. Any help to solve this issue would be thanked",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Twemoji-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Twemoji_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Twemoji_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Twemoji"
+    },
+    {
+      "Name": "Blobmoji",
+      "Description": "Blobmoji Emoji",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Blobmoji-icon.png",
+      "Category": "Emoji",
+      "Caption": "Swap Emoji to Blobmoji's",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Blobmoji-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Blobmoji_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Blobmoji_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Blobmoji"
+    },
+    {
+      "Name": "NotoColourEmoji",
+      "Description": "Noto Colour Emoji",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/NotoColourEmoji-icon.png",
+      "Category": "Emoji",
+      "Caption": "Change Emoji to Noto Colour Emoji",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.NotoColorEmoji_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.NotoColorEmoji_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.NotoColorEmoji"
+    },
+    {
+      "Name": "NoSettingsIcon",
+      "Description": "Hide setting icons",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki (Main Dev)",
+            "Link": null
+          },
+          {
+            "Label": "ChromiumCandy (Icon)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/NoSettingsIcon-icon.jpg",
+      "Category": null,
+      "Caption": "Hide setting icons",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSettingsIcon_v0.2.vdf",
+          "Description": "VPN icon bug fix"
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSettingsIcon_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.Kumiki.NoSettingsIcon_v1.1.misaka",
+          "Description": "File size issue fixed"
+        }
+      ],
+      "PackageID": "com.Kumiki.NoSettingsIcon"
+    },
+    {
+      "Name": "Clearity",
+      "Description": "Clearify ur SpringBoard!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "しまりん(Path,Bug fixes)",
+            "Link": "https://twitter.com/straight_tamago"
+          },
+          {
+            "Label": "Sugiuta (Hide Passcode Blur)",
+            "Link": "https://twitter.com/FeAr_sugi"
+          },
+          {
+            "Label": "Kumiki (Bug fixes)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Clearity-icon.jpg",
+      "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
+      "Category": "SpringBoard",
+      "Caption": "Disable CC, AppSwitcher, Passcode BG blur\nAlso customizable Blur amount and colour!",
+      "Screenshot": [
+        "https://pbs.twimg.com/media/FrLM4n3aAAMVs2H?format=jpg&name=large",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Clearity-ss1.png",
+        "https://pbs.twimg.com/media/Fq3zthpaQAE1Esg?format=jpg&name=large",
+        "https://pbs.twimg.com/media/Fq3zthqaYAIjkhE?format=jpg&name=large"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v0.2.vdf",
+          "Description": "HS folder supported"
+        },
+        {
+          "Version": "1.4.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v1.4.2.vdf",
+          "Description": "Clearified dock (only supports light mode due to respring loop on dark mode)"
+        },
+        {
+          "Version": "1.5.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v1.5.1.vdf",
+          "Description": "Style changed"
+        },
+        {
+          "Version": "2.0.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v2.0.0.misaka",
+          "Description": ".vdf to .misaka"
+        },
+        {
+          "Version": "2.2.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v2.2.2.misaka",
+          "Description": "Customizable CC,Dock and others\nAlso fixed file size issue"
+        },
+        {
+          "Version": "2.3.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v2.3.0.misaka",
+          "Description": "仕様変更に対応"
+        },
+        {
+          "Version": "2.4.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v2.4.0.misaka",
+          "Description": "Clearified passcode backround.\nMade based on Hide Passcode Blur by Sugiuta"
+        },
+        {
+          "Version": "2.4.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Clearity_v2.4.1.misaka",
+          "Description": "File size issue fixed by Kumiki"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Clearity"
+    },
+    {
+      "Name": "ControlCenterController",
+      "Description": "Customize your CC!",
+      "MinIOSVersion": "99.9",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": null,
+      "Category": "Control Center",
+      "Caption": "Controll your CC module",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.CCController_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.CCController_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.CCController"
+    },
+    {
+      "Name": "FreeTime",
+      "Description": "Safe & Real Screentime disabler",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/FreeTime-icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/FreeTime-header.gif",
+      "Category": null,
+      "Caption": "only blocks usage limits\nNOTE : WATCH THE VIDEO BELOW BEFORE ENABLING",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/FreeTime-ss0.mov"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.FreeTime_v0.1.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.FreeTime_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.FreeTime_v2.0.misaka",
+          "Description": "Bug fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.FreeTime"
+    },
+    {
+      "Name": "hyde",
+      "Description": "hide NC texts & homebar!",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy (Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "しまりん (Disable Homebar)",
+            "Link": "https://twitter.com/straight_tamago"
+          },
+          {
+            "Label": "Kumiki (No older notifications text path)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/hyde-icon.JPG",
+      "Category": "SpringBoard",
+      "Caption": "hide NC texts and homebar!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/hyde-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.156",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.156_v0.156.vdf",
+          "Description": null
+        },
+        {
+          "Version": "0.3-156",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.156_v0.3-156.vdf",
+          "Description": "hyded Enter passcode text"
+        },
+        {
+          "Version": "0.4-156",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.156_v0.4-156.vdf",
+          "Description": "Multi language support"
+        },
+        {
+          "Version": "0.5-156",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.156_v0.5-156.vdf",
+          "Description": "hyded No older notifications"
+        },
+        {
+          "Version": "1.0-156",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.156_v1.0-156.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.156"
+    },
+    {
+      "Name": "iOS4LockSound",
+      "Description": "Legacy!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy(Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c(Icon)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/iOS4LockSound-icon.jpg",
+      "Category": "Sound",
+      "Caption": "iOS4 Lock sound.\na bit buggy so try respring and toggle on&off",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.iOS4LockSound_v0.2.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.iOS4LockSound_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.iOS4LockSound"
+    },
+    {
+      "Name": "iOS7LockSound",
+      "Description": "Good old sound!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy(Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c(Icon)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/iOS7LockSound-icon.jpg",
+      "Category": "Sound",
+      "Caption": "iOS7 Lock sound.\na bit buggy so try respring and toggle on&off",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.iOS7LockSound_v0.2.vdf",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.iOS7LockSound_v1.0.misaka",
+          "Description": ".vdf to .misaka"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.iOS7LockSound"
+    },
+    {
+      "Name": "Shut up PayPay",
+      "Description": "PayPayの決済音無効化",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c (Support 3.80.0+)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Shut-up-PayPay-icon.jpg",
+      "Category": "Sound",
+      "Caption": "決済時のﾁｰﾝ!PayPay!を消すよ\nInstall Version 0.3 if you use PayPay -3.79.0",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ShutupPayPay_v0.2.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ShutupPayPay_v0.3.misaka",
+          "Description": "Function fix"
+        },
+        {
+          "Version": "0.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ShutupPayPay_v0.4.misaka",
+          "Description": "Support PayPay 3.80.0+ by fall20c"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.ShutupPayPay"
+    },
+    {
+      "Name": "SOMEBODY TOUCHA MY SPAGHET",
+      "Description": "SOMEBODY TOUCHA MY SPAGHET!!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/SOMEBODY-TOUCHA-MY-SPAGHET-icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/SOMEBODY TOUCHA MY SPAGHET-header.gif",
+      "Category": "Sound",
+      "Caption": "Charge start sound to SOMEBODY TOUCHA MY SPAGHET",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET_v0.2.misaka",
+          "Description": "volume changed"
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET_v0.3.misaka",
+          "Description": "smt changed"
+        },
+        {
+          "Version": "0.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET_v0.4.misaka",
+          "Description": "仕様変更に対応"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.SOMEBODY-TOUCHA-MY-SPAGHET"
+    },
+    {
+      "Name": "DrumKey",
+      "Description": "Drum your Keyboard!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "0u714nd3r2007 (Icon)",
+            "Link": "https://twitter.com/Outland3r2007"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/DrumKey-icon.png",
+      "Category": "Sound",
+      "Caption": "Drummmmmm!!!!!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.DrumKey_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.DrumKey"
+    },
+    {
+      "Name": "yjspLINE",
+      "Description": "やりますねー",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/yjspLINE-icon.jpg",
+      "Category": "Sound",
+      "Caption": "やりますやります",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/yjspLINE-ss0.mov"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.yjspLINE_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.yjspLINE_v0.2.misaka",
+          "Description": "Function fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.yjspLINE"
+    },
+    {
+      "Name": "sansKey",
+      "Description": "*it's ALWAYS funny.",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://cdn.wikiwiki.jp/to/w/chaos-battle/Sans/::ref/Sans.png?rev=c10b14b283ab9c29cd27b81eb2256df8&t=20220203183111",
+      "Category": "Sound",
+      "Caption": "*huh. always wondered why people never use their strongest attack first.",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/sansKey-ss0.mov",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/sansKey-ss1.gif"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.sansKey_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.sansKey_v0.2.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.sansKey_v0.3.misaka",
+          "Description": "仕様変更に対応"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.sansKey"
+    },
+    {
+      "Name": "NoTLSound",
+      "Description": "Disable Twitter Refreshing sound!",
+      "Author": {
+        "Label": "fall20c",
+        "Links": [
+          {
+            "Label": "fall20c",
+            "Link": "https://twitter.com/fall20c"
+          },
+          {
+            "Label": "ChromiumCandy (aac bug fix)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/NoTLSound-icon.png",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/NoTLSound-header.jpg",
+      "Category": "Sound",
+      "Caption": "Disable Twitter Refreshing sound!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.fall20c.NoTLSound_v0.3.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.fall20c.NoTLSound_v0.4.misaka",
+          "Description": "Function fix"
+        }
+      ],
+      "PackageID": "com.fall20c.NoTLSound"
+    },
+    {
+      "Name": "LegacyTwitter",
+      "Description": "Good old refresh sound",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fsll20c (path)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://pbs.twimg.com/media/FrygRT4aIAEB7ET?format=jpg&name=medium",
+      "Category": "Sound",
+      "Caption": "phssss...pop!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.LegacyTwitter_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.LegacyTwitter_v0.2.misaka",
+          "Description": "Function fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.LegacyTwitter"
+    },
+    {
+      "Name": "UNDERESPRING",
+      "Description": "Change respring logo to heart",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/UNDERESPRING-icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/UNDERESPRING-header.jpg",
+      "Category": "Respring Theme",
+      "Caption": "Change respring logo to heart",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/UNDERESPRING-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.UNDERESPRING_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.UNDERESPRING_v1.0.misaka",
+          "Description": "Selectable styles"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.UNDERESPRING_v1.1.misaka",
+          "Description": "update"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.UNDERESPRING_v1.2.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.UNDERESPRING"
+    },
+    {
+      "Name": "MINECRESPRING",
+      "Description": "Change respring logo to a green guy we all know",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/MINECRESPRING-icon.png",
+      "Category": "Respring Theme",
+      "Caption": "Change respring logo to creeper",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.MINECRESPRING_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.MINECRESPRING_v0.2.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.MINECRESPRING"
+    },
+    {
+      "Name": "LegacyLock",
+      "Description": "Good old lock sound!",
+      "Author": {
+        "Label": "しまりん",
+        "Links": [
+          {
+            "Label": "しまりん",
+            "Link": "https://twitter.com/straight_tamago"
+          },
+          {
+            "Label": "ChromiumCandy (Original Project, Settings Style)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/LegacyLock-icon.jpg",
+      "Category": "Sound",
+      "Caption": "Good old lock sound!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/LegacyLock-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.LegacyLock_v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.LegacyLock_v1.1.misaka",
+          "Description": "Settings Style change"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.straight-tamago.LegacyLock_v1.2.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "com.straight-tamago.LegacyLock"
+    },
+    {
+      "Name": "EmojiSwap",
+      "Description": "Custom emoji",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/EmojiSwap-icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/EmojiSwap-header.jpg",
+      "Category": "Emoji",
+      "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/EmojiSwap-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.EmojiSwap_v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/chimaha/misakarepo/releases/download/release/EmojiSwap.misaka",
+          "Description": "Function updated"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.EmojiSwap"
+    },
+    {
+      "Name": "ApplePayPay",
+      "Description": "ペイペイ！をプピーン！に",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy (Main Dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "fall20c (Support 3.80.0+, Icon)",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/ApplePayPay-icon.tif",
+      "Category": "Sound",
+      "Caption": "語彙力\nInstall Version 0.2 if you use PayPay -3.79.0",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ApplePayPay_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ApplePayPay_v0.2.misaka",
+          "Description": "Function fix"
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ApplePayPay_v0.3.misaka",
+          "Description": "Support PayPay 3.80.0+ by fall20c"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.ApplePayPay"
+    },
+    {
+      "Name": "RollyCat",
+      "Description": "Rolly!!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/RollyCat-icon.gif",
+      "Category": "Respring Theme",
+      "Caption": "Respring logo will be Rolling Cat",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.RollingCat_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.RollingCat_v0.2.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.RollingCat"
+    },
+    {
+      "Name": "MobileGestaltRestore",
+      "MinIOSVersion": "114.514",
+      "Description": "Restore your MobileGestaltCache",
+      "Author": {
+        "Label": "fall20c",
+        "Links": [
+          {
+            "Label": "fall20c",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": null,
+      "Category": "Settings",
+      "Caption": "After apply & respring & reboot, you can restore your MobileGestaltCache",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.fall20c.MGCRestore_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "com.fall20c.MGCRestore"
+    },
+    {
+      "Name": "AppleRingsResp",
+      "Description": "ported AppleRingsRespringTheme",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy (.misaka porting)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "ichitaso (Animation)",
+            "Link": "https://twitter.com/ichitaso"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/AppleRingsResp-icon.png",
+      "Category": "Respring Theme",
+      "Caption": "ported AppleRingsRespringTheme by ichitaso.\nAnimation provided by ichitaso♥",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/AppleRingsResp-ss0.mp4",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/AppleRingsResp-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AppleRings_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AppleRings_v0.2.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.AppleRings"
+    },
+    {
+      "Name": "XPing!",
+      "Description": "Discord ping sound to WinXP",
+      "Author": {
+        "Label": "ChromiumCandy & Leminz",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Leminz (BaseProj)",
+            "Link": "https://twitter.com/LeminLimez"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/XPing!-icon.jpg",
+      "Category": "Sound",
+      "Caption": "Discord ping sound to WindowsXP starting sound\nmade based on Sumsung Discord Ping by Leminz",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.XPing_v0.2.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.XPing"
+    },
+    {
+      "Name": "ARIA Pass",
+      "Description": "IA & ONE on Passcode!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "34306 (Base Project)",
+            "Link": "https://twitter.com/Little_34306"
+          },
+          {
+            "Label": "しまりん (Bug fix)",
+            "Link": "https://twitter.com/straight-tamago"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/ARIA-Pass-icon.png",
+      "HeaderImage": "https://1stplace.co.jp/wp/wp-content/uploads/2023/02/IA-with_ARIAMARK.jpg",
+      "Category": "Passcode",
+      "Caption": "IA & ONE on Passcode!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/ARIA-Pass-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ARIAPass_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.ARIAPass_v1.0.misaka",
+          "Description": "Add Misaka_Resize, Reduce File size"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.ARIAPass"
+    },
+    {
+      "Name": "Respple",
+      "MinIOSVersion": "15.0",
+      "Description": "Apple respring logo",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Respple-icon.gif",
+      "Category": "Respring Theme",
+      "Caption": "Apple respring logo\nSelectable sizes",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple_v0.3.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Respple"
+    },
+    {
+      "Name": "GenshinCC",
+      "Description": "CC icons are Genshin elements",
+      "Author": {
+        "Label": "34306",
+        "Links": [
+          {
+            "Label": "34306",
+            "Link": "https://twitter.com/Little_34306"
+          },
+          {
+            "Label": "ChromiumCandy (.misaka porting)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/GenshinCC-icon.png",
+      "Category": "Control Center",
+      "Caption": "CC icons are Genshin elements",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/GenshinCC-ss0.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.34306.GenshinCC_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.34306.GenshinCC_v0.2.misaka",
+          "Description": "Function updated by Kumiki"
+        }
+      ],
+      "PackageID": "com.34306.GenshinCC"
+    },
+    {
+      "Name": "Respple2",
+      "MinIOSVersion": "15.0",
+      "Description": "Apple respring logo",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Respple2-icon.gif",
+      "Category": "Respring Theme",
+      "Caption": "Apple respring logo\nSelectable styles",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Respple2-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple2_v1.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple2_v1.2.misaka",
+          "Description": "Function updated by Kumiki"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple2_v2.0.misaka",
+          "Description": "Added Cowabunga style"
+        },
+        {
+          "Version": "2.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple2_v2.1.misaka",
+          "Description": "Size fix"
+        },
+        {
+          "Version": "2.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Respple2_v2.2.misaka",
+          "Description": "Tweak Setting bug fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Respple2"
+    },
+    {
+      "Name": "MuteModule",
+      "Description": "Add MuteModule to CC",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "Kumiki (Function optimization)",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/MuteModule-icon.tif",
+      "Category": "Control Center",
+      "Caption": "You can switch Silent Mode without touching physical silent switch",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/MuteModule-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.MuteModule_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.MuteModule"
+    },
+    {
+      "Name": "Atsumori",
+      "Description": "Change SOLD Label to 熱盛!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "fall20c & mo.",
+        "Links": [
+          {
+            "Label": "fall20c (Base Project)",
+            "Link": "https://twitter.com/fall20c"
+          },
+          {
+            "Label": "mo. (SpringLang Issue Fix, Support Custom Text, Icon)",
+            "Link": "https://twitter.com/mo__dev"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Atsumori-icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Atsumori-header.gif",
+      "Category": "App Custom",
+      "Caption": "失礼いたしました熱盛と出てしまいました",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Atsumori-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.fall20c.Atsumori_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.fall20c.Atsumori"
+    },
+    {
+      "Name": "TrolliMessage",
+      "Description": "Troll your iMessage effects!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": null,
+      "Category": null,
+      "Caption": "",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.TrolliMsg_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.TrolliMsg"
+    },
+    {
+      "Name": "Spoofy",
+      "MinIOSVersion": "16.0",
+      "Description": "Spoof your Device Info",
+      "Author": {
+        "Label": "fall20c",
+        "Links": [
+          {
+            "Label": "fall20c (Integration, DeviceSpoofer, ResChanager)",
+            "Link": "https://twitter.com/fall20c"
+          },
+          {
+            "Label": "nbxy (RegionSwap)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "yyyywaiwai (RegionSwap)",
+            "Link": "https://twitter.com/yyyyyy_public"
+          },
+          {
+            "Label": "LeminLimez (DeviceSpoofer Path)",
+            "Link": "https://github.com/leminlimez"
+          },
+          {
+            "Label": "しまりん (Icon)",
+            "Link": "https://twitter.com/straight_tamago"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Spoofy-icon.jpg",
+      "Category": "SpringBoard",
+      "Caption": "Spoof your Model Name, Region and Resolution as you like",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Spoofy-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.fall20c.Spoofy_v0.1.misaka",
+          "Description": null
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.fall20c.Spoofy_v0.2.misaka",
+          "Description": "Add Toggles"
+        }
+      ],
+      "PackageID": "jp.fall20c.Spoofy"
+    },
+    {
+      "Name": "VersionSpoofer",
+      "MinIOSVersion": "99.9",
+      "Description": "Spoof your Device Vesion",
+      "Author": {
+        "Label": "fall20c",
+        "Links": [
+          {
+            "Label": "fall20c",
+            "Link": "https://twitter.com/fall20c"
+          }
+        ]
+      },
+      "Icon": null,
+      "Category": "Settings",
+      "Caption": "Spoof your Device Version (Build Version is NOT spoofed because it can cause bootloop)",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/VersionSpoofer-ss0.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.fall20c.VersionSpoofer_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.fall20c.VersionSpoofer"
+    },
+    {
+      "Name": "AlwaysVPN",
+      "Description": "VPN is always on!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/AlwaysVPN-icon.png",
+      "Category": null,
+      "Caption": "Every time I lock my phone, VPN is disabled.\nApple sucks!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AlwaysVPN_v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AlwaysVPN_v2.0.misaka",
+          "Description": "plist overwrite bug fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.AlwaysVPN"
+    },
+    {
+      "Name": "Checlock",
+      "Description": "Checkra1n on clock icon!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "34306",
+        "Links": [
+          {
+            "Label": "34306",
+            "Link": "https://twitter.com/Little_34306"
+          },
+          {
+            "Label": "ChromiumCandy (.misaka porting)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://pbs.twimg.com/media/FtRTiBFaUAEFMGF?format=jpg",
+      "Category": "Clock",
+      "Caption": "Checkra1n on clock icon!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/com.34306.Checlock_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "com.34306.Checlock"
+    },
+    {
+      "Name": "AP-WP",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Description": "Change the WP by appearance!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/AP-WP-icon.jpg",
+      "Category": null,
+      "Caption": "Change the WP by appearance!\nStill beta and only tested on iPhone13\nContact me and be a tester!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/AP-WP-ss0.mov"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AP-WP_v0.1.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.AP-WP"
+    },
+    {
+      "Name": "Anti F OTA",
+      "Description": "Disable OTA update!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti-F-OTA-icon.jpg",
+      "Category": null,
+      "Caption": "Setup\n\n1. Turn on “Step1” toggle in Tweak Settings\n2. Enable the tweak\n3. Install tvOS16 beta profile via settings app\n4. Go back to misaka and Turn off “Step1” and turn on “Step2”\n5.Enable the Tweak again\n6. Done!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti-F-OTA-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Anti-F-OTA-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Anti-F-OTA_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
+    },
+    {
+      "Name": "Anti OTA Ⓐ",
+      "Description": "Disable OTA update!",
+      "MinIOSVersion": "18.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Anti-OTA-Ⓐ-icon.jpg",
+      "Category": null,
+      "Caption": "Disable OTA update!\nIf this doesnt work, use Anti F OTA",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Anti-OTA-A_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
+    },
+    {
+      "Name": "Animatica",
+      "Description": "Change CC animation speed!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Animatica-icon.png",
+      "Category": null,
+      "Caption": "Change CC animation speed!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0 beta",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Animatica_v1.0 beta.misaka",
+          "Description": "pre-release"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Animatica"
+    },
+    {
+      "Name": "misakaBG",
+      "Description": "Change misaka BG animation!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/misakaBG-icon.png",
+      "Category": null,
+      "Caption": "Change misaka BG animation!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.misakaBG_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.misakaBG"
+    },
+    {
+      "Name": "Too Many Modules",
+      "Description": "Add hidden modules!!",
+      "Author": {
+        "Label": "mo",
+        "Links": [
+          {
+            "Label": "mo",
+            "Link": "https://twitter.com/mo__dev"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Too-Many-Modules-icon.jpg",
+      "Category": "Control Center",
+      "Caption": "Add hidden modules on screenshot\n -FaceTime Modules\n -Mute Module\n -Spoken Notification Module\n -System Trace Module",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Too-Many-Modules-ss0.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.mo.tooManyModules_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.mo.tooManyModules"
+    },
+    {
+      "Name": "AdguardDNS",
+      "Description": "Adds Adguard DNS Profile!!",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/AdguardDNS-icon.jpg",
+      "Category": "Profile",
+      "Caption": "Adds Adguard Defaut DNS (doh) and block annoying ADs!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/AdguardDNS-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/AdguardDNS-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.AdguardDNSdoh_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.AdguardDNSdoh"
+    },
+    {
+      "Name": "SpeedUnlock",
+      "Description": "Unlock ur device immidiately after Respring!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/SpeedUnlock-icon.png",
+      "Category": "SpringBoard",
+      "Caption": "Unlock ur device immidiately after Respring!",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.SpeedUnlock_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.SpeedUnlock"
+    },
+    {
+      "Name": "HideOldNotifications Fix",
+      "Description": "Fix for iOS15 & more feature!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.9",
+      "Author": {
+        "Label": "uz.ra & YangJiii",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "YangJiii (original project)",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/HideOldNotifications-Fix-icon.png",
+      "Category": "LockScreen",
+      "Caption": "Hide Old notifications text\nFix for iOS15 and custom text feature",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications-Fix-ss0.png",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/HideOldNotifications-Fix-ss1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.HideOldNotificationFix_v1.0.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.HideOldNotificationFix"
+    },
+    {
+      "Name": "Canvas",
+      "Description": "Enable Dynamic Island & iPhone X gesture!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "17.0",
+      "compatibleExploit": ["MDC", "KFD","TrollStore"],
+      "Author": {
+        "Label": "ChromiumCandy",
+        "Links": [
+          {
+            "Label": "ChromiumCandy",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Canvas-icon.png",
+      "Category": "SpringBoard",
+      "Caption": "Change resolution and Enable or Disable Dynamic Island!\nYou can also Enable iPhoneX gesture on iPhoneSE and other type of iPhones!\n\nScreenshots by @purindayo2525 & @lx4tvnelxo",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss0.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss1.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss2.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss3.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss4.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Canvas-ss5.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.1.misaka",
+          "Description": "added iPhone 12 mini resolution. tysm 34306!"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.2.misaka",
+          "Description": "added iPhone 13 Pro Max resolution and more!\nAlso added AssistiveTouch option, and fixed padding error bug."
+        },
+        {
+          "Version": "1.3",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.3.misaka",
+          "Description": "added iPhone SE (Gen1) resolution"
+        },
+        {
+          "Version": "1.4",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.4.misaka",
+          "Description": "avoid bplist padding error"
+        },
+        {
+          "Version": "1.5",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.5.misaka",
+          "Description": "Added Xs Max resolution. tysm tabemaru!"
+        },
+        {
+          "Version": "1.6",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Canvas_v1.6.misaka",
+          "Description": "Fixed a bug that correct file wont apply"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Canvas"
+    },
+    {
+      "Name": "Superevise",
+      "Description": "Revised SupervisedMode!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.9",
+      "Author": {
+        "Label": "uz.ra",
+        "Links": [
+          {
+            "Label": "uz.ra (main dev)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          },
+          {
+            "Label": "LeminLimez (Avoid BootLoop method)",
+            "Link": "https://twitter.com/leminlimez"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Superevise-icon.png",
+      "Category": "Settings",
+      "Caption": "Features\n\n・Enable/Disable SupervisedMode.\n\n・Hide \"Your divice is supervised by...\" text on Settings app.\n\nSince there be not a feature to overwrite /var/ on kfd yet, Enable/Disable SuperviseMode feature only works on mdc!\n\nScreenshots by @lx4tvnelxo",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Superevise-ss0.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Superevise-ss1.jpg",
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/TweakImages/Superevise-ss2.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Superevise_v1.0.misaka",
+          "Description": "Initial release"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/jp.ChromiumCandy.Superevise_v1.1.misaka",
+          "Description": "Fixed incomplete file error on kfd device"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Superevise"
+    },
+    {
+      "Name": "Dentac",
+      "Description": "Enable calculator CC module on iPad!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.9",
+      "Author": {
+        "Label": "uz.ra",
+        "Links": [
+          {
+            "Label": "uz.ra",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/Dentac-icon.png",
+      "Category": "ControlCenter",
+      "Caption": "Features\n\n・Enable Calculator CCmodule on iPad (mdc only)\n\n・Open any apps via calculator module (also available on iPhone with both kfd and mdc).",
+      "Screenshot": [
+        "https://video.twimg.com/ext_tw_video/1728437706097848320/pu/vid/avc1/720x960/4seWom_EeUTh_NyB.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/Dentac_v1.misaka",
+          "Description": "Initial release"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/hanabiADHD/nbxyRepo/raw/main/Packages/Dentac_v1.1.misaka",
+          "Description": "Shit fix"
+        }
+      ],
+      "PackageID": "jp.ChromiumCandy.Dentac"
+    }
+  ]
+}

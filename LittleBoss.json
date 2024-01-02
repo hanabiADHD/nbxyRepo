@@ -1,0 +1,36 @@
+{
+    "RepositoryName": "TinyBoss",
+    "RepositoryDescription": "Repo for everyone",
+    "RepositoryAuthor": "nbxy",
+    "RepositoryIcon": "https://cdn.discordapp.com/attachments/1088417197455589446/1088785730765074432/misaka.png",
+    "RepositoryWebsite": null,
+    "DefaultHeaderImage": "https://cdn.discordapp.com/emojis/878283921874382859.gif",
+    "RepositoryContents": [
+	
+	{
+          "Name": "noot noot",
+          "Description": "test",
+          "Author": {
+              "Label": "nbxy",
+              "Links": [
+                  {
+                      "Label": "nbxy",
+                      "Link": "https://twitter.com/ChromiumCandy"
+                  }
+              ]
+          },
+          "Icon": "https://cdn.discordapp.com/attachments/1088417197455589446/1088840927650521088/UnknownPackage.png",
+          "Category": null,
+          "Caption": "hoge",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": null,
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.noot.noot"
+      }
+	     ]
+}
