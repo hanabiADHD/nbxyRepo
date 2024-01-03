@@ -13,7 +13,7 @@
           "Name": "SamsungUI Emoji's",
           "Description": "Get Samsung Emoji's",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "See More",
               "Links": [
@@ -43,7 +43,7 @@
           "Name": "Facebook Emoji's",
           "Description": "Get Facebook Emoji's",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "See More",
               "Links": [
@@ -73,7 +73,7 @@
           "Name": "SnakeLegalNotice",
           "Description": "Get Snake back to your device like an Nokia phone",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "Sean Boleslawski",
               "Links": [
@@ -100,7 +100,7 @@
           "Name": "Windows 11 Emojis",
           "Description": "Get Windows 11 Emoji's",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "See More",
               "Links": [
@@ -130,7 +130,7 @@
           "Name": "EpicDynamicness",
           "Description": "Change the dynamic wallpaper for iPhone 7/X/11/13 Pro",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -157,7 +157,7 @@
           "Name": "SettingsCustomizer",
           "Description": "Customize your Settings",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "Sean Boleslawski",
               "Links": [
@@ -255,7 +255,7 @@
           "Name": "Exodar",
           "Description": "Brings back Exodar clock font",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "YangJiii",
               "Links": [
@@ -282,7 +282,7 @@
           "Name": "Constance",
           "Description": "Brings back Constance clock font",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "YangJiii",
               "Links": [
@@ -309,7 +309,7 @@
           "Name": "Lineat",
           "Description": "Brings back Lineat clock font",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "YangJiii",
               "Links": [
@@ -336,7 +336,7 @@
           "Name": "FlappyLegalNotice",
           "Description": "Bring FlappyBirds to your Settings",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -368,7 +368,7 @@
           "Name": "Dog",
           "Description": "Brings back Dog clock font",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "YangJiii",
               "Links": [
@@ -422,7 +422,7 @@
  "Name": "iPhone 14 Pro",
           "Description": "model name",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "L95vz",
               "Links": [
@@ -449,7 +449,7 @@
  "Name": "Masked Face ID",
           "Description": "Cowabunga Lock icon",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -476,7 +476,7 @@
  "Name": "5GEnabler",
           "Description": "enable 5g on older devices cosmetical",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -503,7 +503,7 @@
  "Name": "EmojiCategoryChanger",
           "Description": "customise the names of your EmojiCategorys",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -530,7 +530,7 @@
  "Name": "PassChanger",
           "Description": "CustomiseThe PassText",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -557,7 +557,7 @@
  "Name": "Toss Face Emoji's",
           "Description": "Get Toss Face Emojis",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "See More",
               "Links": [
@@ -586,7 +586,7 @@
  "Name": "MuteMSGChanger",
           "Description": "Change MuteMSGMessage",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -612,7 +612,7 @@
  "Name": "LSBatteryMSGChanger",
           "Description": "Change Lockscreen Battery Message",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -638,7 +638,7 @@
  "Name": "CustomConnectivityLabels",
           "Description": "Change name of things in connectivity module",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -664,7 +664,7 @@
  "Name": "SliderChanger",
           "Description": "Change name of things in Slieder module",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -690,7 +690,7 @@
  "Name": "Whatsapp Emoji's",
           "Description": "Get Whatsapp Emoji's",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -716,7 +716,7 @@
  "Name": "MusicModuleChanger",
           "Description": "change stuff",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
@@ -742,7 +742,7 @@
  "Name": "SettingsCustomizerPro",
           "Description": "Customize your Settings like a PRO",
           "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"15.7.1",
+          "MaxIOSVersion":"16.6.1",
           "Author": {
               "Label": "DekotasTM",
               "Links": [
