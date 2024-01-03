@@ -23,14 +23,7 @@
       "Name": "TrollBalloon",
       "Description": "Change iMessage Balloon effects into TrollFace",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -65,14 +58,7 @@
       "Name": "TrollLazer",
       "Description": "Troll your iMessage effects!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -106,14 +92,7 @@
       "Name": "TrollSpotlight",
       "Description": "Trolly Trolly Trolly",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -152,7 +131,7 @@
       "Name": "GonnaKillYaWebContentFilter",
       "Description": "Kill ur fucking web filter",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -254,14 +233,7 @@
       "Name": "14DND",
       "Description": "iOS14 style DND module on CC",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "Kumiki, ChromiumCandy & fall20c",
         "Links": [
@@ -330,14 +302,7 @@
       "Name": "7G",
       "Description": "Change 5G to 7G and others!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy, fall20c & Kumiki",
         "Links": [
@@ -409,14 +374,7 @@
       "Name": "PixelShutter",
       "Description": "Change camera shutter to Pixel's",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -448,14 +406,7 @@
       "Name": "NoCameraSound",
       "Description": "Bye bye noisy shutter sound",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "しまりん & ChromiumCandy",
         "Links": [
@@ -590,14 +541,7 @@
       "Name": "NoSettingsIcon",
       "Description": "Hide setting icons",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -638,14 +582,7 @@
       "Name": "Clearity",
       "Description": "Clearify ur SpringBoard!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -1694,7 +1631,7 @@
       "Name": "Atsumori",
       "Description": "Change SOLD Label to 熱盛!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "fall20c & mo.",
         "Links": [
@@ -1860,14 +1797,7 @@
       "Name": "Checlock",
       "Description": "Checkra1n on clock icon!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "34306",
         "Links": [
@@ -1927,7 +1857,7 @@
       "Name": "Anti F OTA",
       "Description": "Disable OTA update!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -1957,7 +1887,7 @@
       "Name": "Anti OTA Ⓐ",
       "Description": "Disable OTA update!",
       "MinIOSVersion": "18.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -2089,7 +2019,7 @@
       "Name": "SpeedUnlock",
       "Description": "Unlock ur device immidiately after Respring!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "ChromiumCandy",
         "Links": [
@@ -2116,7 +2046,7 @@
       "Name": "HideOldNotifications Fix",
       "Description": "Fix for iOS15 & more feature!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.9",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "uz.ra & YangJiii",
         "Links": [
@@ -2215,7 +2145,7 @@
       "Name": "Superevise",
       "Description": "Revised SupervisedMode!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.9",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "uz.ra",
         "Links": [
@@ -2255,7 +2185,7 @@
       "Name": "Dentac",
       "Description": "Enable calculator CC module on iPad!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.9",
+      "MaxIOSVersion": "16.7",
       "Author": {
         "Label": "uz.ra",
         "Links": [
